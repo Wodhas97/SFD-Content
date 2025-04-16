@@ -1,0 +1,1568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Texts name="Español" originalGuid="bc66d020-1d53-4f95-a939-4ac69167ec74" lastSaveGuid="af36eaed-a334-4354-9ac2-443bd06f3f07" publishId="1703627955" oh="" description="Este es el paquete de idioma de Español (Latino América). Solo ha sido traducido el juego, no incluye el texto traducido del editor de mapas ni el software para crear servidores (tal vez en algún otro momento lo haga). He tratado de hacer la traducción lo más limpia, apegada y entendible posible al texto en inglés. Pido de favor que si encuentran algún error me lo notifiquen para arreglarlo lo antes posible y actualizar.
+
+(PD: Hice esto en la madrugada, las chances de error son altas xD).">
+   <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Crear Partida</Text>
+   <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Buscar Partidas</Text>
+   <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Conectar a IP</Text>
+   <Text id="button.tutorial" hash="JwGpTA61XL2Vioff8+lZZz/xv1M=">Tutorial</Text>
+   <Text id="button.mapEditor" hash="Yw6WzAnMdpZFHFWLiomR9L9El8I=">Editor de Mapas</Text>
+   <Text id="button.exit" hash="+Dtv466/E3ROhmAZVW2RKc16Vb4=">Salir</Text>
+   <Text id="button.settings" hash="x/c7tU2SiSLDg4u3ie6fuKWx6zc=">Ajustes</Text>
+   <Text id="button.ok" hash="nOO9QiTIwXgNtWtBJezz8kv3SLc=">Aceptar</Text>
+   <Text id="button.done" hash="6bRQ0UvCNj0pLITxfPrVz71YpFg=">Hecho</Text>
+   <Text id="button.delete" hash="9v2+SNxU3Yb2MJegO9JAlN7dcTo=">Borrar</Text>
+   <Text id="button.edit" hash="UwFkjc9rU878ntUpmaqpLUYDyuA=">Editar</Text>
+   <Text id="button.create" hash="bhV8XaRBC36d6F9ckwJrkXbmkGQ=">Crear</Text>
+   <Text id="button.cancel" hash="d9/SE19NtybEcpm7Vb4m9/RSWkY=">Cancelar</Text>
+   <Text id="button.upload" hash="i98Ff5HnauMosqIdNfaC2qCKDsA=">Subir</Text>
+   <Text id="button.selectFile" hash="XAyH/0JC5FCI2Pa8fWgROGCA7NE=">Seleccionar Archivo</Text>
+   <Text id="button.back" hash="tSs2tyafv8WOwku3JGkZUaPey+g=">Atrás</Text>
+   <Text id="button.save" hash="78AHo5P2bNsU1X04WCKj2eNu+HM=">Guardar</Text>
+   <Text id="button.saveAs" hash="rjoSLRNlnUAfkjfx6j8Mjb0dPaw=">Guardar Como</Text>
+   <Text id="button.browse" hash="LztcVbwnzfga9X5qV0tU7lC3skY=">Buscar</Text>
+   <Text id="button.load" hash="3ct3/3aepUymIoSPa+3UAE+k9Po=">Cargar</Text>
+   <Text id="button.clear" hash="cZ6jlq2S4BtHV+wrk7seXycPdx0=">Limpiar</Text>
+   <Text id="button.close" hash="u/p3PlpjpepYybYgfmCMoBIOWSo=">Cerrar</Text>
+   <Text id="button.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Abrir</Text>
+   <Text id="button.randomize" hash="fkKabFScZ9mZ9musfStZsG95gd8=">Aleatorizar</Text>
+   <Text id="button.connect" hash="tlRjy2pCoX3lFKzEZZ9/0zHgh2o=">Conectar</Text>
+   <Text id="button.edit" hash="UwFkjc9rU878ntUpmaqpLUYDyuA=">Editar</Text>
+   <Text id="button.refresh" hash="VuO63E5sXMleDqWpqHi5vQnzGdQ=">Refrescar</Text>
+   <Text id="button.resume" hash="s70LWnBJe+xKArfrHLDU8363Gio=">Reanudar</Text>
+   <Text id="button.gameInfo" hash="D4oRrHH1xpU3jVQGAxk7oMkrmZM=">Información del Juego</Text>
+   <Text id="button.voteToContinue" hash="QJDDuA1YfTisLo8ZJYw/uBML5WQ=">Votar para Continuar</Text>
+   <Text id="button.vote" hash="ygDOtQ3PDgLXA4BSaPnA8w2GJHw=">Voto: {0}</Text>
+   <Text id="button.mapVote" hash="2RcdheBOQLj7XJhjZ5DgOQ/SBWM=">Voto de mapa: {0}</Text>
+   <Text id="gui.player.energy" hash="s+tgZbKR8zt/HnSfrJkOShdGuYg=">ENERGÍA</Text>
+   <Text id="gui.player.life" hash="E6C3LOTWJt1BruCA3UmG+GnqkR0=">VIDA</Text>
+   <Text id="menu.scoreboard.heading.mode" hash="3sUiJ5OXLNlhrYUxT+TjuO0lmhw=">MODO DE JUEGO: {0}</Text>
+   <Text id="menu.scoreboard.heading.mode.survival.wave" hash="8ACupiIadkwbjY0KeBIENpwi9hI=">Oleada: {0}</Text>
+   <Text id="menu.scoreboard.heading.mode.survival.totalScore" hash="O1nHllkfH+blE+61GSPqe4/13oE=">Puntuación Total: {0}</Text>
+   <Text id="menu.scoreboard.heading.nowPlaying" hash="xB6Lqy2M1UmNzEavUnuUwfpLPyw=">MAPA: {0} ({1})</Text>
+   <Text id="menu.scoreboard.customMap" hash="L9W/VunakSYqeHKxgSk72KyNMoU=">Mapa Personalizado</Text>
+   <Text id="menu.scoreboard.officialMap" hash="N2NWTUHEF1zjJPt1E7EVPbyXBiE=">Mapa Oficial</Text>
+   <Text id="menu.scoreboard.mapRotation.nextRound" hash="viRchGeKPR3cEPt2WT/RspEYf/M=">Cambio de mapa en la siguiente ronda.</Text>
+   <Text id="menu.scoreboard.mapRotation.inXRounds" hash="PciA04kUBNDmKvpHVcYNpzamGjU=">Cambiando mapa en {0} roundas.</Text>
+   <Text id="menu.scoreboard.mapRotation.singular" hash="9/HVm97bnv8yEPZgQdJ+xKdXa+M=">Rotación: {0}, {1} ronda.</Text>
+   <Text id="menu.scoreboard.mapRotation.plural" hash="ngmV+gl9iWO01N9L/rcamFcKcew=">Rotación: {0}, {1} rondas.</Text>
+   <Text id="menu.scoreboard.header.status" hash="uufVvnCCDtVkZ72aY3ROI7R71xE=">Estado</Text>
+   <Text id="menu.scoreboard.header.team" hash="IYiHJprVlG2dxTI4ZRyQRyiE+w8=">Equipo</Text>
+   <Text id="menu.scoreboard.header.ping" hash="a2jpeXOZQRbYN9TedPKdd/iVwJc=">Latencia</Text>
+   <Text id="menu.scoreboard.header.wins" hash="tsAV0S4bWb14+yRpheN3MOOFIfg=">Victorias</Text>
+   <Text id="menu.scoreboard.header.losses" hash="D5pITxOIheZUs6qu3Tkh5cjd4vo=">Derrotas</Text>
+   <Text id="menu.scoreboard.totalgames" hash="iOQX9f/T2+EqdnBAEWdCKuS22lI=">Partidas totales</Text>
+   <Text id="menu.scoreboard.totalwins" hash="tsAV0S4bWb14+yRpheN3MOOFIfg=">Victorias</Text>
+   <Text id="menu.scoreboard.totallosses" hash="D5pITxOIheZUs6qu3Tkh5cjd4vo=">Derrotas</Text>
+   <Text id="menu.scoreboard.winratio" hash="6V3Dpli9f+bSvMhkZr1x9gO4aOk=">Proporción de victorias</Text>
+   <Text id="menu.scoreboard.accountName" hash="hd+jLJfYYY0b6gg2CeLIophFq+U=">Cuenta</Text>
+   <Text id="menu.scoreboard.accountSecondPlayer" hash="DKpVXqfxPo/rPBLR6ZuGgRTOfiI=">Segundo jugador</Text>
+   <Text id="menu.serverInfo" hash="YYu0uc80IwkOhbFN/qXSy8Q2pUc=">INFORMACIÓN DEL SERVIDOR</Text>
+   <Text id="menu.selectFighter" hash="wCdydSA8o1HhX1/QxLj5eSVAn5g=">SELECCIONAR LUCHADOR</Text>
+   <Text id="menu.profilePanel.confirmDelete" hash="TJLRU5+CgaQGpVcMJ2xBWldaQ7E=">¿Borrar {0}?</Text>
+   <Text id="menu.settings" hash="xLkkMnIGiK8+wUa0TMJyl5i95Ps=">AJUSTES</Text>
+   <Text id="menu.settings.keyBindings" hash="/bEdVkf8Sh+9U5J7XB4rC7D8kpY=">ASIGNACIONES DE TECLAS</Text>
+   <Text id="menu.settings.keyBindings.tooltip" hash="u01YOopeJtthwtsEc3CPjvVAknc=">Personaliza tus controles.</Text>
+   <Text id="menu.settings.resolution" hash="Y34xM+quu9YACAngfRl/6+ySXEk=">RESOLUCIÓN</Text>
+   <Text id="menu.settings.hostPort" hash="EkplxLaSGOGcPDp5ZNl3Xcaxjj0=">PUERTO</Text>
+   <Text id="menu.settings.hostPort.tooltip" hash="3FbkLCyOD3E2E7U6FQNTu21MQcg=">Puerto a usar cuando se aloja o se une a un juego. Ambos UDP/TCP deben estar redireccionados. Se recomienda dejar el puerto por defecto 52233 sin cambios.</Text>
+   <Text id="menu.settings.fullscreen" hash="PG6sPYC77N57INPHDu4ygTnMqEM=">PANTALLA</Text>
+   <Text id="menu.settings.fullscreen.exclusive" hash="uwjRCwCmEU9TrAO2Ys1cD6L63yw=">Pantalla completa</Text>
+   <Text id="menu.settings.fullscreen.borderless" hash="Fd9O4cYPFxSrB+XF8rS9ANJmBCI=">Ventana (Sin bordes)</Text>
+   <Text id="menu.settings.fullscreen.window" hash="Qd/ApsknB5SFeIkcUdmMZEO+Y8w=">Ventana</Text>
+   <Text id="menu.settings.enableWeather" hash="5l7I8a07bD00xROZOydYBx8jyaA=">ACTIVAR CLIMA</Text>
+   <Text id="menu.settings.enableFarBG" hash="gGuBMrvXkDOrqW3JLOnbYF8BbMw=">ACTIVAR FONDOS DISTANTES</Text>
+   <Text id="menu.settings.teamDisplayMode" hash="1fsL/krsJ8H40UuCXvyz66rh/uE=">MODO DE DESPLIEGUE DE EQUIPOS</Text>
+   <Text id="menu.settings.teamDisplayMode.teamColors" hash="niokS/gCV49edHXXD1flawAy0kE=">Colores de equipo (azul, rojo, verde, amarillo, blanco)</Text>
+   <Text id="menu.settings.teamDisplayMode.greenRed" hash="uhIPzAIXZCXNsDZjIYrwV4Uyvzs=">Aliados en verde, enemigos en rojo</Text>
+   <Text id="menu.settings.teamDisplayMode.blueRed" hash="f3oOEiiS+lxRRoUE2etw1N8E930=">Aliados en azul, enemigos en rojo</Text>
+   <Text id="menu.settings.teamDisplayMode.tooltip" hash="cJi+RTNq++RZEcl7xIK10YmIrdw=">Cambia los colores de los nombres de los personajes para distinguir aliados de enemigos.</Text>
+   <Text id="menu.settings.effectLevel" hash="d5lr+JcPQ0XCTMEi/1W5Z04RDNU=">NIVEL DE EFECTOS</Text>
+   <Text id="menu.settings.effectLevel.tooltip" hash="rWstscr/jgOB1/ac2EJrZ2aJHqQ=">Ajusta la cantidad de partículas que aparecen de ciertos efectos como el fuego o el humo.</Text>
+   <Text id="menu.settings.effectLevel.low" hash="oSSUfL0tHZK0fgJydMMmn/DHqEs=">Bajo</Text>
+   <Text id="menu.settings.effectLevel.normal" hash="ReEY0FY+qFgfgw9G6FtgrnFPquQ=">Normal</Text>
+   <Text id="menu.settings.enableVSYNC" hash="n2kdumFe8F1Itz/4mFza2UZkCVU=">SINCRONIZACIÓN VERTICAL</Text>
+   <Text id="menu.settings.enableVSYNC.tooltip" hash="l5+beUqxshyc+w4Mtzde5LvijPU=">Sincroniza la velocidad a la que se generan los gráficos con el refresco del monitor. (Puede solucionar problemas de sobrecalentamiento si los FPS son muy elevados.)</Text>
+   <Text id="menu.settings.startcamera" hash="YTfMgTCSQROf9Tma5GtsLrSppQo=">CÁMARA INICIAL</Text>
+   <Text id="menu.settings.startcamera.tooltip" hash="itYA8rI7gIXesvQqJHi+41KbDvI=">Cámara por defecto para ser usada en el juego.</Text>
+   <Text id="menu.settings.startcamera.dynamic" hash="zrc536qIORai89tqqhIrznAAa1M=">Dinámica</Text>
+   <Text id="menu.settings.startcamera.static" hash="r5KWmnPWR4/LgCwadrla9NHMUzw=">Estática</Text>
+   <Text id="menu.settings.automaticPortForwarding" hash="NT207Z5HfNwyf7Wf6vUWnuzrvJ4=">REDIRECCIONAMIENTO DE PUERTOS</Text>
+   <Text id="menu.settings.automaticPortForwarding.automatic" hash="FjvX2DewzaPBozp8txz65gssSBc=">Automático (UPnP)</Text>
+   <Text id="menu.settings.automaticPortForwarding.manual" hash="ToNv3CVyqyPV3Iw2vWE6xrD4LWM=">Manual</Text>
+   <Text id="menu.settings.automaticPortForwarding.tooltip" hash="mNxEpC+kRGyPCD9BOkUQqKJIh1k=">Automático (UPnP) intentará abrir el puerto requerido al alojar o unirse a un juego si está usando un enrutador NAT que usa UPnP. Esto requiere que UPnP esté habilitado en el enrutador NAT y que el puerto no se reenvíe manualmente. Si UPnP no está habilitado, el reenvío automático de puertos fallará y debe configurar el reenvío de puertos manualmente en su enrutador específico. Si configura manualmente el reenvío de puertos, configure esta opción en manual.</Text>
+   <Text id="menu.settings.soundVolume" hash="wASFNdJOTbxwBKhmI0k54qLSYqc=">VOLUMEN DE SONIDOS</Text>
+   <Text id="menu.settings.musicVolume" hash="sEpfyemObZs6PFO6CLOy0myAiP8=">VOLUMEN DE MÚSICA</Text>
+   <Text id="menu.settings.ambientVolume" hash="3HgOnf7aVu7bstcobprW1HwqEnk=">VOLUMEN DE AMBIENTE</Text>
+   <Text id="menu.settings.selectedlanguage" hash="5wVbXry9hjtv0z10wJhPF/A7Ypc=">SELECCIONAR IDIOMA</Text>
+   <Text id="menu.settings.selectedlanguage.tooltip" hash="vVB0AFKG8RB30ImlaiU0UUpTRrw=">Selecciona el idioma para ser usado en el juego. Requiere archivos personalizados de idioma de Superfighters Deluxe Language Tool.</Text>
+   <Text id="menu.settings.restartrequiredmessage" hash="3lR87AkOAhChKKUTjFiOwrpJaB4=">Se requiere reiniciar para que ciertos ajustes tengan efecto.</Text>
+   <Text id="menu.settings.group.graphics" hash="qyVcJ67I37fL40e6viXWjOwc56Y=">Gráficos</Text>
+   <Text id="menu.settings.group.sound" hash="tOPv66EOhPcUjan37+heBwV9fHo=">Sonido</Text>
+   <Text id="menu.settings.group.network" hash="U+vFcrSkSAK6EUcp8Hvar1QJqdc=">Red</Text>
+   <Text id="menu.settings.group.controls" hash="vudcp391PkhGtFVEFzP2ZBxL8oc=">Controles</Text>
+   <Text id="menu.settings.group.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Miscelaneo</Text>
+   <Text id="menu.settings.confirmcancel" hash="9GWwXkvdaOp9si/uTn8m8xpLK/w=">¿Seguro que quieres descartar los cambios?</Text>
+   <Text id="menu.customize" hash="epaOQIELmFJxfl4BRM6yQKQHpPA=">PERSONALIZAR LUCHADOR</Text>
+   <Text id="menu.customize.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">NOMBRE</Text>
+   <Text id="menu.customize.profileSaved" hash="q1yu+kjW4842JnbJ6AzRGbbFaec=">¡Perfil Guardado!</Text>
+   <Text id="menu.connectToIP" hash="phuk9cBdf0EGwTW6SBpU3ab5GQU=">CONECTAR A LA IP</Text>
+   <Text id="menu.connecting" hash="SLmY6JtdrZj6CbelfIyE8oN8Yy0=">CONECTANDO</Text>
+   <Text id="menu.connectingToIP" hash="Uz3fUTrR2UTlN23YcMrHfELz7Lk=">Conectando a {0} ...</Text>
+   <Text id="menu.connecting.preparing" hash="lqm3zb5ADItEdW520Vi4XrM3CZU=">Preparando</Text>
+   <Text id="menu.connecting.portForwarding.settingUp" hash="6IIRcIxdmAA3nmH7wXKBXeicK0M=">Preparando redireccionamiento de puertos</Text>
+   <Text id="menu.connecting.portForwarding.OK" hash="QmZ4vtBkIFmKilRM2iQ+itA38jU=">Redireccionamiento exitoso</Text>
+   <Text id="menu.connecting.portForwarding.failed" hash="jccEPrw18uE0S3QUJNuCMnpMoRY=">El Rediccionamiento de puertos no pudo ser iniciado. Podría deberse a que UPnP está deshabilitado en el enrutador, se requiere redireccionamiento manual o puede que el puerto ya este ocupado.</Text>
+   <Text id="menu.connecting.portForwarding.failed.clientconnecting" hash="cg/oHJiTNckPvi03VrbAr7AaRxE=">El Rediccionamiento de puertos no pudo ser iniciado</Text>
+   <Text id="menu.connecting.progress" hash="3Kn29/hZLwKikMP0DB1yipdYZGo=">Conectando ({0})</Text>
+   <Text id="menu.connecting.contactingserverinfo" hash="R+CPtBFdfKX98bCTrx6ClpazJ70=">Esto podría llevar hasta 10 segundos.</Text>
+   <Text id="menu.hostGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">CREAR JUEGO</Text>
+   <Text id="menu.hostGame.group.game" hash="4+goRsMlZ4EWFTePMCQBhYceCOU=">Juego</Text>
+   <Text id="menu.hostGame.group.serverStatus" hash="uDAYl1ksITZZZAgyJmW5s4nfUmA=">Estado del servidor</Text>
+   <Text id="menu.hostGame.group.cleanup" hash="kDqrsiNMjmqmMemfmd0c6dmTcvo=">Limpieza de jugador</Text>
+   <Text id="menu.hostGame.group.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Scripts</Text>
+   <Text id="menu.hostGame.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">NOMBRE</Text>
+   <Text id="menu.hostGame.name.tooltip" hash="ZNfErc0coFi/3vuSkifUc6XB7yg=">Nombre del juego para ser mostrado en la lista de juegos.</Text>
+   <Text id="menu.hostGame.gameMode" hash="7ClX4AB9eu7qtaHNFAAvpIrnxKM=">MODO DE JUEGO</Text>
+   <Text id="menu.hostGame.description" hash="DO7L6p03JQhg4bMIbGHzJ4fn6Dc=">DESCRIPCIÓN</Text>
+   <Text id="menu.hostGame.password" hash="ESu3kTBHkd3PaS4p/VzxSbNf6jc=">CONTRASEÑA</Text>
+   <Text id="menu.hostGame.password.tooltip" hash="WjP/sysot+K56qelm0OlVXvbLFk=">Requerir contraseña para entrar al juego.</Text>
+   <Text id="menu.hostGame.moderatorPassword" hash="qXUWM3UWBgzIRyWFNAuqcm91am4=">CONTRASEÑA DE MODERADOR</Text>
+   <Text id="menu.hostGame.moderatorPassword.tooltip" hash="Mumd9A/BbhVUZxvAdgI6f7UtUlg=">Sí estas registrado como un moderador en este servidor, coloca aquí tu contraseña para desbloquear tus privilegios de moderador.</Text>
+   <Text id="menu.hostGame.moderatorPassed" hash="JnpN1Vg71VlVCTY/9nQEhE5OA+4=">¡Acceso de moderador concedido!</Text>
+   <Text id="menu.joinGame.serverPassword" hash="qJfsxmdsiETscRePTmWfMhpZ6Jw=">CONTRASEÑA DEL SERVIDOR</Text>
+   <Text id="menu.hostGame.map" hash="wqo+R2ANG92408Sti36bq4D9akk=">MAPA</Text>
+   <Text id="menu.hostGame.map.tooltip" hash="eyP/2xnqCnPt1ppPji3LMfYqzqQ=">El mapa a ser jugado.</Text>
+   <Text id="menu.hostGame.mapPart" hash="7lQNPwYWw9ch3YdzRwWM6xlW+ts=">CAPÍTULO</Text>
+   <Text id="menu.hostGame.mapPart.tooltip" hash="AdCucB0ut39qbxvn9ZhnzxYIvrc=">El capítulo a ser jugado.</Text>
+   <Text id="menu.hostGame.difficultyLevel" hash="kQbp34FiX4vayLckgtxxoYmfjGA=">DIFICULTAD</Text>
+   <Text id="menu.hostGame.difficultyLevel.tooltip" hash="GTRfxCiS8rkh9wBLghbySjoMA4Y=">Mientras mayor sea la dificultad, más daño tú y tus compañeros reciben de ataques enemigos, proyectiles, objetos lanzados, fuego y explosiones.</Text>
+   <Text id="menu.hostGame.difficultyLevel.easy" hash="APAxN+FVOwNUKCQVAgaYog6VUpk=">Fácil</Text>
+   <Text id="menu.hostGame.difficultyLevel.normal" hash="ReEY0FY+qFgfgw9G6FtgrnFPquQ=">Normal</Text>
+   <Text id="menu.hostGame.difficultyLevel.hard" hash="IKiZFfGMFegV5kIr8CymlE9t2Ng=">Difícil</Text>
+   <Text id="menu.hostGame.difficultyLevel.expert" hash="16UB+DJC/ZQLgZBSlDLgcD3XYG8=">Experto</Text>
+   <Text id="menu.hostGame.customMap" hash="lRtDoChBUrK0NBlGWeX6Rqat4ig=">Mapa Personalizado...</Text>
+   <Text id="menu.hostGame.publicGame" hash="9yonSiNOmsYqwdTWSzayNbHca64=">Juego público</Text>
+   <Text id="menu.hostGame.publicGame.tooltip" hash="0HNNIrL/6NlIv4uy7kct3SCfdr0=">Hace tu juego visible en el buscador del juego. De lo contrario, conectar a IP debe ser usado.</Text>
+   <Text id="menu.hostGame.gamePublicity" hash="xZpRINgrCgYIC/ZCT5dOLFb+U8Y=">TIPO DE JUEGO</Text>
+   <Text id="menu.hostGame.gamePublicity.public" hash="3F63BLvK4a/077ccVUYdR3Z9q+c=">Público</Text>
+   <Text id="menu.hostGame.gamePublicity.private" hash="I336CiHI4Xpyds8WHu9+D7oGfEc=">Privado</Text>
+   <Text id="menu.hostGame.gamePublicity.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Sin conexión</Text>
+   <Text id="menu.hostGame.gamePublicity.public.tooltip" hash="82w6ItTE7lwHLeneXhxZTdZI8fo=">Otros jugadores podrán ver y unirse a tu servidor por medio de Buscar Partidas. \r\n Para alojar un servidor tienes que iniciar redireccionamiento de puertos para el puerto que has usado para UDP/TCP.</Text>
+   <Text id="menu.hostGame.gamePublicity.private.tooltip" hash="lEHIqbmx5hQClfIujS5XFb3ujFA=">Otros jugadores podrán unirse a tu servidor por medio de Conectar a IP. \r\n Para alojar un servidor tienes que iniciar redireccionamiento de puertos para el puerto que has usado para UDP/TCP.</Text>
+   <Text id="menu.hostGame.gamePublicity.offline.tooltip" hash="f5L6jOQxzvC62F8Y5WrW4wBQXOU=">Juega sin alojar un juego en línea, es decir, solo jugadores locales se pueden unir.</Text>
+   <Text id="menu.hostGame.gamePublicity.tooltip" hash="SNRoC4MOhmsKHt7644R/brPvOXQ=">Elije si tu juego debería ser público, privado o sin conexión.</Text>
+   <Text id="menu.hostGame.gamePublicity.tooltipWhenOffline" hash="PWN0HKo2FbRW/luPFi89v8Kxcng=">Tienes que estar en línea para poder cambiar el tipo de juego a Publico.</Text>
+   <Text id="menu.hostGame.dropInOrder" hash="79QCl6Q9wFbBaMQ+0yM/hj1AhQc=">ORDEN DE ENTRADA</Text>
+   <Text id="menu.hostGame.dropInOrder.openSlotsOnly" hash="Y00ZkbLNulvbyash2oE3tsg49WY=">Espacios abiertos solamente</Text>
+   <Text id="menu.hostGame.dropInOrder.openSlotsThenReplaceBots" hash="wtHaA9gFQLvd9bVJQ4cEsv9DsiE=">Espacios abiertos, reemplazar con bots</Text>
+   <Text id="menu.hostGame.dropInOrder.replaceBotsThenOpenSlots" hash="KmWmE0Wzip7rLrPHw7MSqGluYqE=">Reemplazar con bots, espacios abiertos</Text>
+   <Text id="menu.hostGame.dropInOrder.tooltip" hash="k2ww+UaCDG0K2xqRlfdZNabWOSU=">Controla el orden de entrada para ser usado entre los espacios abiertos y los bots.</Text>
+   <Text id="menu.hostGame.accountValidation" hash="ea8LRvswpjEx96BEDaxzcK0OOOc=">VALIDACIÓN DE LA CUENTA</Text>
+   <Text id="menu.hostGame.accountValidation.tooltip" hash="j0QrW/FRx2gTzNHqLWmEdqskmbY=">Permitir que solo se unan jugadores con cuentas y/o mostrar los nombres de las cuentas de los jugadores al pasar el ratón sobre sus nombres de usuario.</Text>
+   <Text id="menu.hostGame.accountValidation.disabled" hash="9PRHPfjLWfCjaa6+49FQmtwBUcY=">Deshabilitado</Text>
+   <Text id="menu.hostGame.accountValidation.showifavailable" hash="7KbLJ/eYrvrkYEAJbYcTCJCDqLc=">Mostrar si está conectado</Text>
+   <Text id="menu.hostGame.accountValidation.requireaccount" hash="qA17duzkvaN/gccHOsEkeD3aPa0=">Requerir inicio de sesión</Text>
+   <Text id="menu.hostGame.allowDropIn" hash="zE7mPsDtHOvjJRxXUGm4sBecWa8=">PERMITIR ENTRADA</Text>
+   <Text id="menu.hostGame.allowDropIn.tooltip" hash="Dj55vdn52pu5zMXqwA+DS/s4xLQ=">Permite a la gente entrar a tu juego si ya ha iniciado. De otro modo, solo pueden unirse por medio del vestíbulo.</Text>
+   <Text id="menu.hostGame.evenTeams" hash="XykPCcBhO+ErgGIan7b49Ww36jk=">BALANCEAR EQUIPOS</Text>
+   <Text id="menu.hostGame.evenTeams.tooltip" hash="yTyxND4pJHg0BTKDk94nofcmAO8=">Mantiene los equipos lo más balanceados posible.</Text>
+   <Text id="menu.hostGame.createGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">CREAR JUEGO</Text>
+   <Text id="menu.hostGame.showAdvancedSettings" hash="nEv4IO0nwZbKfOxvhGWPBPnNm/o=">MOSTRAR OPCIONES AVANZADAS</Text>
+   <Text id="menu.hostGame.hideAdvancedSettings" hash="0yIP36I3UpAlZKlK8ktN1EUh5LQ=">OCULTAR OPCIONES AVANZADAS</Text>
+   <Text id="menu.hostGame.updateGame" hash="6/ZhuG2rAH+tNn6NcB/bbp/hV2Y=">ACTUALIZAR JUEGO</Text>
+   <Text id="menu.hostGame.localMultiplayerPermissions.3plusOfflineRequired" hash="tnsTEVDIQKNfADdNd+OwNKVMzTs=">Tres o más jugadores locales requieren que el Tipo de Juego sea &quot;Sin conexión&quot;.</Text>
+   <Text id="menu.hostGame.mapRotationActive" hash="BiNxAmrERYA00+L66egG07a1fyk=">ROTACIÓN DE MAPAS</Text>
+   <Text id="menu.hostGame.mapRotationActive.tooltip" hash="mnlSscK3nAUxg0djKEnnA65q3Rw=">Cambia el mapa automáticamente cada pocas rondas.</Text>
+   <Text id="menu.hostGame.mapRotationActive.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="menu.hostGame.mapRotationActive.vote" hash="ZPhykUGGfT8mNEJAZ9OBE6zHD4M=">Voto</Text>
+   <Text id="menu.hostGame.mapRotationActive.sequential" hash="WpuTkssxQlibeYF27XgU9Ov8eBA=">Uno por uno</Text>
+   <Text id="menu.hostGame.mapRotationActive.random" hash="WNiIwIqlYfNw44zul2EhUyqIPXE=">Aleatorio</Text>
+   <Text id="menu.hostGame.mapRotationActive.none.tooltip" hash="xTBg8TnafclzEQXRc7P5zncim88=">Sin rotación de mapas. El mapa solo puede ser cambiado por el anfitrión, un moderador o un script.</Text>
+   <Text id="menu.hostGame.mapRotationActive.vote.tooltip" hash="I5iFzbt6uGerqsQZxl87ccB51No=">Los jugadores votarán en que mapa quieren jugar después.</Text>
+   <Text id="menu.hostGame.mapRotationActive.sequential.tooltip" hash="neypoUnrc4YqzFVRTlQGNI0JirY=">El siguiente mapa es elegido al azar, pero todos los mapas serán jugados antes de que la rotación se reinice.</Text>
+   <Text id="menu.hostGame.mapRotationActive.random.tooltip" hash="iasALHtvAkHa0fcHNHBhwNBVWBg=">El siguiente mapa es elegido aleatoriamente.</Text>
+   <Text id="menu.hostGame.mapRotationInterval" hash="soA9k2fP1XjLEWrjqcNsv//+qWk=">INTERVALO DE ROTACIÓN</Text>
+   <Text id="menu.hostGame.mapRotationInterval.tooltip" hash="Wb6oLtZLGYKA+gkBqK3g7jXFCws=">Cuantas rondas serán jugadas antes de que el mapa cambie automáticamente. Los mapas de Campaña y Supervivencia tienen un intervalo automatico de 1.</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory" hash="bC+XV6j7nvGJi4y8FcwJVOxQHc4=">CATEGORIA DE MAPAS</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.tooltip" hash="OgZjdn4tk5yi9yFOmq9UFA/2b0c=">Cual categoria/carpeta de mapas quieres en tu rotación.</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.survival" hash="QqiIot5Y842kAFFcRzhaidlxLIY=">Supervivencia (Oficial)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.versus" hash="zI+YzIdPFiVi19foU9oQsF4lONY=">Enfrentamiento (Oficial)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.campaign" hash="OYtJkWMV8OGSasQwk/z8Ems8qW4=">Campaña (Oficial)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allversus" hash="PX1Z8q3JE94mGBhw9mb0GofFa2U=">Enfrentamiento (Todos)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allsurvival" hash="rAKfaL9zHR+GjV+5KZC1sK6ZVg4=">Supervivencia (Todos)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allcampaign" hash="nw4+6IGqGlV6ADHBavaTOESj5rM=">Campaña (Todos)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allother" hash="bmpvIIa7X+Xb/RfY1fUC1IdZg0s=">Otros</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">Todos los Mapas</Text>
+   <Text id="menu.hostGame.shuffleTeamsActive" hash="qzvzU0XA/dxcAv2/Kr6lN8u8WaQ=">MEZCLAR EQUIPOS</Text>
+   <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash="yhWkrq5E/2lSbx8dJA2mVIXJxKg=">Automáticamente mezcla los equipos cada pocas rondas.</Text>
+   <Text id="menu.hostGame.shuffleTeamsInterval" hash="Jat9C9ORdipSsPbwupgePVCD/O8=">INTERVALO DE MEZCLA</Text>
+   <Text id="menu.hostGame.shuffleTeamsInterval.tooltip" hash="K5lEhd0sPQQyybkRqCzU9u1d9WM=">Cuantas rondas a jugar antes de que los equipos sean mezclados.</Text>
+   <Text id="menu.hostGame.timeLimitActive" hash="JZboL3LQwaVDy8whnEmuTc9dd+Y=">TIEMPO LÍMITE ACTIVO</Text>
+   <Text id="menu.hostGame.timeLimitActive.tooltip" hash="n8pK/F/NpTcWaaP8n2hdi7NlL7c=">Decidir si la ronda terminará en empate después de cierto tiempo.</Text>
+   <Text id="menu.hostGame.timeLimit" hash="NmXKxGFfilNlLbKDua9Uk4B0syU=">TIEMPO LÍMITE</Text>
+   <Text id="menu.hostGame.timeLimit.tooltip" hash="UnOcrm4HiLbiy6QKoNXTKbDVGB8=">Tiempo límite máximo por ronda.</Text>
+   <Text id="menu.hostGame.kickAFKActive" hash="HmfkCpn8oACtWqCIhi+ILrBw2eo=">EXPULSAR INACTIVO</Text>
+   <Text id="menu.hostGame.kickAFKActive.tooltip" hash="FwSGhHG1SV1Q7Sx4Qmf6TYsR9F4=">Expulsa a los jugadores inactivos por demasiado tiempo.</Text>
+   <Text id="menu.hostGame.kickAFKTime" hash="f+rr4YoLVZHs2cxT0lumk/O+TjA=">MÁXIMO TIEMPO INACTIVO</Text>
+   <Text id="menu.hostGame.kickAFKTime.tooltip" hash="J5ruiXv0YrniuLgzZESSApo1Cac=">Tiempo máximo que un jugador puede estar inactivo.</Text>
+   <Text id="menu.hostGame.maxPingActive" hash="1PTUug9B5EZdruX29PMJB8jnDBw=">LATENCIA MÁXIMA ACTIVA</Text>
+   <Text id="menu.hostGame.maxPingActive.tooltip" hash="VtmOglR7fNlqaAp6LoqQ85tlEz8=">Expulsa a los jugadores con una latencia alta basado en el valor máximo de latencia.</Text>
+   <Text id="menu.hostGame.maxPingValue" hash="tR6u+j+8cf8tmYMcBXM157i0Dk4=">LATENCIA MÁXIMA</Text>
+   <Text id="menu.hostGame.maxPingValue.tooltip" hash="wdYmhU3FWFmogKNC5y0uzgAPmT8=">Latencia máxima permitida que los jugadores pueden tener antes de ser expulsados.</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingActive" hash="zzQSrG35TPIRabesSYKV91RjcIw=">MOVIMIENTO DEL SERVIDOR</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingActive.tooltip" hash="7n/u3FFF7fC+Tod8xpN7zgTK16o=">Fuerza a los jugadores con latencia elevada a usar el movimiento del servidor. Esto procesará todo el movimiento del lado del servidor. Esto prevendrá problemas de teletransportación causados por redes inestables a alta latencia.</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingValue" hash="MEWjGzrm+ibKr0e05LOvLPjDFoY=">LATENCIA DE MOVIMIENTO DEL SERVIDOR</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingValue.tooltip" hash="G5b9Ewpisvqp2cndTN8+IjLvP1Y=">Límite de latencia donde los jugadores por encima de este valor serán forzados a usar el movimiento del servidor. El mínimo permitido es de 100.</Text>
+   <Text id="menu.hostGame.kickAFKWarning" hash="QqLnsPWZYI/yXHmb6o/ZafhH5zc=">Serás expulsado del juego en 10 segundos si permaneces inactivo.</Text>
+   <Text id="menu.hostGame.suddenDeath" hash="53f0O4/+KAmj31w8StJanP28XTI=">MUERTE SÚBITA</Text>
+   <Text id="menu.hostGame.suddenDeath.tooltip" hash="VMiGBF+cM+IfpfiU8gqRBrTHLEU=">Establece el tiempo límite a {0} segundos cuando todos excepto dos jugadores estén muertos. Además detiene nuevos objetos de aparecer.</Text>
+   <Text id="menu.hostGame.autoRestartTime" hash="CnUDVXFYLqZC0Z5wXVZBNObqUA0=">Tiempo de auto reinicio</Text>
+   <Text id="menu.hostGame.autoRestartTime.tooltip" hash="030P8d6BeDyYdMC2GwEedXFqxVs=">Reinicia el servidor a la hora dada. Altamente recomendado reiniciar el servidor una vez por día.</Text>
+   <Text id="menu.hostGame.autoRestartMemory" hash="JzBs2aFtsbukndB0mXHHbolHtnU=">Reinicia al uso de @memoria (MiB)</Text>
+   <Text id="menu.hostGame.autoRestartMemory.tooltip" hash="0Q3Ni997bemC08i63uRC+rGpRMw=">Reinicia el servidor cuando el consumo de memoria esta por encima del valor dado en mebibytes. El mínimo permitido es 300 (cualquier valor debajo de 300 será ignorado).</Text>
+   <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Esperando a que se unan jugadores</Text>
+   <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">VESTÍBULO MULTIJUGADOR</Text>
+   <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">PELEA</Text>
+   <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">SALIR AL MENÚ</Text>
+   <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Configurando vestíbulo...</Text>
+   <Text id="menu.lobby.connectingToLobby" hash="I/rxoF7Amn8z0iSGImViCMccl7A=">Conectando al vestíbulo...</Text>
+   <Text id="menu.lobby.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Conectado</Text>
+   <Text id="menu.lobby.enteredOfflineLobby" hash="bfrabPXFtsmjehohcCyFPew3XUo=">Entrado al vestíbulo</Text>
+   <Text id="menu.lobby.player" hash="5TQHz+GlFWufDR7tO6te8651z9g=">Jugador</Text>
+   <Text id="menu.lobby.cpu" hash="/yIdR1LOBfWpG78dKLeKe/fi3ao=">CPU</Text>
+   <Text id="menu.lobby.startHostOnly" hash="ddLyyMXzxdEySLWLrTEb09vPAtw=">Solo el anfitrión puede iniciar el juego</Text>
+   <Text id="menu.lobby.slot.closed" hash="iNhrdyHVh2ROnEzzOghCAss7D/A=">Cerrado</Text>
+   <Text id="menu.lobby.slot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Abierto</Text>
+   <Text id="menu.lobby.slot.bot.easy" hash="8u7Yb3o6IsOZ/HDbDsYZy0+5wPM=">Bot (Fácil)</Text>
+   <Text id="menu.lobby.slot.bot.normal" hash="FKHW5k2gyeDnm74fMgCkUN8uazU=">Bot (Normal)</Text>
+   <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">Bot (Difícil)</Text>
+   <Text id="menu.lobby.slot.bot.expert" hash="bF7iJVgCehgDQdNXyQ2sjrzPyqk=">Bot (Experto)</Text>
+   <Text id="menu.lobby.newPlayerJoined" hash="ynaBYw6d3uB2tLlugMIc1WnrsTQ=">&quot;{0}&quot; se unió</Text>
+   <Text id="menu.lobby.newPlayerJoined.toHost" hash="RQETpAV79K6H5KOvZup9XhE76Nw=">&quot;{0}&quot; se unió (de {1})</Text>
+   <Text id="menu.lobby.newPlayerJoinedTeam" hash="IHfhzy6F6CvOPBolJoKZ1onRNR4=">&quot;{0}&quot; se unió al equipo {1}</Text>
+   <Text id="menu.lobby.newPlayerJoinedTeam.toHost" hash="qzwS/LtpL1Fw5rLlu4NdgoVWfjM=">&quot;{0}&quot; se unió al equipo {1} (de {2})</Text>
+   <Text id="menu.lobby.playerConnectionLost" hash="T3ejSrdBeduwp/6Rty6khmExSUU=">&quot;{0}&quot; perdió la conexión</Text>
+   <Text id="menu.lobby.playerConnectionLost.toHost" hash="6MJmxlNZv8nhU4H0CTwUVpaQ4R8=">&quot;{0}&quot; perdió la conexión (de {1})</Text>
+   <Text id="menu.lobby.playerLeftGame" hash="uM5uYL9ubH8PX6WKx56QZi/XjuM=">&quot;{0}&quot; dejó el juego</Text>
+   <Text id="menu.lobby.playerLeftGame.toHost" hash="xrvMFHYBPJUieZY4VlGX3e4AvcM=">&quot;{0}&quot; dejó el juego (de {1})</Text>
+   <Text id="menu.lobby.player.unknown" hash="vHgZs0/4dXB0X75GHjahb4DlYs4=">Desconocido</Text>
+   <Text id="menu.lobby.helpText" hash="XKrK4SDtG7CgkpHA/h+2T9Hz1Hk=">Escribe /help para una lista de comandos.</Text>
+   <Text id="menu.browseGames" hash="8pnxBikWXEwxyVkr6/7FC7TbtbY=">BUSCAR JUEGOS</Text>
+   <Text id="menu.browseGames.filter" hash="197PGqIrAq6Kv5qWhJ7kI+7oOOQ=">Filtro</Text>
+   <Text id="menu.browseGames.filter.ping" hash="CxeGoIOpCH8Ns2sIwf+BpYkw+8I=">LATENCIA</Text>
+   <Text id="menu.browseGames.filter.ping.50" hash="WZMSKVkbOqi1zti4Mi2+iOD+Qgw=">&lt; 50</Text>
+   <Text id="menu.browseGames.filter.ping.75" hash="wb7wFYqLrQmg6gYkm0o9/eCZEt0=">&lt; 75</Text>
+   <Text id="menu.browseGames.filter.ping.100" hash="PfYMc/Vi559IZ551IWLnY91s2ag=">&lt; 100</Text>
+   <Text id="menu.browseGames.filter.ping.150" hash="Cywu/LPo2hKAI0unIruZXJCi/2w=">&lt; 150</Text>
+   <Text id="menu.browseGames.filter.ping.200" hash="aNZH1vYl1bhJsFdnjrnNICdp4Pw=">&lt; 200</Text>
+   <Text id="menu.browseGames.filter.ping.300" hash="T5L7Wo9qFSSeLqptq+R3ZA0Cf1g=">&lt; 300</Text>
+   <Text id="menu.browseGames.filter.ping.all" hash="anIIVlPkxb6MdkDIaO94fLzwY9E=">Todos</Text>
+   <Text id="menu.browseGames.filter.hasPlayers" hash="VGoKnHSjWxDs6scOAJJquPsZsUk=">TIENE JUGADORES</Text>
+   <Text id="menu.browseGames.filter.notFull" hash="YZDe9fl+o6wYZvyF6l6p6Oqtcrc=">NO LLENO</Text>
+   <Text id="menu.browseGames.filter.noPassword" hash="6y07gCD3hWLdahYlyrzjzFVMs3I=">NO PROTEGIDO POR CONTRASEÑA</Text>
+   <Text id="menu.browseGames.findResult" hash="IwJe3btFcXQN5DdDA4USKRosRRk=">{0} Juegos Encontrados</Text>
+   <Text id="menu.browseGames.showAndFilterResult" hash="2AssLTo79dbzha8wXK+cxOdepuE=">{0} Visible, {1} Filtrados</Text>
+   <Text id="menu.browseGames.header.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Nombre</Text>
+   <Text id="menu.browseGames.header.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Jugadores</Text>
+   <Text id="menu.browseGames.header.mode" hash="p7k9ISjoIPhh/I38zZ9VIeia0h8=">Modo</Text>
+   <Text id="menu.browseGames.header.map" hash="q0ePPvyEDuurkZ3/G5USKG9wwQw=">Mapa</Text>
+   <Text id="menu.browseGames.header.ping" hash="a2jpeXOZQRbYN9TedPKdd/iVwJc=">Latencia</Text>
+   <Text id="menu.browseGames.joinPanel.playersTooltip" hash="InG/pZAulXg8G/e1P2cipha5IyI=">{0} jugadores, {1} bots</Text>
+   <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash="4ZSo9/D1iqwnrm679WWTzHsP3pU=">Tres o más jugadores no pueden unirse a otros juegos.</Text>
+   <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Nada</Text>
+   <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Presiona una Tecla -</Text>
+   <Text id="menu.keybinding.pressEscToUnbind" hash="y2QaAbkWeCcwZ/IwPYKNkk5tDaM=">Presiona una tecla. Presiona Escape para cancelar. Manten Escape para desasignar.</Text>
+   <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Sesión iniciada como</Text>
+   <Text id="menu.mainMenu.onlineAs" hash="Vqpl0M/rOnGD+CCkDak1xlIgAkM=">En línea como</Text>
+   <Text id="menu.mainMenu.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Sin conexión</Text>
+   <Text id="menu.mainMenu.tutorialPrompt" hash="1/jgbIVBhWFuWtYeVrm3df9O2T0=">¿Primera vez en el juego? ¡Comienza aquí!</Text>
+   <Text id="menu.status.playerXJoined" hash="vJKKobWdvzVq700D3dw5FpRWr8Y=">Jugador {0} se unió</Text>
+   <Text id="menu.status.playerXLeft" hash="slJ22EYGfa1VMG3YSmZcteeVt0I=">Jugador {0} se fue</Text>
+   <Text id="menu.status.playerPressAttackToJoin" hash="egbPyabopFCGkRABoTCYhCPWYA8=">Presiona Atacar para unirte</Text>
+   <Text id="menu.challengesPanel" hash="/zh2X7E++u9zhhWkikOfGaXNg6k=">Desafíos</Text>
+   <Text id="menu.challengesPanel.tier" hash="W9ROvmPNO5RFynWflwUT14sophw=">Nivel</Text>
+   <Text id="menu.challengesPanel.tier.value" hash="MNzYyrCw9ks6HdvUWEqz/bT2wx8=">Nivel {0}</Text>
+   <Text id="menu.challengesPanel.tier.mixedauthors" hash="pUWZxg7y/ONx5S+3thUGrByX++o=">Otros (Autores Mezclados)</Text>
+   <Text id="menu.challengesPanel.tier.byauthor" hash="HbUdt6BVO5LzAQ3CijCkc9lWYHE=">Por {0}</Text>
+   <Text id="menu.challengesPanel.itemunlocked" hash="g+Rfwvwo/6magcN+iknoqlEE2nE=">Nuevo objeto desbloqueado: {0}</Text>
+   <Text id="menu.challengesPanel.solochallengecompleted" hash="KpyIjbaNRHv9pvC16ewVmbohAMw=">¡Desafío completado!</Text>
+   <Text id="menu.challengesPanel.coopchallengecompleted" hash="ME9YKzEBjIRSqQazGTsbKABR2lk=">Desafío superado. Juega solo para ganar la medalla de oro.</Text>
+   <Text id="menu.challengesPanel.tooltip.tier" hash="WQH0IjCNshw/IIkDeCZBV9DN/30=">Selecciona un nivel de desafío para probar tu habilidad en una variedad de situaciones.</Text>
+   <Text id="menu.challengesPanel.tooltip.solomedal" hash="7OMIuyDe9XRy1+ADTwdXevIGZGo=">¡Medalla de oro conseguida!</Text>
+   <Text id="menu.challengesPanel.tooltip.coopmedal" hash="OuEkJPyELNk6TjpXlGM1xo7RtlQ=">Medalla de plata conseguida por completar el desafío en modo cooperativo. ¡Juega solo para conseguir la medalla de oro!</Text>
+   <Text id="menu.challengesPanel.progress" hash="laTTSyvUbdqvJzLlx29l4ot+QNE=">{0}% completado</Text>
+   <Text id="dedicatedserver.tab.chat" hash="LO1X8SWRCp6KuV3uqG5K175Bi1o=">Chat</Text>
+   <Text id="dedicatedserver.tab.hostOptions" hash="hpBoImB0sXGLeDsmXrE9Ycr84nE=">Opciones de Host</Text>
+   <Text id="dedicatedserver.tab.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Scripts</Text>
+   <Text id="dedicatedserver.tab.manageKickBans" hash="ibVqwMTwtmw25tqrIKNdpeBC7hA=">Baneos activos</Text>
+   <Text id="dedicatedserver.tab.serverStatus" hash="/XCUIdImO1cOzGu1qKfNqwSKzNk=">Estado del servidor</Text>
+   <Text id="dedicatedserver.tab.gameSlots" hash="r+NU27ywPYIL1tj3owvX0RsGRUI=">Lugares de la partida</Text>
+   <Text id="dedicatedserver.tab.userStatus" hash="V/KxgdCl55oUfqHN9BRX9Y27s8k=">Usuarios</Text>
+   <Text id="dedicatedserver.tab.moderators" hash="aoR+FkPVk5aTSQOsV+77o4SnnFs=">Moderadores</Text>
+   <Text id="dedicatedserver.tab.logs" hash="Em3Ttwpcp4GODiatHgCNI7DxSlM=">Registros</Text>
+   <Text id="dedicatedserver.menu.server" hash="ywyxcNEG+OjVrx4Fu9vTqWp94Zc=">Servidor</Text>
+   <Text id="dedicatedserver.menu.exit" hash="+Dtv466/E3ROhmAZVW2RKc16Vb4=">Salir</Text>
+   <Text id="dedicatedserver.menu.stopServer.confirm.title" hash="7GReh3lVNxtOtI5X2VDqPJVxops=">Confirmar apagado</Text>
+   <Text id="dedicatedserver.menu.stopServer.confirm.question" hash="ogxQmMoJVAsjLJPCIFwO6Dm4Rvc=">¿Estas seguro que quieres cerrar el servidor?</Text>
+   <Text id="dedicatedserver.menu.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Vista previa</Text>
+   <Text id="dedicatedserver.menu.preview.show" hash="2X0e4znk7quoyskdyjfItOyPVQE=">Mostrar</Text>
+   <Text id="dedicatedserver.menu.preview.hide" hash="NNi2D+JTMve5hYXoLnU+r1AsPlA=">Esconder</Text>
+   <Text id="dedicatedserver.menu.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Ayuda</Text>
+   <Text id="dedicatedserver.menu.toTray" hash="o97GSY61wVx3Bf8VkLYeyozft5c=">A bandeja del sistema</Text>
+   <Text id="dedicatedserver.menu.refresh" hash="VuO63E5sXMleDqWpqHi5vQnzGdQ=">Refrescar</Text>
+   <Text id="dedicatedserver.menu.remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Eliminar</Text>
+   <Text id="dedicatedserver.menu.changepassword" hash="SSidtD5mOj314scHFHIuzFSJVWU=">Cambiar contraseña</Text>
+   <Text id="dedicatedserver.menu.changepassword.prompt" hash="qLEIkf41QekoFD9rSZSTLOgHcF0=">Ingresa una nueva contraseña</Text>
+   <Text id="dedicatedserver.menu.kick" hash="jF7E7f6ab084igIEsObVzP7m/1s=">Sacar</Text>
+   <Text id="dedicatedserver.menu.kick.confirm.title" hash="YpyaHOS3GvI1slI+yoN0GzRDXCI=">Confirmar sacar</Text>
+   <Text id="dedicatedserver.menu.kick.confirm.question" hash="7C6GILm17U3BEfQXOQKZcjeqqlU=">¿Estas seguro que quieres sacar al usuario seleccionado?</Text>
+   <Text id="dedicatedserver.menu.ban" hash="v6G/v2wc2F89K09pao1XYf9ske4=">Baneo</Text>
+   <Text id="dedicatedserver.menu.banByIP" hash="fDzRHPDPR5XHPSGNiQehJTU1h50=">Baneo de IP solamente</Text>
+   <Text id="dedicatedserver.menu.ban.confirm.title" hash="TVgJ51CZXEqNVugGNU5Qa4fQ6xA=">Confirmar baneo</Text>
+   <Text id="dedicatedserver.menu.ban.confirm.question" hash="fSpGop+MRivMm5GKXCbJ9yWnr00=">¿Estas seguro que quieres banear al usuario seleccionado?</Text>
+   <Text id="dedicatedserver.menu.gameslot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Abrir</Text>
+   <Text id="dedicatedserver.menu.gameslot.close" hash="u/p3PlpjpepYybYgfmCMoBIOWSo=">Cerrar</Text>
+   <Text id="dedicatedserver.menu.startServer.selectedMapIsMissing" hash="w72L/gskw3u2y2xrPOUKz6unauE=">Debes seleccionar un mapa antes de comenzar el servidor.</Text>
+   <Text id="dedicatedserver.button.defaultPort" hash="gA+hP6G3SlFBZ7yjk8O0xDRcsiQ=">Puerto por defecto</Text>
+   <Text id="dedicatedserver.button.applyChanges" hash="NivNtwnPteLsgNpVe0RMpPZB6eM=">Aplicar cambios</Text>
+   <Text id="dedicatedserver.button.discardChanges" hash="n7EJdlCW8LRGEEZZopjpOjDTeKo=">Descartar cambios</Text>
+   <Text id="dedicatedserver.button.startServer" hash="cb++OMHxJVDKCk2M+Ve6Mo/0ytA=">Comenzar servidor</Text>
+   <Text id="dedicatedserver.button.startingServer" hash="C39Plt2xCLhBId9GWBuBW1kUMG8=">Comenzando...</Text>
+   <Text id="dedicatedserver.button.stopServer" hash="GpD2E0oV2Aealt2HOpA8PhIk7q0=">Detener servidor</Text>
+   <Text id="dedicatedserver.button.stoppingServer" hash="7das+GwbkMdlITo26bqU9LwCAL4=">Deteniendo...</Text>
+   <Text id="dedicatedserver.button.chatSend" hash="m8JXXDkwQ36AVV94dXt4PIQujmY=">Enviar</Text>
+   <Text id="dedicatedserver.button.applyChangesStatusMessage" hash="thb5Q+ztCmt3f9BQgb2tJpMbF+A=">¡Opciones del Host actualizadas!</Text>
+   <Text id="dedicatedserver.column.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Nombre</Text>
+   <Text id="dedicatedserver.column.accountid" hash="ificAs9H4JHnJqTge4ivCWaAaJc=">ID</Text>
+   <Text id="dedicatedserver.column.account" hash="hd+jLJfYYY0b6gg2CeLIophFq+U=">Cuenta</Text>
+   <Text id="dedicatedserver.column.author" hash="X9oj1iAVuZ+yqfhrOLzfK992Ccg=">Autor</Text>
+   <Text id="dedicatedserver.column.description" hash="VfjryAXmW1tx3a/a45DjvivNaa8=">Descripción</Text>
+   <Text id="dedicatedserver.column.mapmodes" hash="tOUqOHLEq29I7lA7VG3OU+KY44g=">Modos del mapa</Text>
+   <Text id="dedicatedserver.column.relativePath" hash="UZ45Eyu5hBjMBIPMRGzPXzyNz/4=">Path</Text>
+   <Text id="dedicatedserver.column.enabled" hash="3xdKPy+qMYFOBlQKzaeviCVAP6w=">Activado</Text>
+   <Text id="dedicatedserver.column.ip" hash="6kJNOK9y3RNmoIqtH0fso+fsPSQ=">IP</Text>
+   <Text id="dedicatedserver.column.iporaccount" hash="HPF13FW+aBsJF7xC5zNrsNUJt/o=">IP / Cuenta</Text>
+   <Text id="dedicatedserver.column.ping" hash="a2jpeXOZQRbYN9TedPKdd/iVwJc=">Latencia</Text>
+   <Text id="dedicatedserver.column.note" hash="LJJOMIggTud7poH3K+NEQ1eTL8o=">Nota</Text>
+   <Text id="dedicatedserver.column.type" hash="Pet0VlGWl+z07vxFVRbJaaNoG64=">Tipo</Text>
+   <Text id="dedicatedserver.column.count" hash="PKI7NaA9BLg0oXrvSHeFxXD6IN4=">Conteo de baneo</Text>
+   <Text id="dedicatedserver.column.daysLength" hash="u41p2vXNYbqGIm1FhrzW+DMoJJ0=">Duración (días)</Text>
+   <Text id="dedicatedserver.column.expireTime" hash="cyrffIUzNMcjmBENrpOgYFfp9zo=">Fecha de Expiración</Text>
+   <Text id="dedicatedserver.column.dateAdded" hash="Vqt6ruiV/W6tEeOe4Kk/+/NZBgY=">Fecha agregada</Text>
+   <Text id="dedicatedserver.column.isActive" hash="pzO4CdLxIzSWq1Fu7Q8+91zzeRo=">Activo</Text>
+   <Text id="dedicatedserver.column.timeLeft" hash="mclOuFLSX4yvTpyu3U7D4xPzPtk=">Tiempo restante</Text>
+   <Text id="dedicatedserver.column.time" hash="bILm3YaAfuPbB+PIK+wa4c4AsIs=">Tiempo</Text>
+   <Text id="dedicatedserver.column.timeJoined" hash="pgdN/CrEZsqXYl1Q/Gy6RjVg7oA=">Tiempo desde que se unio</Text>
+   <Text id="dedicatedserver.column.timeDisconnected" hash="816YfLJdqm7XZWm0BX11kMwBkIE=">Tiempo desconcetado</Text>
+   <Text id="dedicatedserver.column.message" hash="aPQUX+593navzrkQFlkkrRTPDQA=">Mensaje</Text>
+   <Text id="dedicatedserver.column.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Conectado</Text>
+   <Text id="dedicatedserver.column.disconnected" hash="dx4F8nuZ/Vn2OPQaek6Xex1Gkf4=">Desconectado</Text>
+   <Text id="dedicatedserver.column.status" hash="uufVvnCCDtVkZ72aY3ROI7R71xE=">Estado</Text>
+   <Text id="dedicatedserver.column.started" hash="+qnn5+9aJkxYxopKC5yL1UJBRQo=">Comenzo</Text>
+   <Text id="dedicatedserver.column.timeRunning" hash="u3XQAZNieXQifwexn+F2SozPJ8k=">Tiempo transcurrido</Text>
+   <Text id="dedicatedserver.column.gamesPlayed" hash="I6xN7tQ2l+TAqg0ijriV9npJg9s=">Partidas jugadas</Text>
+   <Text id="dedicatedserver.column.currentMap" hash="6hQjKUXaCwbUpH3jNlzL1KiUDWs=">Mapa actual</Text>
+   <Text id="dedicatedserver.column.publicGame" hash="9yonSiNOmsYqwdTWSzayNbHca64=">Partida publica</Text>
+   <Text id="dedicatedserver.column.networkData" hash="JOqKGRUqEpeOiKHUCvQJgvj2JbI=">Información de la red</Text>
+   <Text id="dedicatedserver.column.memoryUsage" hash="Uw9t2+b1yr8B8Ypj1FDYS9gn9Fs=">Uso de memoria</Text>
+   <Text id="dedicatedserver.column.password" hash="i+PJQ7Fgn/+/xRqtZm0KBK34PJ0=">Contraseña</Text>
+   <Text id="dedicatedserver.info.running" hash="c5idnFkmTaCKFduiHH1YI3qR8I8=">Usando</Text>
+   <Text id="dedicatedserver.info.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Fuera de linea</Text>
+   <Text id="dedicatedserver.tray.menu.show" hash="2X0e4znk7quoyskdyjfItOyPVQE=">Mostrar</Text>
+   <Text id="dedicatedserver.tray.message.activeInBackground" hash="QYoENCocHj+LiBlwNX83wdNm3yE=">El servidor aun esta activo en el fondo</Text>
+   <Text id="menu.escMenu.exitToMenu" hash="l2ys31gcnrFLRKtPJponrXzWlgE=">Salir al Menú</Text>
+   <Text id="menu.escMenu.exitToMenu.confirm" hash="+t6fx4X1nRjFi7Ny2oG2TSGZMdE=">¿Estás seguro que quieres salir al menú?</Text>
+   <Text id="menu.gameplayTipHeading" hash="NMApRQcoB9bfZEmEZ6Ygb3aoTSk=">CONSEJO</Text>
+   <Text id="menu.gameplayTip1" hash="WQaNtfm5792jaP5PFGr/8U2jJ3Q=">&apos;Siempre permanece atento a tu entorno.&apos;\n- Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip2" hash="aLbMurhKjxc7fUmoRymn2ZldW0w=">Cuando estés en llamas, rueda en el suelo para apagarte. Podrías requerir hacerlo multiples veces.</Text>
+   <Text id="menu.gameplayTip3" hash="VrvOwMR2yKQKkj43m3ThGlqtlZE=">Permanece atento a tu entorno. Hay muchos peligros en cada nivel, intenta usarlos a tu favor.</Text>
+   <Text id="menu.gameplayTip4" hash="fu+jBz8SsM2/G5bEsGSXLVehPNQ=">Puedes disparar a través de plataformas delgadas, techos de hojalata y la mayoría de los objetos pequeños.</Text>
+   <Text id="menu.gameplayTip5" hash="YXWxb4Xi24Fa1hSQTq9Tf4GLTck=">&apos;Un superfighter nunca se queja, pero pelea mejor la próxima vez.&apos;\n- Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip6" hash="vyXddf+gnOQbA6wKuSrr90PY4Y4=">Armas poderosas como la magnum o el rifle de francotirador pueden disparar a través de multiples objetos debiles.</Text>
+   <Text id="menu.gameplayTip7" hash="5WvVoO2iJ32OW+6wA3O3tgU4Ppw=">Mientras te deslices por una escalera, derribarás a cualquier persona inmediatamente debajo de ti de la escalera.</Text>
+   <Text id="menu.gameplayTip8" hash="PeApy+c61kjg6QayS5BDUFW6fv0=">Los ataques con salto son más poderosos mientras caes.</Text>
+   <Text id="menu.gameplayTip9" hash="Fd84OckKFz9aGnpal3drlqH9qNU=">&apos;No hay lástima por los que se tienen lástima&apos;.\n- Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip10" hash="uTf6Ls3vj9nq4/i532Ea3iDQ71E=">La patada con salto es útil para derribar enemigos, pero te deja vulnerable después de que caes.</Text>
+   <Text id="menu.gameplayTip11" hash="zxlLxQXzsscGKLrxkc6X4J9I/s4=">Esquivar balas rodando o en picada tiene una pequeña probabilidad de fallar. Proyectiles más grandes como las bengalas o los cohetes no pueden ser esquivados.</Text>
+   <Text id="menu.gameplayTip12" hash="gGA2i9yeE7IwetQrQLL1VYR8BBg=">Cuando te golpee un cohete de la bazuca, ¡Montarás el cohete! Presiona Izquierda y Derecha para dirigir.</Text>
+   <Text id="menu.gameplayTip13" hash="pYEiM99KwAfaZ+976mEwiD9HWV8=">&apos;El que lucha justo no vive mucho tiempo&apos;.\n-Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip14" hash="nBYK3iCiOaXv61H8i2PcZZNDBBs=">No recibirás daño por caída cuando te lanzes en picada, no importa que tan alto caigas.</Text>
+   <Text id="menu.gameplayTip15" hash="p/1ZGjPycy56wjUY1YqkFuX2dao=">Objetos como sillas, botellas y palos de billar pueden ser usados como armas temporales. No pueden ser envainados y se rompen de pocos golpes.</Text>
+   <Text id="menu.gameplayTip16" hash="APxXDreRGVc0q6VWShs85nYL+rI=">Cuando activas el poder de cámara lenta, obtienes un pequeño aumento de velocidad comparado con los demás.</Text>
+   <Text id="menu.gameplayTip17" hash="CULsgaZzdKkQn3ryLbGBmn4HL1A=">&apos;Hay varias formas de abrir un huevo.&apos;\n- Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip18" hash="jjO3xMPZiZbcouI45ru1dcr3wdc=">Usa fuego y explosiones para sacar enemigos fuera de su cobertura.</Text>
+   <Text id="menu.gameplayTip19" hash="YY6gVqM5yHfW8byyqsTu6QwDA94=">A veces perseguir un enemigo no es la mejor opción. Aprende cuando atacar y cuando ir a la defensiva.</Text>
+   <Text id="menu.gameplayTip20" hash="wFvFYEzn+HRCAPixr+ntgKclQmQ=">Puedes disparar a través de tus compañeros de equipo parándote muy cerca de ellos.</Text>
+   <Text id="menu.gameplayTip21" hash="tLx4Z0AlSyh9nREbbaNjM9qP/cY=">&apos;No hables cuando hay peleas por hacer.&apos;\n- Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip22" hash="yhiv3JccTiB03ExhhaMNKKz37P8=">Los ataques cuerpo a cuerpo desarmarán enemigos en ciertas circunstancias, por ejemplo cuando están desenfundando o apuntando su arma.</Text>
+   <Text id="menu.gameplayTip23" hash="PunZBFLC0Krzqe0TDHdIV8L0aHo=">Puedes atrapar enemigos con un salto en picada hacia ellos.</Text>
+   <Text id="menu.gameplayTip24" hash="tQ/gzVj9DmUhRfELIswfIfJgG6I=">Las armas cuerpo a cuerpo te permiten bloquear balas con un bloqueo o ataque perfectamente sincronizado. Las armas de metal incluso pueden reflejar balas.</Text>
+   <Text id="menu.gameplayTip25" hash="h0t6bnRd5BH4ARfqsb3vClTgNaY=">&apos;Una buena pelea es su propia recompenza.&apos;\n- Viejo dicho del superfighter</Text>
+   <Text id="menu.gameplayTip26" hash="SDmkLlrkPuJ+t1Haxq14FXsAFfs=">¡No hieras a tus compañeros de equipo! Son inmunes a tus ataques cuerpo a cuerpo pero a nada más.</Text>
+   <Text id="menu.gameplayTip27" hash="UfVtt8xTSwkzTW87N4hJfgGUZUg=">Puede recorrer estos consejos presionando + y -.</Text>
+   <Text id="menu.gameplayTip28" hash="Hdf9ia6HSZC9Zc+nB78w9kd8Of0=">Una granada o mina pueden no explotar pero si detonaran con un disparo.</Text>
+   <Text id="menu.gameplayTip29" hash="kAJ8pdylu2tAzst+o2W8aiUimDE=">Puedes ignorar los mensajes de un jugador escribiendo /ignore [nombre del jugador] en el chat.</Text>
+   <Text id="menu.gameplayTip30" hash="jB15Rgs5518lomIYpkLjMQZcgwI=">Sosteniendo cualquier arma, presiona G para entrar al modo arrojar. También puedes soltar el arma manteniendo G</Text>
+   <Text id="menu.gameplayTip31" hash="ZmxzilECmdHkCrIQ+kIS610pFLs=">Al bloquear un arma lanzada, la atraparás si aún no tienes un arma en ese espacio.</Text>
+   <Text id="menu.gameplayTip32" hash="2OpjafWjpFA2dVpP9Mmo+O5TJgk=">Puedes cancelar un lanzamiento presionando la tecla de envainar (Q). No funciona en explosivos preparados (granadas, molotovs o minas) sin embargo.</Text>
+   <Text id="menu.gameplayTip33" hash="qRv2QogFHesqjI/VEQR5meHV6qY=">Puedes agarrar cadáveres presionando R y manteniendo Flecha Abajo</Text>
+   <Text id="menu.gameplayTip34" hash="wBWEYhjDLuWj0ftsxqRaL8OsgNs=">Estar en llamas no es tan malo: levemente incrementa tu velocidad al correr.</Text>
+   <Text id="menu.gameplayTip35" hash="+Ru7CpNuA52zYyqbb/ZiCAD1jcs=">Estando en llamas, deslizarse por una escalera ayuda temporalmente, pero debes rodar para apagarlo completamente.</Text>
+   <Text id="menu.gameplayTip36" hash="GtBNiTow2AvxBNDXwAfmGBppcFo=">Usando el poder de aumento de fuerza, puedes sobrevivir incluso después de que tu salud llegue a cero - pero morirás cuando el efecto se desvanezca.</Text>
+   <Text id="menu.gameplayTip37" hash="BuT02rAV+TSvkGBwty5Z1CRDFBQ=">Mantener el botón de caminar te permite agacharte o rodar encima de una escalera sin deslizarte por ella.</Text>
+   <Text id="statusText.getReady" hash="BoeWFumBb6F4Yw3bNzCYaXnybKo=">PREPARATE...</Text>
+   <Text id="statusText.wave" hash="o3b63z/FN5LDbmIAPNInTwuaQBU=">OLEADA {0}</Text>
+   <Text id="statusText.fight" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">PELEA</Text>
+   <Text id="statusText.victory" hash="O2K05+8LmpFahaxxam8XlyZSxig=">VICTORIA</Text>
+   <Text id="statusText.defeat" hash="1uNQN04lc01DPI7gwk3RWvGSeCo=">DERROTA</Text>
+   <Text id="statusText.draw" hash="Nm6n1P7xVZ+qxQ+SvWtEnhYfqXU=">EMPATE</Text>
+   <Text id="statusText.nobody" hash="NsABYUZtxyWDSpeH/A8YSXNh8KY=">NADIE</Text>
+   <Text id="statusText.wins" hash="s/K14DlT/T2cxZwIETzVb6D4Oxk=">GANA</Text>
+   <Text id="statusText.timesup" hash="dEHmhuibQIWO9PlkEqgGGboxWa4=">TIEMPO AGOTADO</Text>
+   <Text id="statusText.mapVoteToContinue" hash="l09R0LAzuy8QmN+WioMQ0/2nvPs=">CONTINUA DESPUÉS DE VOTAR MAPA</Text>
+   <Text id="statusText.autoVoteTimer" hash="8BuiK0HNU0aR0n7wtl5BOIPQ3JE=">CONTINUA AUTOMÁTICAMENTE EN [{0}]</Text>
+   <Text id="statusText.voteToContinue" hash="lhzVJSeXcGe7ecR1Q7M7qHUlfnQ=">PRESIONA LA BARRA ESPACIADORA CUANDO ESTÉS LISTO</Text>
+   <Text id="statusText.youAreDead" hash="J5cUDFFvkcloFUsag1CupYHWk+M=">ESTÁS MUERTO</Text>
+   <Text id="statusText.spectating" hash="qTkQxByEG3hEHIxwYaB8qKaY3D8=">ESPECTADOR</Text>
+   <Text id="statusText.wavegameover" hash="kyJjaKHVVRQSuxd6nWOlhMjUAvs=">OLEADA {0} - ¡JUEGO TERMINADO!</Text>
+   <Text id="statusText.survivalfinalscore" hash="lFubfN31EAUzQQMC1wwSVUISn/8=">PUNTUACIÓN FINAL: {0}</Text>
+   <Text id="statusText.survivalendscore" hash="2xWMbTIBBeZJBZ7pyXeXFP/qxCU=">PUNTUACIÓN FINAL: {0}</Text>
+   <Text id="statusText.hud.dead" hash="4QwGAIPFhCD9UNV49NlG4kmx8kI=">-MUERTO-</Text>
+   <Text id="statusText.nextMap" hash="tHV1rI+WY9FtHeCCakAGYpdRVp4=">Siguiente mapa: &apos;{0}&apos;</Text>
+   <Text id="statusText.nextMapPart" hash="362Z0NX+/tmGwdpIf29n2YFhjUw=">Siguiente mapa: &apos;{0}&apos;, Capítulo &apos;{1}&apos;</Text>
+   <Text id="game.survival.wavecomplete" hash="ZZD7wSDaiT7cKKpE1EitnFrV+8w=">Has sobrevivido la oleada {0}.</Text>
+   <Text id="game.survival.wavefailed" hash="eooPEMaM6Gos7jN1wAcvB2X+U9g=">Has sido derrotado en la oleada {0}.</Text>
+   <Text id="game.survival.liferemains.one" hash="IcW+eagcEDpD0ebm/jZxKn/WQZ4=">1 reintento restante.</Text>
+   <Text id="game.survival.liferemains.many" hash="UaoCCyl34s+yEt+BWifaITgKGwU=">{0} intentos restantes.</Text>
+   <Text id="game.survival.noplayingusers" hash="girxPVxn5UEN9PQrtCqDUiaXZ2c=">Sin usuarios jugando. Juego terminado.</Text>
+   <Text id="game.warning.nobotpathgrid" hash="WMOXsx2BjYzc/6gyCZ4A9XQVb6A=">Advertencia: Red de ruta faltante. Los bots no podrán navegar en este mapa.</Text>
+   <Text id="team.independent" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="team.1" hash="WeBFib52t/XNjaoGDDtxYiOwJV0=">Equipo 1</Text>
+   <Text id="team.2" hash="YK/0A1vKB+RJNR6w8CFB/q353NU=">Equipo 2</Text>
+   <Text id="team.3" hash="pCFhQzti8NqmGjlUqz0nOSK/zns=">Equipo 3</Text>
+   <Text id="team.4" hash="vqThU/N7I+16iuYh/kv0s+EkrKE=">Equipo 4</Text>
+   <Text id="team.1.color" hash="fUS8RJwqJjdIAKUD8Q89iUlQX0A=">Azul</Text>
+   <Text id="team.2.color" hash="zJ2zp5VXHH5x9FZwodp/9JtfFVc=">Rojo</Text>
+   <Text id="team.3.color" hash="kzvyGv3VWg0ig4Rf7Q57vdH120k=">Verde</Text>
+   <Text id="team.4.color" hash="NSb2B7zU9RrQvAX4FFeaQsLAulc=">Amarillo</Text>
+   <Text id="loading" hash="sEukn4SGJLuXqwlKJjHSrXSRNJg=">Cargando...</Text>
+   <Text id="loading.content" hash="14hNFC7eLwa7hWhXl0Wbopa5jas=">Cargando Contenido...</Text>
+   <Text id="loading.mapeditor" hash="HvMYyqCUz2Ws5wQWMYSblPfZ3wU=">Cargando Contenido del Editor de Mapas...</Text>
+   <Text id="loading.mapeditor.creatingListImages" hash="qYwEbAdi+UyKbfg7OlKOsMfTkII=">Creando Lista de Imagenes...</Text>
+   <Text id="loading.game" hash="Tk3G2a1MNTxduVig+XSM66Ux+ts=">Cargando Juego...</Text>
+   <Text id="loading.menu" hash="3lvP56fEy0cMSss0sY/kB3/Q6bk=">Cargando Menú...</Text>
+   <Text id="loading.map" hash="BSC7ywA0rjDF2+tu5EAb9x9tit4=">Cargando Mapa...</Text>
+   <Text id="loading.maps" hash="vTcV98O/lc1udeF4uQFO+codIPA=">Cargando Mapas...</Text>
+   <Text id="loading.tutorial" hash="OWRPzmlnEeUCGNA0jzBcxPn9Jj8=">Cargando Tutorial...</Text>
+   <Text id="loading.challenge" hash="Dp5HNb3AhXpNvmJM3l/+7Ca1XBY=">Cargando Desafío...</Text>
+   <Text id="loading.settings" hash="HHMR2FXtIFNkr/j6QeB7bt9r1SA=">Cargando Configuraciones...</Text>
+   <Text id="loading.userlists" hash="bHxOOPZmm8FQvDNgPFuY7mgYlk4=">Cargando bloqueos/Listas de Moderadores...</Text>
+   <Text id="loading.animations" hash="CHNTOKzL1ocNy/I/HANjjmAEDvQ=">Cargando Animaciones...</Text>
+   <Text id="loading.textures" hash="Z6QER9EAw2yyA6EHSt6dW1xlJSo=">Cargando Texturas...</Text>
+   <Text id="loading.controls" hash="p2zSxzUNclHUpE6lzgD2aYCefLc=">Cargando Controles...</Text>
+   <Text id="loading.chat" hash="7FpoHtRU39TuuK1y3CmIHF+E4WQ=">Cargando Chat...</Text>
+   <Text id="loading.colors" hash="Im2CAllDL+vMjv/KE9Oj6eb4UEY=">Cargando Colores...</Text>
+   <Text id="loading.equipment" hash="lIvkyGmbc6dxQnMV/kGcRidU5ao=">Cargando Equipamiento...</Text>
+   <Text id="loading.effects" hash="er7lg3UPOPKakz4tZFq/jg6L9hU=">Cargando Efectos...</Text>
+   <Text id="loading.collisiongroups" hash="ucQafkH8d4l7dIo88SVShNROmh0=">Cargando Grupos de Colisión...</Text>
+   <Text id="loading.projectiles" hash="6NH8NX8FFX/UAgb1jmf7mCBHaUs=">Cargando Proyectiles...</Text>
+   <Text id="loading.materials" hash="PJsuTclopEEb1Fv0X4ScaAjbtus=">Cargando Materiales...</Text>
+   <Text id="loading.weapons" hash="KqCqahR1Q8zeJeyfB0Mw2R1E7Vw=">Cargando Armas...</Text>
+   <Text id="loading.tiles" hash="eCSWMOlWw0jSr9LP2GWPsEGXiWM=">Cargando Bloques...</Text>
+   <Text id="loading.sounds" hash="bBmLw0LD3BMwY53iNRg8q78Q73A=">Cargando Sonidos...</Text>
+   <Text id="loading.profile" hash="FiMesTWFeTHAWiESZfTMKq/lO5Q=">Cargando Perfil...</Text>
+   <Text id="loading.finalizing" hash="gd+/mRKNMt4portngsTssbzEZ/s=">Terminando...</Text>
+   <Text id="loading.canceled" hash="LKNYNJxMv6rXInJKWGCzqRK5UPo=">Carga cancelada</Text>
+   <Text id="general.color" hash="HQyDBLrtz446eJgsLnwLBGIr8qA=">Color</Text>
+   <Text id="general.colors" hash="iNXkysEE/8PwLdVPLw8QdP0z/Zs=">Colores</Text>
+   <Text id="general.primary" hash="qaluwBlJTVuLBBwdJGgGGuZuNdU=">Primario</Text>
+   <Text id="general.secondary" hash="Al3lmeoKYmLutOoHNBPic9Dqh1s=">Secundario</Text>
+   <Text id="general.tertiary" hash="txCh+YIAsitTS/EmnF+iyE4bbYI=">Terciario</Text>
+   <Text id="general.overwrite" hash="BiXFTgN+1GUesrWy4/PYed01Vs4=">Sobreescribir</Text>
+   <Text id="general.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Ayuda</Text>
+   <Text id="general.text" hash="wzKMObDin3jp/0XbZ0JIsdJFiH0=">Texto</Text>
+   <Text id="general.scale" hash="op8CVicuecqRocTmCPCaYmQ5fRI=">Escala</Text>
+   <Text id="general.left" hash="iuHDS9N/rUnMX44C2mSKeOicPtg=">Izquierda</Text>
+   <Text id="general.right" hash="lU2qiwAzXGbiYhBuAffcIrGaQ3I=">Derecha</Text>
+   <Text id="general.playerX" hash="MVsfUs3/K9WXX5M/hmxmrAqE+Kw=">Jugador {0}</Text>
+   <Text id="general.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Miscelaneo</Text>
+   <Text id="general.on" hash="4ASaZlGcrnEVmAC7d6NQB7wtdtM=">Encendido</Text>
+   <Text id="general.off" hash="495asMpMadvwDobSVYhD6NgGu0k=">Apagado</Text>
+   <Text id="general.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="general.low" hash="oSSUfL0tHZK0fgJydMMmn/DHqEs=">Bajo</Text>
+   <Text id="general.high" hash="saWVSkg/j4sCBzhQlfdK60CbP4A=">Alto</Text>
+   <Text id="general.map" hash="q0ePPvyEDuurkZ3/G5USKG9wwQw=">Mapa</Text>
+   <Text id="general.yes" hash="U5fgWD8U9siN4Gse8o9GCh+1sK4=">Si</Text>
+   <Text id="general.no" hash="gWxS/SvdlKY80JRII6bAqpOEwQM=">No</Text>
+   <Text id="general.ready" hash="IMfFUi/CjFgXVQ3YK8MnLrapkcc=">Listo</Text>
+   <Text id="general.empty" hash="MVn+QhsyITgbPHeNwcPCbkVAvjc=">Vacío</Text>
+   <Text id="general.spectator" hash="TpIPqJcRcr3BySdEsTUs4YyA46A=">Espectador</Text>
+   <Text id="general.user" hash="n4ojiaIMoHUqqelQk1FVF+kOGUw=">Usuario</Text>
+   <Text id="general.bot" hash="OjGS4nkcV4YYDQImS16TRUBa+n0=">Bot</Text>
+   <Text id="general.enable" hash="IAY62QUyic7KogrmMO0t11goKgc=">Activar</Text>
+   <Text id="general.disable" hash="mn1OBoexTit82kBpALgCeCzVCmI=">Desactivar</Text>
+   <Text id="general.appearance" hash="Qd73oP6+dB2ofFt5znjOJ7g/Ouc=">Apariencia</Text>
+   <Text id="general.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Vista previa</Text>
+   <Text id="general.information" hash="DrXtUG5JI8KNf0qKpp7+mbOtddE=">Información</Text>
+   <Text id="general.message" hash="aPQUX+593navzrkQFlkkrRTPDQA=">Mensaje</Text>
+   <Text id="general.time.minute" hash="aw0xwNVjIjAk2kVpFYRkOseMlug=">m</Text>
+   <Text id="general.time.second" hash="oPFJCiDQIRyZe0S8NX4Zct6riuM=">s</Text>
+   <Text id="general.gender" hash="inVMYcLO0MX/eaGCfgLJ1kPW2SY=">Género</Text>
+   <Text id="general.gender.male" hash="PzpInHLeqADqe2M4yJk4dm1BpuU=">Masculino</Text>
+   <Text id="general.gender.female" hash="t8F+l9PWJWlLg22FrObtwYu+8OY=">Femenino</Text>
+   <Text id="general.NA" hash="CNLpjmdUr5QUhISJMMy63f7+E9Y=">N/A</Text>
+   <Text id="general.anonymous" hash="m+1RBABMX+Tj5GZz2hdEcr/xNgo=">Anónimo</Text>
+   <Text id="general.unnamed" hash="mxFcmbHa521O1mCRsd0o6TN975s=">Sin Nombre</Text>
+   <Text id="connection.success.serverFound" hash="4u8VTOmkf/5/pFYRfDtlrXVltec=">Servidor Encontrado</Text>
+   <Text id="connection.failed.lost" hash="Ylg3aYfhmHYJOTwUIOjYAwLBSb0=">Conexión perdida</Text>
+   <Text id="connection.failed.connectToServer" hash="tQg87zHOyIbfOho+OwU0hm7NL90=">Conexión con el servidor fallida.</Text>
+   <Text id="connection.failed.kicked" hash="hh8BOoYAIO87Hia0xAUtpTcuTEA=">Has sido expulsado del servidor.</Text>
+   <Text id="connection.failed.highping" hash="gu89k75cWybbstGlRr02q2cbZJU=">Tu latencia era muy alta y fuiste expulsado del servidor.</Text>
+   <Text id="connection.failed.afktime" hash="10SNJpg0EqKKU2JAqeoaEn0mr7U=">Te quedaste quieto por mucho tiempo y has sido expulsado del servidor.</Text>
+   <Text id="connection.failed.slowLoading" hash="cdJgRyQEFkApdS9LEQnQ7OpcHuY=">La carga ha tomado mucho tiempo o ha fallado.</Text>
+   <Text id="connection.failed.banned" hash="bvGBIz6kWj0tMWpFyJaO4EF/V9k=">Has sido bloqueado de este servidor.</Text>
+   <Text id="connection.failed.notnegotiated" hash="Oterc7bapFVyTojKtJ9PTyFDN9c=">Negociación de conexión fallida. No se pudo conectar.</Text>
+   <Text id="connection.failed.serverBusyLoading" hash="nhvgxBh1QIsLv2vSEKXOULEw1sM=">El servidor está cargando; intenta de nuevo.</Text>
+   <Text id="connection.failed.serverRefused" hash="+96lkRu3AroMbuG7pgZ0ExbmfWU=">El servidor rechazó la conexión.</Text>
+   <Text id="connection.failed.serverRefusedInvalidPassword" hash="0vs4D/iB9AykRUuuETpGKrNRQiw=">El servidor rechazó la conexión, contraseña incorrecta.</Text>
+   <Text id="connection.failed.serverRefusedInvalidAccount" hash="SrZ0BW62YCWGGjFTJt4V6eUvHtI=">El servidor no pudo verificar tu cuenta.</Text>
+   <Text id="connection.failed.serverRefusedKickTimeout" hash="VFeum7c+Ad78yuGlD2O3icskw7w=">Has sido recientemente expulsado de este servidor y no puedes unirte justo ahora.</Text>
+   <Text id="connection.failed.gameIsFull" hash="QTHxxkU5A38LkRH+9Ae85ncNCjQ=">El juego está lleno.</Text>
+   <Text id="connection.failed.differentVersions" hash="n73TG3Ts043a9y/ub/8Zc14svr4=">La versión del servidor {0} difiere de la tuya {1}.</Text>
+   <Text id="keyinput" hash="uy/mPloyyyWW2fYNKuJxrk0cF4c=">ENTRADA</Text>
+   <Text id="keyinput.keyboard" hash="ZmLEC6x4qP5eIyGbdwh/vnZHyxU=">Teclado</Text>
+   <Text id="keyinput.gamepad" hash="o2pf+m4Nz7ZPrBsrPW+xdt6Wid4=">Mando</Text>
+   <Text id="keyinput.active" hash="pzO4CdLxIzSWq1Fu7Q8+91zzeRo=">Activo</Text>
+   <Text id="keyinput.bindingaction.invalidkey" hash="E3h7XE5vVQOI4vZ27lD8IcdbC/Y=">La acción no pudo ser asignada al botón presionado. Selecciona otro botón.</Text>
+   <Text id="keyinput.bindingaction.invalidcontroller" hash="ypsyKJgCxYElb2nkzRLSwzm/bq4=">La entrada seleccionada no coincide con el mando presionado. Por favor selecciona el mando correcto.</Text>
+   <Text id="keyinput.reset" hash="ncQBIhm24ZB+6ZfShplWxNNaeNE=">REINICIAR LAS ASIGNACIONES PARA J{0}</Text>
+   <Text id="keyinput.show" hash="hKhSdocsGNIH/jcbkRCxrYbTeCM=">MOSTRAR LAS ASIGNACIONES PARA J{0}</Text>
+   <Text id="keyinput.reset.confirm" hash="sP56SwCGCWOJFsCJtMhsrjuu1r0=">¿Reiniciar asignaciones de teclas para el jugador {0}?</Text>
+   <Text id="key.UNBOUND" hash="6pS5lo5MFsPlw4PlWluBn7yggTw=">&lt;NINGUNO&gt;</Text>
+   <Text id="key.K_SHOW_CHAT" hash="Se0mkYzqft+Hei3bSbnZ2+ZJ9Yk=">MOSTRAR CHAT</Text>
+   <Text id="key.K_USE_CHAT" hash="JrxRuMJOlpCCJxt4L0Z/QJtwz7I=">CHAT</Text>
+   <Text id="key.K_TOGGLE_CAMERA" hash="2XwP5AvePJT0YULW1RefY+mfIiU=">ALTERNAR CÁMARA</Text>
+   <Text id="key.K_TOGGLE_GUI" hash="m03/MTExpINj93yO2DCZANQuLjE=">ALTERNAR GUI</Text>
+   <Text id="key.K_TOGGLE_FULLSCREEN" hash="/RFitshLxojsNIYRzsX4XJajjV0=">ALTERNAR PANTALLA COMPLETA</Text>
+   <Text id="key.K_PRINT_SCREEN" hash="ooL6sGGdlqW8NqcYwM6pUA24FMA=">CAPTURA DE PANTALLA</Text>
+   <Text id="key.K_TOGGLE_CONSOLE" hash="IrfHsAqtR5d7qIA81RHVKjYCXQA=">ALTERNAR CONSOLA</Text>
+   <Text id="key.K_SHOW_SCOREBOARD" hash="KzCLx8IB06Vxa51LRP25aTVmFEU=">MOSTRAR PUNTUACIONES</Text>
+   <Text id="key.K_QUICK_RESOLUTION" hash="bmAHaNVN78P1cljIEjx8fGtlRYk=">SELECTOR DE RESOLUCIÓN</Text>
+   <Text id="key.K_VOTE_NEXT_ROUND" hash="b4nGd+4B8YNc2rIrndBvuqpxZBI=">SIGUIENTE RONDA</Text>
+   <Text id="key.K_VOTE_1" hash="DA8NXCZrYHLd+lrJBvpZvZa9YUU=">VOTAR 1</Text>
+   <Text id="key.K_VOTE_2" hash="/yKiXOFT6M+QPjTEriGqQk0+dLg=">VOTAR 2</Text>
+   <Text id="key.K_VOTE_3" hash="0+l9ARRiNTry8rWSDP1M/F3SKmw=">VOTAR 3</Text>
+   <Text id="key.K_VOTE_4" hash="NgqyMjKVqb+tO4jLBVVbKy4RUpA=">VOTAR 4</Text>
+   <Text id="key.K_AIM_CLIMB_UP" hash="RF87K0xq58UkpgWJL6FMpCg2XSY=">ARRIBA (APUNTAR/ESCALAR)</Text>
+   <Text id="key.K_AIM_CLIMB_DOWN" hash="vu6z7UKETb4cBxICgtCqqt/l5rk=">ABAJO (APUNTAR/ESCALAR)</Text>
+   <Text id="key.K_AIM_RUN_LEFT" hash="lGZF8PpEsLf8NVnhDrHvQOqF4/U=">IZQUIERDA (APUNTAR/CORRER)</Text>
+   <Text id="key.K_AIM_RUN_RIGHT" hash="jB0B5zxNmPE342vIEaELH2hsIs4=">DERECHA (APUNTAR/CORRER)</Text>
+   <Text id="key.K_CROUCH_ROLL_DIVE" hash="GnJMXIkWgy2e2DjITmgNszsIa3M=">AGACHARSE/RODAR/PICADA</Text>
+   <Text id="key.K_JUMP" hash="uw15tXjsddmgYrAp5c/RkooC3Vs=">SALTAR</Text>
+   <Text id="key.K_ATTACK" hash="34bUtttjEFQg7leTM6hpbKu4kfI=">ATACAR</Text>
+   <Text id="key.K_BLOCK" hash="v1Xd2XJaoah+QVoTluBpyNR7JdE=">BLOQUEAR</Text>
+   <Text id="key.K_AIM" hash="6aB2QUM0ljtBLZ93e0UM8H3HsOs=">APUNTAR</Text>
+   <Text id="key.K_KICK" hash="mXZJi8WF+U8JCEPALkp4Wm5Zyy4=">PATEAR</Text>
+   <Text id="key.K_DRAW_MELEE" hash="6LE7abW4xtqjswBCnRRE5AqxIVQ=">EQUIPAR CUERPO A CUERPO</Text>
+   <Text id="key.K_DRAW_HANDGUN" hash="752Oo5eweYpS0UvxxjkdJFgRBoo=">EQUIPAR PISTOLA</Text>
+   <Text id="key.K_DRAW_RIFLE" hash="eJcc7BtyFvC2bvw/Jn60lWG5lgQ=">EQUIPAR RIFLE</Text>
+   <Text id="key.K_DRAW_GRENADE" hash="E1uDabHR42hvuJyY6JWMHklZe9o=">EQUIPAR GRANADA</Text>
+   <Text id="key.K_DRAW_SPECIAL" hash="VBfrxWEWYU7mxgvE7mnMZwxsNzc=">USAR POTENCIADOR</Text>
+   <Text id="key.K_ACTIVATE" hash="8AX/iUinCTy3slekTPhplNdvPh0=">ACTIVAR/RECOGER</Text>
+   <Text id="key.K_RELOAD" hash="WOAD9elBCLbophwwmbTvhurGD8g=">RECARGAR</Text>
+   <Text id="key.K_SHEATHE" hash="mCHBd8sVpPR5XxTGuWw4i3JTEuk=">ENFUNDAR/ENVAINAR ARMA</Text>
+   <Text id="key.K_DROP" hash="235ltYha3Nerz32hAaPRynV3+fQ=">ALTERNAR MODO DE LANZAMIENTO/SOLTAR ARMA</Text>
+   <Text id="key.K_SPRINT" hash="ho/1iEWtVWMdk3xrpjhYMt3TpR8=">CORRER</Text>
+   <Text id="key.K_WALK" hash="q+WeNk8ea6T7KPcXAOd4hGfRFe4=">CAMINAR</Text>
+   <Text id="key.K_GRAB" hash="1Np97KRPcmwWY31a8EHQEQS3GAU=">AGARRAR</Text>
+   <Text id="key.K_START" hash="KtQyaz0b3gNg2jFB2xq0E1idZs0=">MENÚ/INICIAR</Text>
+   <Text id="key.K_AD_GRAB_ENABLED" hash="ZwLllZtonFhLqeGqj0N0fppbaZM=">ATACAR+BLOQUEAR PARA AGARRAR</Text>
+   <Text id="key.K_DOUBLE_TAP_SPRINT_ENABLED" hash="UbEYdn3J45WmXiDXrwjVGxifkK8=">DOBLE TOQUE IZQUIERDA/DERECHA PARA CORRER</Text>
+   <Text id="key.xbox.A" hash="bc1M4j2I4u6VaLpUbAB8Y9kTHBs=">A</Text>
+   <Text id="key.xbox.B" hash="rk8oHfWl0P88rWNx921cKbbZU+w=">B</Text>
+   <Text id="key.xbox.X" hash="wDKtwf9inJtm8idJrWZ+a+rfFEs=">X</Text>
+   <Text id="key.xbox.Y" hash="I+tNP0FVOVp06dU0+X/0wZCPWqw=">Y</Text>
+   <Text id="key.xbox.Back" hash="tSs2tyafv8WOwku3JGkZUaPey+g=">Back</Text>
+   <Text id="key.xbox.Start" hash="lS83VBLon/ITqKyjg9GOVpE1Q0c=">Start</Text>
+   <Text id="key.xbox.LeftBumper" hash="9VO85RLav/ig63v0jpztlbceD8o=">Bumper Izquierdo</Text>
+   <Text id="key.xbox.LeftTrigger" hash="Gi2MEfbnvhIjW4yyi04pQvlczis=">Gatillo Izquierdo</Text>
+   <Text id="key.xbox.RightBumper" hash="Wz16sOICpaK0zIs/ce9bdp3fUbc=">Bumper Derecho</Text>
+   <Text id="key.xbox.RightTrigger" hash="eWYhn5YWrmhFsGPqmtxqrF+TjE0=">Gatillo Derecho</Text>
+   <Text id="key.xbox.LeftStick.Click" hash="mEkZunh2QTPhKWTPYLjc6uLY0Y8=">L-Stick</Text>
+   <Text id="key.xbox.LeftStick.Up" hash="H4ruIyh29bXV1iB3y2314aydx2Q=">L-Stick Arriba</Text>
+   <Text id="key.xbox.LeftStick.Down" hash="QWGFEmVcT0il0Iagafav2y2YXQ4=">L-Stick Abajo</Text>
+   <Text id="key.xbox.LeftStick.Left" hash="8v8CYmBhiPtEAa6pgjYE4coF3nU=">L-Stick Izquierda</Text>
+   <Text id="key.xbox.LeftStick.Right" hash="BuyNmiSsTgzH3Xi2zUR3wAUrXJ4=">L-Stick Derecha</Text>
+   <Text id="key.xbox.RightStick.Click" hash="VY66xaF5y3IOl1OzpiUnX2D04wQ=">R-Stick</Text>
+   <Text id="key.xbox.RightStick.Up" hash="ZVBcNhJy0R4s5vfYY4ZsYGpdqHY=">R-Stick Arriba</Text>
+   <Text id="key.xbox.RightStick.Down" hash="aETDqrtxVe9qd/uMgLnvbkO+LDo=">R-Stick Abajo</Text>
+   <Text id="key.xbox.RightStick.Left" hash="A87HHWlPQgOXMhQZJCjr3W3pZa4=">R-Stick Izquierda</Text>
+   <Text id="key.xbox.RightStick.Right" hash="B8x34QwwE8LIWRnDRvpdrUtTteQ=">R-Stick Derecha</Text>
+   <Text id="key.xbox.DirectionalPad.Up" hash="4BBQBJGcPUBbxE117Letz4IL78o=">D-Pad Arriba</Text>
+   <Text id="key.xbox.DirectionalPad.Down" hash="5q6BGbS84v+0BWQcnARTqWYuToE=">D-Pad Abajo</Text>
+   <Text id="key.xbox.DirectionalPad.Left" hash="tKiFVxBy+A6ZOomc3KPRwTAgczo=">D-Pad Izquierda</Text>
+   <Text id="key.xbox.DirectionalPad.Right" hash="aDq3k8O/ZOY09MukrCn+feJSBtA=">D-Pad Derecha</Text>
+   <Text id="vote.nextmap" hash="sNJuQzgjvCy2ZWHNHfMr5RK1I1o=">Votar - siguiente mapa</Text>
+   <Text id="vote.nextmap.alternative.official" hash="CwxvkNFysihX/bfE4W092FhYGsw=">{0}</Text>
+   <Text id="vote.nextmap.alternative.custom" hash="Y0es1361fhISSOEOHZzEthEZ/VE=">{0} (Mapa personalizado)</Text>
+   <Text id="vote.timeremaining.seconds" hash="5mcRKutQeRYRAbXCKPA6jCPbSkE=">Tiempo restante: {0} s</Text>
+   <Text id="mapType.versus" hash="bCqa2dWvpZO+695E/aurx/91o04=">Enfrentamiento</Text>
+   <Text id="mapType.custom" hash="CBrj/cQDYJz252CEnrsUEXt6UMs=">Personalizado</Text>
+   <Text id="mapType.campaign" hash="aTkOFmVw5em6E642Av6qARHyaFs=">Campaña</Text>
+   <Text id="mapType.survival" hash="/ojqjV+m0m0peoGAT0OwrRMKGwU=">Supervivencia</Text>
+   <Text id="mapType.challenge" hash="u51lP04S3u2JHhb/fn2TduE/B10=">Desafío</Text>
+   <Text id="tutorial.prompt.location" hash="X/XXltXpuEzxfTrSAh4MqP30zwQ=">Rorschach Airfield, Carolina del norte, USA
+ 1976</Text>
+   <Text id="tutorial.prompt.move" hash="FxgydllSTOhHk6zaomb/pEFosVU=">Presiona Flecha Izquierda / Derecha para moverte</Text>
+   <Text id="tutorial.prompt.jump" hash="FhkJ17jplyEx+b8mLNhIMpU3Spo=">Presiona Flecha Arriba para saltar</Text>
+   <Text id="tutorial.prompt.dropdown" hash="cJ8jRF1oN2qlYc8nQEuTO71jGlQ=">Manten Flecha Abajo para agacharte \n Presionala dos veces rapidamente \n para bajarte de una plataforma</Text>
+   <Text id="tutorial.prompt.sprint" hash="CU6XBO7BJ15ZsENPMiGTMr5Bfas=">Manten presionado el Shift Izquierdo \n o presiona dos veces rapidamente \n Flecha Derecha o Izquierda para correr.</Text>
+   <Text id="tutorial.prompt.ladder" hash="Ez80NhPSBUoab0c7ecejc1RX9Co=">Arriba = Trepar la escalera \nAbajo = Deslizarse por la escalera \nA = Saltar desde la escalera \nD = Tirarse de la escalera</Text>
+   <Text id="tutorial.prompt.use" hash="QfPEBmDt3brzFjUlzc4FZ/FUHe8=">F = Usar</Text>
+   <Text id="tutorial.prompt.crouch" hash="ge3B1ByjxxqN5jDNSm/2SmQvG0w=">Manten Flecha Abajo para agacharte</Text>
+   <Text id="tutorial.prompt.roll" hash="OAjQWYEsM1g3iCB8zCDsB9DdeLI=">Presiona Flecha Abajo + Izquierda o Derecha para rodar en el suelo</Text>
+   <Text id="tutorial.prompt.dodgebullets" hash="X1sh5CfckFLVDFFsEAJ592JJ3+M=">¡Rueda para esquivar las balas!</Text>
+   <Text id="tutorial.prompt.whenonfire" hash="dWsMTxYMGJZfNNdrsw8c1gFpxCM=">Rueda en el suelo cuando estes en llamas para apagarte</Text>
+   <Text id="tutorial.prompt.divefall" hash="fd7GKFrfPbJDx5npykIXadfthGU=">Mientras corres presiona Flecha Abajo \n para caer en picada (Una caida sin daño)</Text>
+   <Text id="tutorial.prompt.kick" hash="zpld3r7eRPzCSmOWh11rYtleTGo=">S = Patear</Text>
+   <Text id="tutorial.prompt.attack" hash="BMHIMt4ywZzkB94sh2MASGyz7z8=">A = Atacar</Text>
+   <Text id="tutorial.prompt.block" hash="rz/Md6ZvzkVuQf8UGrF0YaUcb+I=">Presiona D para bloquear / defenderte</Text>
+   <Text id="tutorial.prompt.grab" hash="FGcxaDKuVCOGpUZ5Cpinm5x+UiA=">Presiona R para agarrar a un enemigo. \n Y despues: \n A = Golpear al enemigo \n D = Arrojar a tu enemigo</Text>
+   <Text id="tutorial.prompt.jumpattack" hash="UBcABS8G3DkkcF9es6dNvSFfpvg=">Presiona A en el aire para dar un golpe aereo \n o la S para dar una patada voladora \n (Quita mas vida si la haces cuando estas cayendo)</Text>
+   <Text id="tutorial.prompt.finnishopponent" hash="g8Zw0XD4ZCvyCuTP6co1jcXiBR4=">Elimina a tu oponente para continuar</Text>
+   <Text id="tutorial.prompt.catchthrown" hash="zQTIfK8tbnHmR3GCDtWSmyjvwNM=">Usa la tecla de bloqueo (D) para atrapar un arma en el aire.</Text>
+   <Text id="tutorial.prompt.throwingmode" hash="B9ymndKsW93BIe1SjkNRIHOiWAQ=">G = Activa el modo arrojar \nA = Arrojar</Text>
+   <Text id="tutorial.prompt.weaponhandling" hash="L7Mc60yDEyKeUNc/r6WKeguMLDo=">F = Juntar item \n1 = Arma de pelea mano a mano \n2 = Arma secundaria \n3 = Arma principal \n4 = Items para arrojar \n5 = Usa tu poder \nQ = Desarmar \nG = Modo arrojar \nMantener G = Suelta el item</Text>
+   <Text id="tutorial.prompt.cover" hash="JJvwQw70lwZsM1UXcr5GWYfN0rM=">Cuando estes cerca de cualquier obstaculo alto \n presiona Izquierda o Derecha para cubrirte con el</Text>
+   <Text id="tutorial.prompt.aiming" hash="KLeXuaMKeg1vuENPnBYQiYyjpBM=">Manten presionado D para apuntar luego \npresiona Arriba o Abajo para mover la mira \nA = Disparar \nR = Recargar</Text>
+   <Text id="tutorial.prompt.throwables" hash="R5H1rop1pgDnxQDPvs3bXAWye9o=">F = Juntar item \n4 = Activa los items para arrojar \nManten D para apuntar la granada \ny Manten A para armarla. \nSuelta la A para arrojarla.</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part1" hash="wG3JEKSkGHEkncLkySbRNilrleo=">¿Piensan que porque son supersoldados modificados geneticamente recien frescos del tanque estan listos para servir a su pais?</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part2" hash="7wIQM1ikG0krWLz00h70CMtpB34=">¡ESTAN EQUIVOCADOS!</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part3" hash="rZejUs0gAhbVrVudgsctVRL1cRU=">Hasta que no termine con ustedes no son nada mas que ¡GUSANOS!</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part4" hash="+5FF2YpEJe1ICD2QDAWyUFBrSVY=">¡Muevanse gusanos! Veamos que tan listos estan.</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part5" hash="lwBqb1vsf0H5uziltWkkML2EIbI=">¡Tu tambien novato! ¡Mueve el trasero!</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part6" hash="L4jrjQH/Cl8GlRdzwj9xKJ+XfEM=">¿Te crees listo novato?</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part7" hash="keDLHhpV+0xRvg4OliS0j2FNjBk=">Te has ganado una paliza americana, novato.</Text>
+   <Text id="tutorial.prompt.dialogue.movealong" hash="0f000yyPZnK4Emm3xA33nA+51L4=">¡Adelante, novato!</Text>
+   <Text id="tutorial.prompt.dialogue.stayalert" hash="8YWx9Zko/fjRLxxhfgDTIKNlIqc=">¡Alerta novato! El enemigo atacara sin advertencia. Siempre observa tus alrededores.</Text>
+   <Text id="tutorial.prompt.dialogue.throwbegin" hash="SuNe4k8KoNjfsTpieJ4LPJc0dHU=">¡Piensa rapido, novato!</Text>
+   <Text id="tutorial.prompt.dialogue.throwregret" hash="OfJKwkkmGFkgZVBAES5RjSWsJzI=">Ummm... ¿Sin resentimientos, no?</Text>
+   <Text id="tutorial.victory.trainingcomplete" hash="XGyO2fcCA80mzgcFAyYT/WHkYHQ=">ENTRENAMIENTO COMPLETO</Text>
+   <Text id="properties.mapAuthor" hash="X9oj1iAVuZ+yqfhrOLzfK992Ccg=">Autor</Text>
+   <Text id="properties.mapAuthor.description" hash="8QiDETeGqimh7q7MgdKOCovRD1U=">Nombre del creador</Text>
+   <Text id="properties.mapName" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Nombre</Text>
+   <Text id="properties.mapName.description" hash="EVawmlV5WgNlAf6yCszEna8WTOE=">El nombre del mapa/script</Text>
+   <Text id="properties.mapDescription" hash="VfjryAXmW1tx3a/a45DjvivNaa8=">Descripción</Text>
+   <Text id="properties.mapDescription.description" hash="CXo+lHP5tuuZrCvU9BXLqjhWGEY=">Proporciona una descripción que sera vista cuando publiques tu mapa/script en la Workshop de Steam.</Text>
+   <Text id="properties.mapType" hash="/s6H8J5a4hB3mEHG/t/4IiTFc9Y=">Tipo de mapa</Text>
+   <Text id="properties.mapType.description" hash="AS/D4D+ijR35Ji0hpgp6f7iolWk=">El tipo de mapa.</Text>
+   <Text id="properties.scriptType" hash="v6a34Tq6qhysImEnw+SUd2vi4EE=">Tipo de script</Text>
+   <Text id="properties.scriptType.description" hash="XWP14NX+SYauSCvAz+YqAcvPc28=">Tipo de mapas que este script soporta. Los mapas que no lo soporten ignoraran este script.</Text>
+   <Text id="properties.mapTotalPlayers" hash="YEdTUyV+VL0foGRPB92alduWfk0=">Total de jugadores</Text>
+   <Text id="properties.mapTotalPlayers.description" hash="5lWfbbTz7PV9F8+vranb+y8fbt0=">Maximo de jugadores a jugar en este mapa</Text>
+   <Text id="properties.mapAutoFillBots" hash="NDwfwkSlXFcATSAGX8lU5cGw3ak=">Rellenar automaticamente los lugares vacios con bots</Text>
+   <Text id="properties.mapAutoFillBots.description" hash="dKJc6dXn1WWnonhROJFKN5nQ2Jk=">Si cualquier lugar abierto debe ser llenado con bots en vez de jugadores. Requiere que el maximo de jugadores sea fijo.</Text>
+   <Text id="properties.mapPartName" hash="gCq7Vk2wLDOSgj+vvmQE7b57JCs=">Nombre de la parte del mapa</Text>
+   <Text id="properties.mapPartName.description" hash="Jv4tsXUSnODDZOLa/42OsgHjWsg=">El nombre de la parte del mapa</Text>
+   <Text id="properties.mapPartSelectable" hash="XYI8zj0qAPOyCM3mDx15l/xwZ3o=">Parte del mapa seleccionable</Text>
+   <Text id="properties.mapPartSelectable.description" hash="f/WYEebvzv6j0QWBg4ubVPZQqGI=">Si esta parte del mapa puede ser elegida al utilizar este mapa</Text>
+   <Text id="properties.mapIsTemplate" hash="wyWrQbngsIRjgmSgGh2xwhbmXno=">Boceto del mapa</Text>
+   <Text id="properties.mapIsTemplate.description" hash="qDaVG0Kf5T9QX7culd1awwkxzGA=">Los mapas bocetos no pueden ser jugados y solo pueden ser abiertos en el editor de mapas.</Text>
+   <Text id="properties.mapEditLock" hash="tSZPvk/rHiOOVcc1PytX+nQLb68=">Bloqueo de edición</Text>
+   <Text id="properties.mapEditLock.description" hash="P/rOH+S8hAu3zTnYTOj9EDxSwuY=">Bloquea el mapa para que no pueda abrirse por otros usuarios en el editor de mapas.</Text>
+   <Text id="properties.mapTags" hash="hI7tD71UKfVWspgt7D6ocTbjPkQ=">Palabras clave</Text>
+   <Text id="properties.mapTags.description" hash="XtcdSzZJVMYY+JZPoCsYEnTBKoQ=">El mapa es automaticamente etiquetado con el tipo de mapa cuando lo subes a la WorShop de Steam. Esta propiedad te permite agregar etiquetas adicionales para categorizar mejor a tu mapa y que otros lo encuentren mas facilmente. Selecciona las etiquetas que mejor describen a tu mapa. Etiquetar a tu mapa con las etiquetas equivocadas puede resultar en votos negativos.</Text>
+   <Text id="properties.group.mapInformation" hash="jKXxpZq68gcRrSnFzCLx1wM9Exg=">Información del mapa</Text>
+   <Text id="properties.group.worldProperties" hash="/GUUTIGjtH8j4ZQ9fOHdJXEHY2U=">Propiedades del mundo</Text>
+   <Text id="properties.mapobjectid" hash="KIPxkbxev9wWwIE+/2WbNTY+pps=">Objeto</Text>
+   <Text id="properties.baseid" hash="ificAs9H4JHnJqTge4ivCWaAaJc=">ID</Text>
+   <Text id="properties.id" hash="3vckZUVWkwUiSnwmehyDLu8+pRU=">ID del Objeto</Text>
+   <Text id="properties.id.description" hash="NxXt27QYElxWjcxvXeqr58CiZWA=">Identificador de objeto personalizada utilizada por los scripts.</Text>
+   <Text id="properties.weaponspawnchances" hash="lU6ZARyvsHRfLenPWSx3W1Jv3ws=">Probabilidades de generar arma</Text>
+   <Text id="properties.weaponspawnchances.description" hash="ZY4xMS1c7PJCe7wWeMyHgfEPNN0=">Modifica las probabilidades de generar armas en tu mapa</Text>
+   <Text id="properties.thumbnailimage" hash="awFHo6OdNZEr7ZxTT5b/8LVYwpw=">Vista previa</Text>
+   <Text id="properties.thumbnailimage.description" hash="Soz8DifFTaQCaoMtIXb0/LnAlOM=">Propociona una imagen de vista previa para tu mapa</Text>
+   <Text id="properties.text" hash="wzKMObDin3jp/0XbZ0JIsdJFiH0=">Texto</Text>
+   <Text id="properties.text.description" hash="LLnCcxllW7hI2Anrcyppv5+pYew=">Texto a mostrar. Usa [TEXT=language.textId] para insertar texto de un </Text>
+   <Text id="properties.textAlign" hash="DWnHWNyMPgd3s3g6JWns7vL9YBM=">Alineación del texto</Text>
+   <Text id="properties.textAlign.description" hash="DWnHWNyMPgd3s3g6JWns7vL9YBM=">Alineación del texto</Text>
+   <Text id="properties.textAlign.Left" hash="iuHDS9N/rUnMX44C2mSKeOicPtg=">Izquierda</Text>
+   <Text id="properties.textAlign.Middle" hash="ztAoEPye+MZ/A8mKNwBWXf6c4HY=">Centro</Text>
+   <Text id="properties.textAlign.Right" hash="lU2qiwAzXGbiYhBuAffcIrGaQ3I=">Derecha</Text>
+   <Text id="properties.weather" hash="KErz6IgrvEV2BSG+LxAKLRBP9dg=">Clima</Text>
+   <Text id="properties.weather.description" hash="+bxxKkCwB4VNmPQ7ifkb+KslR0k=">Selecciona el tipo de clima en el mapa.</Text>
+   <Text id="properties.grenade.dudChance" hash="nxGHVmwGI6fPiDuFzrc/YPaoxA8=">Probabilidades de fallo</Text>
+   <Text id="properties.grenade.dudChance.description" hash="GW3rTXiUkxAactmapXcFUgmEuLQ=">Probabilidades de que la granada falle.</Text>
+   <Text id="properties.mine.dudChance" hash="nxGHVmwGI6fPiDuFzrc/YPaoxA8=">Probabilidades de fallo</Text>
+   <Text id="properties.mine.dudChance.description" hash="NpbXjlOuRmLlybSucDT+iOOJees=">Probabilidades de que la mina falle.</Text>
+   <Text id="properties.platformCollision" hash="ofp1Xqajra41ilzQP9wR3eLl0l4=">Colisión de plataforma</Text>
+   <Text id="properties.platformCollision.description" hash="Y/L1ECypUYCY0elcNx8DpF9pacM=">Si los objetos colisionaran con las partes de arriba de las plataformas individualmente o en conjunto.</Text>
+   <Text id="properties.platformCollision.unified" hash="KH/agRT0vwuSY65X8nDp8x8kw7I=">Unidos</Text>
+   <Text id="properties.platformCollision.perObject" hash="5ijpGtNlvjrFzfXVq3cgNiUFfQ4=">Por objeto</Text>
+   <Text id="properties.cameraArea" hash="0wtrfdgALZwYMZPqo9XTyRDCPGY=">Area de camara</Text>
+   <Text id="properties.cameraArea.description" hash="m++eLFwoDORkX6S1kQPQ+34crxI=">Las cordinadas en que estara la camara. (Arriba,Izquierda,Fondo,Derecha)</Text>
+   <Text id="properties.worldBottom" hash="Krz9+t5OyBmHLxwen0DJ/IsXfJ8=">Fondo del mapa</Text>
+   <Text id="properties.worldBottom.description" hash="n1VZXzNBsnF+j/RDduSKudGGaBs=">Todo lo que caiga debajo de esta linea sera destruido.</Text>
+   <Text id="properties.startCommands" hash="yaejWr2KzsAEjceR8Sm0KCTVn4Q=">Comandos del principio</Text>
+   <Text id="properties.startCommands.description" hash="UGNdHFC4ySw3+/y4rsEV8U+b+i0=">Comandos de la consola que se activan al comenzar el juego. Por ejemplo, te permite dejar un mensaje de bienvenida o cambiar el equipamiento al comenzar la partida en tu mapa.</Text>
+   <Text id="properties.startupSequenceEnabled" hash="Gl8v2ROLLcYt85wDPlIUxa3I2Ic=">Secuencia de arranque</Text>
+   <Text id="properties.startupSequenceEnabled.description" hash="KOABu5nyLb04WsGaCJTVbKbbMaU=">Si el texto de arranque deberia ser activado y visible durante el comienzo mientras se bloquea a los jugadores.</Text>
+   <Text id="properties.startupIrisSwipeEnabled" hash="Zii2lUxs3bQTiBh8oMXmd2NLMg4=">Transición de arranque</Text>
+   <Text id="properties.startupIrisSwipeEnabled.description" hash="jIqK3GDqKPC4J3UVDeDewF9NxG0=">Si debe activarse una transición de arranque.</Text>
+   <Text id="properties.deathSequenceEnabled" hash="27dByrRz6TuiOpvmPpkHHNALuYo=">Secuenta de muerte</Text>
+   <Text id="properties.deathSequenceEnabled.description" hash="aTDjH/szuK2xPm3xBLOsm/f/Bnw=">Si se deben activar el texto y el sonido de muerte al morir.</Text>
+   <Text id="properties.portal.destination" hash="aY1I0smrThRbWIbOIxkEGELhbEI=">Portal de destino</Text>
+   <Text id="properties.portal.destination.description" hash="ZBE5Bb/9F52yJGQngPBej2qa6eQ=">El portal de destino conectado.</Text>
+   <Text id="properties.portal.enterDirection" hash="WrpswRxbaDREeF9dWkKhWeK7Nw8=">Dirección de entrada</Text>
+   <Text id="properties.portal.enterDirection.description" hash="LSqrFv6j1HrVKyNsoKfn4n00R74=">La dirección en la que se debe estar corriendo para entrar en el portal.</Text>
+   <Text id="properties.portal.exitDirection" hash="//jfMYdwiUkeCZhie/kSjoOOcdQ=">Dirección de salida</Text>
+   <Text id="properties.portal.exitDirection.description" hash="C8dNl6c0eg/U/YKJDJyz8qtVI7U=">La dirección en la que se debe estar corriendo para salir del portal.</Text>
+   <Text id="properties.bodyType" hash="ytyUI5y22XIbyauuerdFSd3aP7s=">Tipo de objeto</Text>
+   <Text id="properties.bodyType.description" hash="5JEnev5Yc0CV54rGWJxlN98FhBU=">Tipo de objeto incial.</Text>
+   <Text id="properties.bodyType.static" hash="r5KWmnPWR4/LgCwadrla9NHMUzw=">Estatico</Text>
+   <Text id="properties.bodyType.dynamic" hash="zrc536qIORai89tqqhIrznAAa1M=">Dinamico</Text>
+   <Text id="properties.script.changeBodyTypeTrigger.targets.bodyType" hash="7T8gBdjuHM5QTo1UaWww89JW7Ds=">Tipo de objetos a seleccionar</Text>
+   <Text id="properties.script.changeBodyTypeTrigger.targets.bodyType.description" hash="NJyq5Y8BL1qeyc+fdOk1Kja7hVw=">Tipo de objetos seleccionados a cambiar cuando este gatillo se active.</Text>
+   <Text id="properties.force" hash="QfOKCcyJm3X4qGUkzj/nEuX+FGE=">Fuerza</Text>
+   <Text id="properties.forcePerDistance" hash="0xvMP9aEfx7PvFDwbCyizJQqKA8=">Fuerza por distancia</Text>
+   <Text id="properties.time" hash="EmiuDp4yLXU+bQvdi+VF3xxmjsg=">Tiempo (ms)</Text>
+   <Text id="properties.delay" hash="P0vEB23n5dNCRxintJcQIyI2PvM=">Retraso (ms)</Text>
+   <Text id="properties.elevator.accelerationDistance" hash="NueKOGsHIthNoYRzcaQsa88T21Q=">Distancia de aceleración</Text>
+   <Text id="properties.elevator.accelerationDistance.description" hash="At+MxG9DKZEwbWWyzu76uBS9aEo=">La distancia en la que el elevador acelerara y desacelerara. Un valor de 0 puede provocar que el elevador actue de manera extraña bajo ciertas circunstancias.</Text>
+   <Text id="properties.spawnTarget" hash="i9mGIxfaZdEeK2iyOoThj3yW/R8=">Tipo de generación</Text>
+   <Text id="properties.spawnTarget.description" hash="lyJG5L1+ZyuUjrrMuzqFWPXqUhU=">Retraso: Un nuevo objeto sera generado cuando el objetivo sea destruido. Intervalo: Un nuevo objeto sera generado luego del tiempo dado.</Text>
+   <Text id="properties.spawnTarget.interval" hash="AR781ZEBm1lpozKiTf9yioEH2+I=">Intervalo</Text>
+   <Text id="properties.spawnTarget.delayed" hash="zG57ail0/pApYElij66SDxV7gnc=">Retraso</Text>
+   <Text id="properties.bgLayer.horizonEnabled" hash="HeIQB9sHdx9als3J4CrVVs5wOuA=">Horizonte habilitado</Text>
+   <Text id="properties.bgLayer.horizonEnabled.description" hash="Rrzsq9I5OBSelFamXG5b/Tp6Ww8=">Habilita o desabilita un area negra de la capa.</Text>
+   <Text id="properties.bgLayer.horizonPosition" hash="hHiTIj+DLAuWIA/oLWjg2Rnrw9o=">Posición del horizonte</Text>
+   <Text id="properties.bgLayer.horizonPosition.description" hash="jjrsgP54r9T8Xch1NYszw1B/qUk=">La posición de la parte mas alta de la area negra.</Text>
+   <Text id="properties.bgLayer.distance" hash="cVZy3DiUr8zUVHdsvpcAB5tzpek=">Distancia del fondo</Text>
+   <Text id="properties.bgLayer.distance.description" hash="SoYDKWqeDw5zouVuw19oPe5hqhI=">Que tan lejos deberia aparecer el fondo cuando se mueve la camara alrededor de . [0-1000]</Text>
+   <Text id="properties.spawnChance" hash="tj5ZkYei1fFX6fHyt1lPf3VRQ+A=">Probabilidades de generar</Text>
+   <Text id="properties.spawnChance.description" hash="FxSBlnOF+jiexqrZbX4HJZk259Y=">Probabilidades de generación del item. Cualquier valor negativo = Probabilidades por defecto ({0}). 0 = Sin probabilidad. Mientras mas alto el valor positivo = Mas probabilidades de generarse.</Text>
+   <Text id="properties.targetObjects" hash="2MvJqVQvGw08LjU1yLTINlt0XuA=">Objetos seleccionados</Text>
+   <Text id="properties.objects" hash="cqg63Sxe3od8ENI/MC0+F6zLras=">Objetos</Text>
+   <Text id="properties.destroyTargets" hash="Odor579QrQiCxPJJqvjQj0TABNQ=">Terminar objetos</Text>
+   <Text id="properties.destroyTargets.description" hash="CYv1XJzqpnUfZLdNCJJzJQElg3w=">Objetos que seran terminados</Text>
+   <Text id="properties.destroyTargets.terminateType" hash="DntYmXjLeqBWPmkjyOOAwFS2Mls=">Tipo de terminación</Text>
+   <Text id="properties.destroyTargets.terminateType.description" hash="MwlhwzfIcbOf6RyVwabQhCm3HB4=">Tipo de terminación a ser usada en los objetos seleccionados</Text>
+   <Text id="properties.destroyTargets.terminateType.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="properties.destroyTargets.terminateType.destroy" hash="V3733BUW9LPEPdvmMyeooDmg7ew=">Destruir</Text>
+   <Text id="properties.destroyTargets.terminateType.remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Borrar</Text>
+   <Text id="properties.triggerDestroyTargets" hash="wRfaA45uYSBs3Egi4lOHGH1ilV0=">Gatillo Destruir Objetos</Text>
+   <Text id="properties.triggerDestroyTargets.description" hash="0ncvmx/xw2zoUGssSB9cirAUfrw=">Objetos que cuando se destruyan activaran el gatillo.</Text>
+   <Text id="properties.triggerDestroyCount" hash="TMzbCNiztrTPrdBpYICuM8zBOzw=">Gatillo Destruir Cuenta</Text>
+   <Text id="properties.triggerDestroyCount.description" hash="2XCDPRj9qAO1RScjPGNUDmDlwUM=">El numero de objetos gatillo que deben ser destruidos antes de que los objetos seleccionados sean destruidos. Si se deja en blanco, contara encontra de &quot;Los objetos seleccionados&quot;</Text>
+   <Text id="properties.faceAtObject.sourceObjects" hash="l5EOhXaCiEMJf6Y5EpYXXUjHWX0=">Objetos fuente</Text>
+   <Text id="properties.faceAtObject.sourceObjects.description" hash="lb7wicIQsxSIFGaYn6fRS+mSueE=">Objetos fuente que enfrentaran el objeto seleccionado</Text>
+   <Text id="properties.faceAtObject.targetObject" hash="ssqTMnwYZ1TD79OSPVyNr6wCQDk=">Objeto fuente</Text>
+   <Text id="properties.faceAtObject.targetObject.description" hash="iJZ2JukXTpbs0AD+EoXxh6oSeug=">Objeto fuente que el objeto seleccionado enfrentara.</Text>
+   <Text id="properties.faceAtObject.active" hash="pzO4CdLxIzSWq1Fu7Q8+91zzeRo=">Activo</Text>
+   <Text id="properties.faceAtObject.active.description" hash="0wfcgwy1zaDpCCDsV+VRdklZpqc=">Si esto esta activo y si los objetos fuente enfrentaran al objeto seleccionado.</Text>
+   <Text id="properties.faceAtObject.referenceAngle" hash="6Pz7mZ5QkcBCRUwLA4ebB720InU=">Angulo de referencia.</Text>
+   <Text id="properties.faceAtObject.referenceAngle.description" hash="d5ZcSuSIPcRlXEdXel/D94y6dVc=">Angulo de referncia (grados) entre cada objeto fuente y el objeto seleccionado</Text>
+   <Text id="properties.mainTargetObjects" hash="QBF1HuS9qWilRkkG5omW1skBFvY=">Objetos seleccionados principales</Text>
+   <Text id="properties.mainTargetObjects.description" hash="cqg63Sxe3od8ENI/MC0+F6zLras=">Objetos</Text>
+   <Text id="properties.targetObjectA" hash="ssqTMnwYZ1TD79OSPVyNr6wCQDk=">Objeto seleccionado</Text>
+   <Text id="properties.targetObjectA.description" hash="YrI9rZZKKcpUmcR4YeH0+lPUSuk=">Conexión al objeto</Text>
+   <Text id="properties.targetObjectB" hash="Dp4EsqGpAxBv8y4dccwT7fFaIGE=">Objeto seleccionado B</Text>
+   <Text id="properties.targetObjectB.description" hash="LezUxI7RAsV8vnI2YW+D/3u70Zo=">Conexión al objeto B.</Text>
+   <Text id="properties.checkAliveType" hash="TnJXdU0gNDqxPbTJCOxjJcV2ZFk=">Controlar si esta vivo</Text>
+   <Text id="properties.checkAliveType.description" hash="lrYVWGJ9p08D1Y4ApfgBGRceiRk=">Controla si los objetos seleccionados estan vivos.</Text>
+   <Text id="properties.script.triggersToActivate.onTrue" hash="Zbt+e/q3tTJ9OCdhBLkylpLr5r4=">Activar gatillos con verdad</Text>
+   <Text id="properties.script.triggersToActivate.onTrue.description" hash="QTGe/h8b0Z0YcPT/peSvilUNCKU=">Activar los gatillos cuando la condicion es verdadera.</Text>
+   <Text id="properties.script.triggersToActivate.onFalse" hash="wQJ/ASOT7E23dd/kytxWfyX1uz8=">Activar gatillos con falso</Text>
+   <Text id="properties.script.triggersToActivate.onFalse.description" hash="izN/ZMJAd7JTw+3D5F4yBmtFmdk=">Activar los gatillos cuando la condicion es falsa.</Text>
+   <Text id="properties.railJoint" hash="xHLrgB7VXyMJ/lQjDF+3i0I8uTU=">Carril seleccionado</Text>
+   <Text id="properties.railJoint.description" hash="bqFNSNmT3mgePcR0El4i6NlTE5M=">El carril al cual apegarse.</Text>
+   <Text id="properties.targetObjectJoint" hash="5mAf2DnCj2EG5XV02mxFTkq4xG0=">Articulación seleccionada</Text>
+   <Text id="properties.targetObjectJoint.description" hash="2O5tCXxe7/ATkp7E2P0x//kDpj4=">La articulación a conectarse.</Text>
+   <Text id="properties.elevator.nextPath" hash="hiiAHTqVsVmDGt5Vc0N9zagl798=">Nuevo Camino de elevador con articulación</Text>
+   <Text id="properties.elevator.nextPath.description" hash="0ovVGVHo9S98YoW1+l7hgzUkFHc=">Conexión a la proxima posición del camino del elevador.</Text>
+   <Text id="properties.elevator.targetElevatorPathJoint" hash="9PtedVqfi4mAGaiF52s33oGKwdQ=">Camino de elevador con articulación</Text>
+   <Text id="properties.elevator.targetElevatorPathJoint.description" hash="ENgWuL+vBS3jKpFLTS0TSaq1CdQ=">La articulación del elevador a la cual debe apegarse y comenzar desde ahi.</Text>
+   <Text id="properties.pulleyEndJoint" hash="3PwpVdWneoyLjjya6fauUKHAgfo=">Articulación final de polea</Text>
+   <Text id="properties.pulleyEndJoint.description" hash="j009Q1OdAX39rTdNbadKKEL5U4Q=">La articulación final de la polea a la cual conectarse.</Text>
+   <Text id="properties.pulleyRatio" hash="thdaBne9TfDriHEqkLjF6SBSkZs=">Radio de polea</Text>
+   <Text id="properties.pulleyRatio.description" hash="It9ECPbRmjQ+eWg1ddVud3Q5jR4=">Radio de polea entre objetos [0.1 - 10.0]</Text>
+   <Text id="properties.alterCollision.maskBits" hash="mGEDAq6JDXkpPhMQJiWTco1g0BY=">Desactivar Bits de la mascara</Text>
+   <Text id="properties.alterCollision.maskBits.description" hash="MYZ/VQNMOZMlyQcVXdfFzcE2jWs=">Altera los Bits de la mascara (hex) en el cuerpo de un objetivo hasta que esta Tile es destruida/eliminada.</Text>
+   <Text id="properties.alterCollision.aboveBits" hash="il+ggiuxjKMSebyzyisDYCLk8Bw=">Desactivar Bits de arriba</Text>
+   <Text id="properties.alterCollision.aboveBits.description" hash="8yjrNMHXMd657w/msSVlq6SU+qQ=">Altera los Bits de arriba (hex) en el cuerpo de un objetivo hasta que esta Tile es destruida/eliminada.</Text>
+   <Text id="properties.alterCollision.categoryBits" hash="bUcBHdFQsmhzAbiWepgaHDN0CVQ=">Desactivar Bits de categoria</Text>
+   <Text id="properties.alterCollision.categoryBits.description" hash="pEMfrO7fhEOPjLPi0/ndDB7zw6E=">Altera los Bits de categoria (hex) en el cuerpo del objetivo seleccionado hasta que el objetivo es destruido/removido.</Text>
+   <Text id="properties.alterCollision.disableCollision" hash="6PmVVFLaUAJDbq31YGpJTQ4dkMc=">Desactivar colisiones entre objetos</Text>
+   <Text id="properties.alterCollision.disableCollision.description" hash="/NRag43dpwQ0xsgtiGTnWrn7WXM=">Desactiva las colisiones entre todos los objetos seleccionados.</Text>
+   <Text id="properties.alterCollision.disableProjectiles" hash="23wYTVcZF4SiCQSnHY1dSUEnPWU=">Desactivar golpe de proyectil</Text>
+   <Text id="properties.alterCollision.disableProjectiles.description" hash="odmgm+yJJHl4fbUQYEXQsZA9c0M=">Desactiva el golpe del proyectil</Text>
+   <Text id="properties.alterCollision.disableMelee" hash="MSczY9YhfXSbkzepJV2xFp+x47I=">Desactivar combate mano a mano</Text>
+   <Text id="properties.alterCollision.disableMelee.description" hash="ict8Ch1Fvulm78EFHN0ln3fuskk=">Desactiva las conexiones en jugadores con combate de patadas y mano a mano.</Text>
+   <Text id="properties.joint.limits.enable" hash="K3MjNL8ACEg/E5N1qaAqRR9MgtQ=">Activar limite</Text>
+   <Text id="properties.joint.limits.enable.description" hash="8d6P8sEEvaWxvTvPZYVVKyjY5QI=">Activa un limite de rotaciones.</Text>
+   <Text id="properties.joint.limits.upper" hash="LXplRkDCtQs+ffYK7qu1sIQi7SQ=">Limite mas alto.</Text>
+   <Text id="properties.joint.limits.upper.description" hash="Ddna216G9fKnUrIl4+Lz680uoaI=">El angulo mas alto para el limite de la articulación (grados)</Text>
+   <Text id="properties.joint.limits.lower" hash="Ez/yG6gpHUqVIYdk4ADX66Haydw=">Limite mas bajo.</Text>
+   <Text id="properties.joint.limits.lower.description" hash="PhnCN28HsastxO9FVWmEAXhdc0g=">El angulo mas bajo para el limite de la articulación (grados)</Text>
+   <Text id="properties.joint.motor.enable" hash="v1V87cGmtaFQga172SaKy97Lixw=">Activar motor</Text>
+   <Text id="properties.joint.motor.enable.description" hash="hbpc/HD4lN6DpZNWl0rcqJwaS7A=">Activar la rotación automatica.</Text>
+   <Text id="properties.joint.motor.speed" hash="MQ3174/LUPpgLx46BD+KAk4bJnA=">Velocidad del motor</Text>
+   <Text id="properties.joint.motor.speed.description" hash="e9razNjkFjgboecqaRT1mEBAb/I=">La velocidad deseada en radianes por segundo. Un valor negativo da una rotación al contrario de un reloj.</Text>
+   <Text id="properties.joint.motor.torque" hash="AVxtSO7MDcIAEwcYOq+BXIyu6qg=">Fuerza maxima del motor</Text>
+   <Text id="properties.joint.motor.torque.description" hash="QVx5+xP/VncPS94qzghjzlg0C1Q=">La fuerza maxima usada por el motor para lograr la velocidad de rotacion deseada.</Text>
+   <Text id="properties.joint.lengthType" hash="QjlGxGTMeAsacPPiVewcKhIba+Q=">Tipo de longitud</Text>
+   <Text id="properties.joint.lengthType.description" hash="c+CMDkHnah10TgdHY4asfMwQlRk=">La flexibilidad de la articulación con respecto a su longitud.</Text>
+   <Text id="properties.joint.lengthType.fixed" hash="q5j1uFdkuFYcrLsFWpY80zSSjLo=">Fijo</Text>
+   <Text id="properties.joint.lengthType.elastic" hash="KWq7FdcC6l1Tg5Wi+TN8YEDww+M=">Elastico</Text>
+   <Text id="properties.joint.lineType" hash="9zNYQ6YeCZQMvNRz42OCRN3wACM=">Linea visual</Text>
+   <Text id="properties.joint.lineType.description" hash="usL9sURFTdKHUpy+M9Ezf+W2ZtE=">Como se ve la linea.</Text>
+   <Text id="properties.joint.lineType.rope" hash="D1uFonUacvqgV71svzo1Uj6fjWg=">Soga</Text>
+   <Text id="properties.joint.lineType.elevatorWire" hash="glNgIL5NiP8HsMFFCorrQ5tPDnA=">Cable de elevador.</Text>
+   <Text id="properties.joint.lineType.carnivalLights" hash="ZGlYtnvku7IcNkK/bk6dbW+t3o0=">Luces de carnaval</Text>
+   <Text id="properties.joint.lineType.wire" hash="ZjlT9xnExVZn/YNcnBX7OCoSFKk=">Cable</Text>
+   <Text id="properties.joint.lineType.steelWire" hash="bX8gWaFl9TQ/rSfZzCrADNBSmzo=">Cable de acero</Text>
+   <Text id="properties.joint.lineType.chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Cadena</Text>
+   <Text id="properties.joint.lineType.vine" hash="08AtknLUird/EjLw9mw1YiqX+LQ=">Soga de hojas</Text>
+   <Text id="properties.joint.lineType.rail" hash="DthnDTlpJB7W830mHimo10pTLm4=">Carril</Text>
+   <Text id="properties.joint.lineType.wireBlack" hash="iIFmQuu/Re7KUkJ+YkIUYJdjoNQ=">Cable negro</Text>
+   <Text id="properties.joint.lineType.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="properties.spawnWeaponArea.frequencyModifier" hash="0LB0uUKx+ygjzRrFYW2qzYDDeUQ=">Generar modificador de frequencia</Text>
+   <Text id="properties.spawnWeaponArea.frequencyModifier.description" hash="eBtxxlAco2wbT8sYyP3v5Vl3oU8=">Mientras mas alto sea el valor mas probabilidades de generar una caja de suplementos en esta area.</Text>
+   <Text id="properties.soundArea.ambientSound" hash="T+ZzngNh6/x/ztJW+wq64QDnTq0=">Sonido de ambiente</Text>
+   <Text id="properties.soundArea.ambientSound.description" hash="FAhqA5hFrJh6Gww2u4UkRqZhyl0=">Los sonidos a reproducir en el area seleccionada.</Text>
+   <Text id="properties.soundArea.intensity" hash="jo3FPmnndxIQkzaYrdL8L0ojHHU=">Volume ([0-100]%)</Text>
+   <Text id="properties.soundArea.intensity.description" hash="3IDlZJFFTa8JVrKhg35FJYlg4pQ=">El sonido de ambiente [0-100]%</Text>
+   <Text id="properties.soundArea.fadeInDistance" hash="3dYHVNhZwG+agTK8NHDv96LRZgY=">Desvanecer en la distancia</Text>
+   <Text id="properties.soundArea.fadeInDistance.description" hash="MzRjlHZ9mI9uv6AubYurtLmJyvc=">Que tan lejos en los limites del area el volumen puede alcanzar su maximo.</Text>
+   <Text id="properties.soundArea.fadeInTime" hash="31U302CCErfmzWSaR6x+hYVWBQo=">Desvanecer en con tiempo</Text>
+   <Text id="properties.soundArea.fadeInTime.description" hash="Nk7EzMwenWJHqylaWKkQvQhiQTQ=">Cuanto tiempo despues de que el jugador entra el area el volumen puede alcanzar su maximo.</Text>
+   <Text id="properties.soundArea.followObject" hash="lgIYSXNYspDM6ch9obZtWmJp66M=">Seguir objeto</Text>
+   <Text id="properties.soundArea.followObject.description" hash="xkz9R2C+iN6mSSfzISZRa8cMTXU=">Un objeto que el area de sonido se apegara y seguira.</Text>
+   <Text id="properties.script.activateOnStartup" hash="wY3gDuBJTXSe7URiybmH+XseHDc=">Activar al inicio</Text>
+   <Text id="properties.script.activateOnStartup.description" hash="89nZwAJUIaalrW6r0h6i9jQg7YU=">Controla si el gatillo debe activarse al comenzar la partida.</Text>
+   <Text id="properties.script.activateAfterStartup" hash="UGXyQIq7uzm93CjIpCY639xs4o0=">Activar despues del inicio</Text>
+   <Text id="properties.script.activateAfterStartup.description" hash="rHocqr5dPACtMofE+AZYWLAqWY8=">Controla si el gatillo debe activarse luego de comenzar la partida. Se activara una vez que todos los demas gatillos del inicio ya se hayan activado.</Text>
+   <Text id="properties.script.alternatingTargetTriggers" hash="wUrQdqV28V0Az39UreJnU3RS5eA=">Gatillos alternativos.</Text>
+   <Text id="properties.script.alternatingTargetTriggers.description" hash="WgXCT/4mFYrp4csCvLXsrI1PRHc=">Gatillos que deben activarse en orden cada vez que este gatillo se activa.</Text>
+   <Text id="properties.script.randomTrigger.randomTargets" hash="Urw6TOQw5UKXxO5El2jpDddIMOA=">Gatillos al azar</Text>
+   <Text id="properties.script.randomTrigger.randomTargets.description" hash="zLAy+6dlDjBiDg/k9kDLGmMLrNM=">Activa un gatillo al azar.</Text>
+   <Text id="properties.script.triggersToActivate" hash="Yv/fsxy6xfRIHhZauS6TYy+DwpQ=">Activar gatillos</Text>
+   <Text id="properties.script.triggersToActivate.description" hash="Tuax+oF/h5gquopjWPMLFO2J4Sk=">Activa los gatillos seleccionados una vez que se activo este gatillo (a menos que lo personalizes con un script)</Text>
+   <Text id="properties.script.timerInterval" hash="ehxoTbvV+aWPmHYkIIpHCa8sG2A=">Intervalo de tiempo</Text>
+   <Text id="properties.script.timerInterval.description" hash="BY3O6tsxaoLO5u5wtYe+sDu3ilE=">Tiempo en milisegundos antes de activar.</Text>
+   <Text id="properties.script.timerRepeatCount" hash="6RbMTHHJG/mP/exEgnN2oD+HaQM=">Repetir conteo</Text>
+   <Text id="properties.script.timerRepeatCount.description" hash="3XAuBcmtYF5JKe6FL3B+Ose/plg=">Veces a repetir. 0 para que sea infinito.</Text>
+   <Text id="properties.script.scriptToRun" hash="vHHa5kKVQOT4V1whf5pCCT4S+QU=">Metodo de Script</Text>
+   <Text id="properties.script.scriptToRun.description" hash="J4T6cF5RlFc2aLNbbuDpC/Ao9QA=">Nombre del metodo de Script a activar cuando se active este gatillo.</Text>
+   <Text id="properties.script.activateTrigger.highlightObject" hash="Le/NnPSosIHIOQ6u25PEcOte09I=">Remarcar objeto</Text>
+   <Text id="properties.script.activateTrigger.highlightObject.description" hash="sR4e/mv6vaps4/vdwKKcaAhg+9A=">Objetos a remarcar cuando el boton sea pueda activar.</Text>
+   <Text id="properties.script.activateTrigger.useCount" hash="m5m8AhDiqPK9WI4jBI8X+LH/hJ4=">Conteo de uso</Text>
+   <Text id="properties.script.activateTrigger.useCount.description" hash="NvzMvQxZ7fS8RhUPnaIoBIeZGk8=">Veces que el gatillo puede activarse. 0 para que sea infinito.</Text>
+   <Text id="properties.script.activateTrigger.cooldown" hash="mP1n2T9B29h1bPYWqEoMQmzhq0M=">Descanso</Text>
+   <Text id="properties.script.activateTrigger.cooldown.description" hash="gEVjcWgLRyz4PzSZxab8zyclSaM=">Tiempo de descanso antes de que pueda volverse a usar.</Text>
+   <Text id="properties.script.activateTrigger.useType" hash="6191qZypCdkad4Ry236n+3dOEiE=">Tipo de uso</Text>
+   <Text id="properties.script.activateTrigger.useType.global" hash="XxGE99+WxZKAkq2ca1UGmb+IeCY=">Global</Text>
+   <Text id="properties.script.activateTrigger.useType.individual" hash="p6vtg+2eDggFnO6dP+XxQet7IJo=">Individual</Text>
+   <Text id="properties.script.activateTrigger.useType.description" hash="FY9MiT0Eh4c3INETnNDxRrq9HGI=">Uso individual o global. El individual hace que el contador de uso y de descanso sea por cada jugador que usa este gatillo.</Text>
+   <Text id="properties.script.medicalCabinetTrigger.healthAmount" hash="Me8H65K2U0mqimv6JQTMDFKLyjY=">Cantidad de salud</Text>
+   <Text id="properties.script.medicalCabinetTrigger.healthAmount.description" hash="vnTDivVmcXjntiB5WU5RbNv16k0=">Cantidad de salud a restaurar al jugador que activa este gatillo.</Text>
+   <Text id="properties.script.triggerEnabled" hash="ByGFX/VRNqL6EmS7cqsfRWbGkGA=">Gatillo habilitado</Text>
+   <Text id="properties.script.triggerEnabled.description" hash="KkzgWZjDkSolEvqoNT6WVNCurVY=">Se activa solo si el gatillo esta habilitado, no puede usarse mientras este desabilitado.</Text>
+   <Text id="properties.script.gameOverTrigger.gameOverText" hash="QWagaG22czDjcMtHMTR1lUhumWM=">Texto de Fin del juego</Text>
+   <Text id="properties.script.gameOverTrigger.gameOverText.description" hash="Y5AQ14HEUeJnjQVXsGr5Ifafx8w=">Texto personalizado a mostrar al finalizar el juego</Text>
+   <Text id="properties.script.gameOverTrigger.challengeCompleted" hash="EvIgqD4d2Vo6/cUtjoSqn6l/r+c=">Desafio completado</Text>
+   <Text id="properties.script.gameOverTrigger.challengeCompleted.description" hash="DJZM04nUGmhzczWLMCC9T5ymA+Y=">Se fija si un mapa esta completado (verdad) o si fallo (falso) cuando se activa.</Text>
+   <Text id="properties.script.playSoundTrigger.soundID" hash="4oTwbwT35l0fGMgVDqBa/S/p4Oo=">ID Sonido</Text>
+   <Text id="properties.script.playSoundTrigger.soundID.description" hash="iXLrn9j0C3gBvRjTyzX9osTUn0M=">La ID del sonido a reproducir.</Text>
+   <Text id="properties.script.playSoundTrigger.volume" hash="Oxjo4zJQDz3+2yGwrtaGz6mDLP4=">Volumen</Text>
+   <Text id="properties.script.playSoundTrigger.volume.description" hash="u4AJQYVehEX639BQeRHFok5+Cdc=">Volumen del sonido Range [0.0 - 1.0].</Text>
+   <Text id="properties.script.cameraAreaTrigger.primaryTarget" hash="FCnokwJkSHzTF0h0cNXHqOdyVXA=">Objetivo primario</Text>
+   <Text id="properties.script.cameraAreaTrigger.primaryTarget.description" hash="rHlZrUzmCzp+bh8vNvZyT9/cBjs=">El objetivo primario de la camara. Si se elige null la camara seguira al jugador principal.</Text>
+   <Text id="properties.script.cameraAreaTrigger.secondaryTargets" hash="dzcze4zscsdLNAgKqMam37IVuEE=">Objetivo secundario</Text>
+   <Text id="properties.script.cameraAreaTrigger.secondaryTargets.description" hash="qANSkkuPiwdKJVRwYFbHDPsAg5Q=">El objetivo secundario de la camara. Intentara mostrar a estos dos objetivos si es posible, si se elige null la camara mostrara a todos los jugadores vivos.</Text>
+   <Text id="properties.script.cameraAreaTrigger.infoTargets" hash="SLekEQTrkk5i2IPXSGFHxRD0S9Q=">Objetivos de Info</Text>
+   <Text id="properties.script.cameraAreaTrigger.infoTargets.description" hash="muHHhBxrD++fRaLNhlcbmk5dzTQ=">La camara intentara mostrar estos objetivos si estan cerca del objetivo primario.</Text>
+   <Text id="properties.script.cameraAreaTrigger.snap" hash="RVZzu7igfti7sWcYJDSw4M3NRzs=">Mover</Text>
+   <Text id="properties.script.cameraAreaTrigger.snap.description" hash="7KIlKhSgWasgyYRJ7EEKjBjeu+8=">Mueve la camara. La camara se movera automaticamente a esta area cuando se active en vez de moverse/animarse.</Text>
+   <Text id="properties.script.cameraAreaTrigger.cameraAreaMode" hash="q6nyvgHjdsJslKJVBw/3YKjeruk=">Modo de camara</Text>
+   <Text id="properties.script.cameraAreaTrigger.cameraAreaMode.description" hash="mf8NjWZN5KOKVT0WxY3YKf2RsZA=">El modo de camara a usar cuando se active esta zona de la camara</Text>
+   <Text id="properties.script.cameraAreaTrigger.cameraAreaMode.userPreference" hash="Mn1xIS7IP+9iM/18A6ThZMMxwNw=">Preferencias del usuario</Text>
+   <Text id="properties.script.cameraAreaTrigger.cameraAreaMode.forceDynamic" hash="erQx8QgR8P/Gva7p0KzhX4rgOrk=">Dinamicas forzadas</Text>
+   <Text id="properties.script.cameraAreaTrigger.cameraAreaMode.forceStatic" hash="oOOjWlQzAtX15nFOVwDU6EaBBrc=">Forzar estatico</Text>
+   <Text id="properties.script.camera.secondaryfocusmode" hash="eppvjavHhHF50RFIImrtsBd+7Vo=">Modo secundario de enfoque de la camara</Text>
+   <Text id="properties.script.camera.secondaryfocusmode.description" hash="SfOg0xv46+huP+DezuHotrZVXxY=">El modo secundario de enfoque de la camara en caso de que no tenga asignado un objetivo secundario.</Text>
+   <Text id="properties.script.camera.secondaryfocusmode.focus" hash="/n9VuL9o/UfSSKJx1UHn4YNiEBA=">Enfoque</Text>
+   <Text id="properties.script.camera.secondaryfocusmode.ignore" hash="mPVdtXyO2Jjbqr3eqK+IYws7fK8=">Ignorar</Text>
+   <Text id="properties.script.areaTrigger.triggersToActivate.onEnter" hash="7rjJUCgCoQhZyKZ8SLqGkdMUxTE=">Activar gatillos en entrada</Text>
+   <Text id="properties.script.areaTrigger.triggersToActivate.onEnter.description" hash="PIYh/d27Qyy+2an3OC0bgi9Lrj4=">Activa los gatillos seleccionados cuando un objeto entra el area del gatillo.</Text>
+   <Text id="properties.script.areaTrigger.triggersToActivate.onLeave" hash="nbtVtOYOOPC6AF7t9oWCIaF5qzA=">Activar gatillos en salida</Text>
+   <Text id="properties.script.areaTrigger.triggersToActivate.onLeave.description" hash="ImGbCiHhNlRqz+XzbDB17NNyHHc=">Activa los gatillos seleccionados cuando un objeto sale del area del gatillo.</Text>
+   <Text id="properties.script.areaTrigger.scriptToRun.OnEnter" hash="iHNn+oRG03MqqOtXiKaSqMSLL3o=">Metodo de entrada</Text>
+   <Text id="properties.script.areaTrigger.scriptToRun.OnEnter.description" hash="0N1ID7/78N4jvwIpEZsnAZMvQdQ=">El metodo a ejecutar cuando un objeto entra el area del gatillo.</Text>
+   <Text id="properties.script.areaTrigger.scriptToRun.OnLeave" hash="S6MwCClvJqgCxvLs8cCGMsAp7J0=">Metodo de salida</Text>
+   <Text id="properties.script.areaTrigger.scriptToRun.OnLeave.description" hash="zyTxCE/e5lQOE+ogOUFZLJgQSbw=">El metodo a ejecutar cuando un objeto sale del area del gatillo.</Text>
+   <Text id="properties.script.areaTrigger.enabledObjects" hash="VDNGOGV9suTV5UTCseynbKrt9P0=">Habilitar tipo de objetos</Text>
+   <Text id="properties.script.areaTrigger.enabledObjects.description" hash="fuy6VCaec4DOut9lE5kh2X8my98=">Que categoria de objetos pueden activar al area del gatillo.</Text>
+   <Text id="properties.script.areaTrigger.enabledObjects.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="properties.script.areaTrigger.enabledObjects.all" hash="Fn58B9hw6eA3Q+ol8zxGZz1bFWY=">Jugadores y objetos</Text>
+   <Text id="properties.script.areaTrigger.enabledObjects.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Jugadores</Text>
+   <Text id="properties.script.areaTrigger.enabledObjects.objects" hash="cqg63Sxe3od8ENI/MC0+F6zLras=">Objetos</Text>
+   <Text id="properties.script.areaTrigger.filterObjects" hash="qRLYjAim4jEBEP+9IKorNwlacwo=">Filtrar objetos</Text>
+   <Text id="properties.script.areaTrigger.filterObjects.description" hash="ruYg1hlhA6GusFMpj3WomGR3RMU=">Que objetos/jugadores especificos pueden activar el area del gatillo.</Text>
+   <Text id="properties.script.elevatorAttachment.triggersToActivate.onEnter" hash="Qw/HzPaPG3HJKlNNYaqFYqeT3SA=">Activar gatillos en destino.</Text>
+   <Text id="properties.script.elevatorAttachment.triggersToActivate.onEnter.description" hash="0DkBi2cIfAXv1Z1ftNkOFZydTgw=">Activa los gatillos cuando el nodo alcanze su proximo nodo de destino.</Text>
+   <Text id="properties.script.elevatorAttachment.scriptToRun.OnEnter" hash="egq3RFNXjQ5A2pq7fSRsRtCGcHw=">Metodo de destino</Text>
+   <Text id="properties.script.elevatorAttachment.scriptToRun.OnEnter.description" hash="wL/P4Mk/JnKfImQP7l9tdf+pzoA=">El metodo a ejecutar cuando el nodo alcanza su proximo nodo</Text>
+   <Text id="properties.script.elevatorPath.triggersToActivate.onEnter" hash="n9C6QvX0/QeWFjcdUoggiXUZGes=">Activar gatillos en llegada del elevador</Text>
+   <Text id="properties.script.elevatorPath.triggersToActivate.onEnter.description" hash="www8PyCcjr9cS8q47hyAlV+oyS0=">Activar los gatillos seleccionados cuando un NodoApegoArticulación del elevador alcanza este nodo.</Text>
+   <Text id="properties.script.elevatorPath.scriptToRun.OnEnter" hash="uvzVxKANx5DjHshsZIsSJmO4Yno=">Metodo de destino</Text>
+   <Text id="properties.script.elevatorPath.scriptToRun.OnEnter.description" hash="LWcFk9WAd13WU6uX09W1r3914rU=">El metodo a ejecutar cuando el NodoApegoArticulación del elevador alcanze este nodo.</Text>
+   <Text id="properties.script.elevatorAttachmentJoint.valueTrigger.target" hash="OQMyPA+J5UHIgS0sKN7MuJ2IPKk=">Objetivo de la ArticulaciónApego del elevador</Text>
+   <Text id="properties.script.elevatorAttachmentJoint.valueTrigger.target.description" hash="IiSyVk/B0ECbhJH8gTr6Om6W1oQ=">ArticulaciónApego objetivo para actualizar los valores cuando se active este gatillo.</Text>
+   <Text id="properties.script.railAttachmentJoint.valueTrigger.target" hash="LABtzfn6lRpSCfpKiCZNsDTvuNY=">CarrilApegarArticulación objetivo</Text>
+   <Text id="properties.script.railAttachmentJoint.valueTrigger.target.description" hash="qRXSEdQzutTah7FNptTLXZuc8P4=">El CarrilApegarArticulación a actualizar los valores cuando se active este gatillo.</Text>
+   <Text id="properties.script.revoluteJoint.valueTrigger.target" hash="gogVWBQFmoVvs/P3tUOl2CnxTFE=">ArticulaciónRotacion objetivo</Text>
+   <Text id="properties.script.revoluteJoint.valueTrigger.target.description" hash="8ZyQx0uPYh//qGhskMVNuYrhojc=">El objetivo a actualizar los valores usando ArticulaciónRotacion cuando se active este gatillo.</Text>
+   <Text id="properties.script.conveyorBelt.valueTrigger.targets" hash="T8RmRkyaIb3cucc5I9FjHzXkhxk=">Cinta transportadora objetivos</Text>
+   <Text id="properties.script.conveyorBelt.valueTrigger.targets.description" hash="2L+gouk8Aba2M0nc2a0hPlsdm8w=">Los valores de los objetivos a actualizar de la Cinta transportadora cuando se active este gatillo.</Text>
+   <Text id="properties.script.enableTrigger.triggerTargets" hash="UzU4MWqrMBTUrZNzU99Po2g3SJ8=">Gatillos a activar</Text>
+   <Text id="properties.script.enableTrigger.triggerTargets.description" hash="a9V1gHCU59RCqC0CJmSUBgjnQI0=">Gatillos seleccionados a activar cuando se active este gatillo.</Text>
+   <Text id="properties.script.disableTrigger.triggerTargets" hash="d9Yg4JEFaVR3XfEDnnRW4u05lEo=">Gatillos a desactivar</Text>
+   <Text id="properties.script.disableTrigger.triggerTargets.description" hash="9r/IrZjx3WJGkWXHv+dJJO84OCg=">Gatillos seleccionados a desactivar cuando se active este gatillo.</Text>
+   <Text id="properties.script.condition.checkType" hash="L0l5Mk4D5FcbHX66cBImZwwu4to=">Condición</Text>
+   <Text id="properties.script.condition.checkType.description" hash="ZUmkJ3ypzhzuYtbJxdjZkATyvtE=">Tipo de condición cuando se active.</Text>
+   <Text id="properties.script.condition.checkType.equal" hash="pHLOjRnRBIQXfauwXetO4pkFigw=">Igual</Text>
+   <Text id="properties.script.condition.checkType.lesserorequal" hash="clycxTZHli7KJ5l4doq497HhdAU=">Menor o igual</Text>
+   <Text id="properties.script.condition.checkType.greaterorequal" hash="IzxfAHQOX8EMCHCxEXmhD1Lq2jg=">Mayor o igual</Text>
+   <Text id="properties.script.checkMapWaveTrigger.value" hash="bhdt9cbo+mWvsURoj7QpLdqCSgA=">Controlar Onda</Text>
+   <Text id="properties.script.checkMapWaveTrigger.value.description" hash="GQtCD3ytwgOwiOoDOWUieO7sGHU=">Valores de la onda del mapa a controlar cuando se active la condición.</Text>
+   <Text id="properties.script.checkTeamAliveTrigger.value" hash="oS9KLtXm6C4b7qWL/9kyxx7/nTM=">Miembros de equipo</Text>
+   <Text id="properties.script.checkTeamAliveTrigger.value.description" hash="9dbN5ohUk/wRptw6OfkkBjk9Bmg=">Numero de miembtos de equipo a controlar la condición cuando se active.</Text>
+   <Text id="properties.script.checkTeamAliveTrigger.team" hash="w+kaq4bLX4zuhGSHTBUaEUJEv5k=">Controlar equipo</Text>
+   <Text id="properties.script.checkTeamAliveTrigger.team.description" hash="1sgHldSga9CCPsdgotthj/PLP8w=">Equipo a controlar cuando se active.</Text>
+   <Text id="properties.script.musicTrigger.shuffle" hash="W3cre/0KQyc/t8X0mmwW2DcmHzU=">Mesclar</Text>
+   <Text id="properties.script.musicTrigger.shuffle.description" hash="duQO2LaiX2IlJEFm9Qt3NjHPg1c=">Bucle con una sola pista o elige pistas al azar desde una lista de reproducción.</Text>
+   <Text id="properties.script.musicTrigger.track" hash="scWnrwa6jJEbz9EfctdGP+2aRy0=">Pista</Text>
+   <Text id="properties.script.musicTrigger.track.description" hash="hbareYptnYaUcKwP4SAuJmywXLE=">La música a tocar cuando se active este gatillo.</Text>
+   <Text id="properties.script.musicTrigger.shuffleTracks" hash="Aedxcs/odecXN2jHFGPMZzWdW7c=">Lista de reproducción</Text>
+   <Text id="properties.script.musicTrigger.shuffleTracks.description" hash="fwVGvFvrCsmy3432+EtcRshUe5I=">La lista de reproducción a tocar cuando se active el gatillo.</Text>
+   <Text id="properties.script.musicTrigger.fadeInTime" hash="OJ3XfSyyjFkNFG7gQB2SgWw1VlM=">Aparecer en tiempo</Text>
+   <Text id="properties.script.musicTrigger.fadeInTime.description" hash="QCxryX1omKbOdIGHQVGzAIZNBio=">El tiempo que tomara para comenzar la pista con un efecto de desvanecimiento (milisegundos)</Text>
+   <Text id="properties.script.musicTrigger.fadeOutTime" hash="Ew0dfX9vioYkjy4RgYd5dBUU71k=">Desvanecer en tiempo</Text>
+   <Text id="properties.script.musicTrigger.fadeOutTime.description" hash="4bwof33Gv7bytyDaCsHjDNxnjqU=">El tiempo que tomara para terminar la pista con un efecto de desvanecimiento (milisegundos)</Text>
+   <Text id="properties.script.musicTrigger.looping" hash="XDKgi2GCsledMal3fxy08a9J7qk=">Bucle</Text>
+   <Text id="properties.script.musicTrigger.looping.description" hash="4LehO7+0oWN17L8mOcjPksrUuho=">Si la pista debe repetirse o no.</Text>
+   <Text id="properties.script.popupMessage" hash="HFEm9GoUnHaY2jCAx4LO4Y0xTb4=">Mensaje</Text>
+   <Text id="properties.script.popupMessage.description" hash="mj8H6I2f2Ii95PQQFhm5e9imfGg=">Mensaje a mostrar. Un mensaje vacio cerrara cualquier mensaje ya abierto de antes.</Text>
+   <Text id="properties.script.dialogue.text" hash="G9mKi/rg0VN3wgE3I14SGkpGo84=">Dialogo</Text>
+   <Text id="properties.script.dialogue.text.description" hash="h9Jeci6Ivcu62LpbLJXmH41w3EI=">Texto a mostrar en la burbuja de dialogo.</Text>
+   <Text id="properties.script.dialogue.name" hash="d5t9w/rmOxti4YMVo9nxAKCcBYU=">Nombre de la fuente</Text>
+   <Text id="properties.script.dialogue.name.description" hash="tQddHADdxuF8S4ecTW/MT1okZxM=">Nombre perteneciente al mensaje.</Text>
+   <Text id="properties.script.dialogue.displayDuration" hash="iSRi6G6x88dhif+MgF1rw05WHpA=">Duración a mostrar</Text>
+   <Text id="properties.script.dialogue.displayDuration.description" hash="nsvzAUGHuoeJagj6hzbD6EOrwnM=">Tiempo total (milisegundos) que la burbuja de dialogo sera visible. 0 = infinito. -1 = Tiempo basado en la longitud del texto.</Text>
+   <Text id="properties.script.dialogue.eventDuration" hash="Nic0Z37HfcVq5rD/Kj/Fhan1D8I=">Duración de evento</Text>
+   <Text id="properties.script.dialogue.eventDuration.description" hash="DB0eQ04ovFnN/jUCOtydJFHtAK8=">Tiempo total (milisegundos) antes de que este gatillo active los gatillos seleccionados, 0 =Desactivado. -1 = Basado en la duracción a mostrar.</Text>
+   <Text id="properties.script.dialogue.target" hash="l89e0RlH8lS4V0mEd5X60crknMM=">Objetivo del dialogo</Text>
+   <Text id="properties.script.dialogue.target.description" hash="nvDWTpT+LmPyRxxUxvrxPnCmMlE=">La burbuja del dialogo aparecera sobre el objetivo seleccionado.</Text>
+   <Text id="properties.script.dialogue.showInChat" hash="1qbL8qCuVT5Mxun8Zix9AUUlFls=">Mostrar en chat</Text>
+   <Text id="properties.script.dialogue.showInChat.description" hash="CCcs2x5bR14+foSXeWsH9oNIjT0=">Si el dialogo deberia mostrarse en el chat.</Text>
+   <Text id="properties.script.playerSpawnTrigger.profileInfo" hash="8puummnk97Rstnj+8EsELyJoec8=">Información del perfil</Text>
+   <Text id="properties.script.playerSpawnTrigger.profileInfo.description" hash="GBRb92Q+lQ2QrKNcy0G4apIfT0w=">Información del perfil a usar en este jugador cuando se genere.</Text>
+   <Text id="properties.script.playerSpawnTrigger.modifierInfo" hash="MJeV7Q/txP42Ac1abmXG0exh138=">Información modificadora</Text>
+   <Text id="properties.script.playerSpawnTrigger.modifierInfo.description" hash="GfGNRu+04tdHB+XVeUkLSV02Tfo=">La información modificadora a usar en este jugador cuando se genere.</Text>
+   <Text id="properties.script.playerSpawnTrigger.spawnAreas" hash="LqeQ4BMxQxtjBWpNKCmf3MUmVKo=">Areas de generación.</Text>
+   <Text id="properties.script.playerSpawnTrigger.spawnAreas.description" hash="bX/4pCxiheNeXzNp2dCBlrf29VU=">Areas de generación opcionales donde pueden aparecer jugadores.</Text>
+   <Text id="properties.script.playerSpawnTrigger.predefinedAI" hash="IlT7CXggQ6Q0kAK28R+EmFPAIjM=">IA (Inteligencia artificial) por defecto</Text>
+   <Text id="properties.script.playerSpawnTrigger.predefinedAI.description" hash="tlO1Pt1v+YPR7v+E7110gOfVMv8=">Coloca una Inteligencia artificial por defecto a este jugador cuando se genere.</Text>
+   <Text id="properties.script.playerSpawnTrigger.initialWeaponDrawn" hash="J5U7cpq1NG8F4cVSHFOwVR3Y+rk=">Arma del inicio</Text>
+   <Text id="properties.script.playerSpawnTrigger.initialWeaponDrawn.description" hash="n7lIiigggFFAHLfpzScLzLGMF5c=">Coloca el item que el jugador tendra cuando se genere.</Text>
+   <Text id="properties.script.playerSpawnTrigger.initialInputEnabled" hash="ad1h14K3+t1OrwThcZx6EqqjhF4=">Entrada inicial habilitada</Text>
+   <Text id="properties.script.playerSpawnTrigger.initialInputEnabled.description" hash="bnQY8QYBZHJWjmgX+UcQkJUrZxU=">Coloca los comandos inciales habilitados para el jugador cuando se crea. Colocar en falso para manualmente activar comandos/IA en otro momento.</Text>
+   <Text id="properties.script.playerSpawnTrigger.rifle" hash="PiIueCmBcJ0q/x++1vV2skbRrnc=">Arma principal</Text>
+   <Text id="properties.script.playerSpawnTrigger.rifle.description" hash="1B4vlviJtQ2Irvie2sahtArZFkg=">Arma principial del inicio</Text>
+   <Text id="properties.script.playerSpawnTrigger.handgund" hash="H7UcligLUEYtra1rTdT0Fc8K8NM=">Arma secundaria</Text>
+   <Text id="properties.script.playerSpawnTrigger.handgund.description" hash="HIs2EjvgpZ+U7nFTmWUOloISrEM=">Arma secundaria del inicio</Text>
+   <Text id="properties.script.playerSpawnTrigger.melee" hash="4AaUseJcmOFamW/K8u5luvblDL4=">Arma de combate mano a mano</Text>
+   <Text id="properties.script.playerSpawnTrigger.melee.description" hash="wmK82bZy2OrthjmIupAIXyNr2ts=">Arma de combate mano a mano del incio</Text>
+   <Text id="properties.script.playerSpawnTrigger.thrown" hash="ir8RKX9BLuT/9VUUu0NPY04pNWU=">Arrojables</Text>
+   <Text id="properties.script.playerSpawnTrigger.thrown.description" hash="6bLUZBfqddjZ801X6561f1cy1ds=">Arrojables del inicio</Text>
+   <Text id="properties.script.playerSpawnTrigger.powerup" hash="PM/Fl6uVQxu6+fqKJh807meCaqg=">Poder</Text>
+   <Text id="properties.script.playerSpawnTrigger.powerup.description" hash="oVLXYVSyR4IKx+si00gbExsvwo8=">Poderes del inicio</Text>
+   <Text id="properties.script.playerSpawnTrigger.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Nombre</Text>
+   <Text id="properties.script.playerSpawnTrigger.name.description" hash="fN2/UAM5nzF8W+GA+wrRnN8+DRU=">Nombre del jugador cuando se genere.</Text>
+   <Text id="properties.script.playerSpawnTrigger.guardTarget" hash="imMRJ05zuqlY34TfxICv5XHTfZw=">Objetivo a cuidar</Text>
+   <Text id="properties.script.playerSpawnTrigger.guardTarget.description" hash="TrjdcX5wdxLsEgqhQQvItA3l/Bg=">Objetivo a cuidar cuando se genere. Requiere un bot activo.</Text>
+   <Text id="properties.script.playerSpawn.order" hash="tBszBP7HmZfB7R3O4ipW6GOvhjk=">Orden de generación</Text>
+   <Text id="properties.script.playerSpawn.order.description" hash="zygrWUuct0rC0ndNeP9uCK4c8es=">Cuando se elija, el jugador 1 se generara en Marcador de generación marcado con orden 1, el jugador 2 en el marcado con orden 2, etc...</Text>
+   <Text id="properties.script.playerSpawn.team" hash="W5hUzqXuM6vYAuf+Msp9nHv+hGY=">Equipo de generación</Text>
+   <Text id="properties.script.playerSpawn.team.description" hash="0A0gixZRMJsFZOrIhWUGIaHhZcw=">El equipo inicial del cual formara parte el jugador al generarse en el modo campaña. En otros modos determina donde pueden generarse equipos. El equipo 1 se generara en el marcador con el orden 1, el equipo 2 con el orden 2, etc...</Text>
+   <Text id="properties.script.playerSpawnTrigger.team" hash="W5hUzqXuM6vYAuf+Msp9nHv+hGY=">Equipo de generación</Text>
+   <Text id="properties.script.playerSpawnTrigger.team.description" hash="2AG2zt5fYyZCD6ng3lkVPrZTr4s=">El equipo inicial del jugador en su creación.</Text>
+   <Text id="properties.script.playerTerminateTrigger.targetPlayers" hash="RbyszigN0+OlRETgaKpVvvwK7Ug=">Jugadores seleccionados</Text>
+   <Text id="properties.script.playerTerminateTrigger.targetPlayers.description" hash="oeJkNf1eyBMrjO8e6PKrkDO1eS4=">Jugadores seleccionados a ser terminados.</Text>
+   <Text id="properties.script.playerTerminateTrigger.terminateType" hash="LuhSGIZqGeDZ9sUsF25Or50Id7I=">Terminación</Text>
+   <Text id="properties.script.playerTerminateTrigger.terminateType.None" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="properties.script.playerTerminateTrigger.terminateType.Remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Remover</Text>
+   <Text id="properties.script.playerTerminateTrigger.terminateType.Gib" hash="xuucepxHR8ifXfLQ7OfCXwXXDH4=">Desmembrar</Text>
+   <Text id="properties.script.playerTerminateTrigger.terminateType.Kill" hash="e5MudwTFasJ5B0rfnL7tmLuQook=">Matar</Text>
+   <Text id="properties.script.playerTerminateTrigger.terminateType.description" hash="GBiIu5vbXbaVq01MwfR46jPiPjA=">Tipo de terminación a ejecutar en los jugadores.</Text>
+   <Text id="properties.script.playerCommand.sourcePlayer" hash="CAFBQ2jXTDvss6m/dLibpOoChpw=">Comandar jugador fuente</Text>
+   <Text id="properties.script.playerCommand.sourcePlayer.description" hash="2gXATCcLLR2VH1tfoKfgMeeP6OI=">Jugador fuente a ejecutar el comando</Text>
+   <Text id="properties.script.playerCommand.targetObject" hash="yZi6MV8Rn28S10cmJX/ZkDYcdaw=">Comandar objetivo seleccionado</Text>
+   <Text id="properties.script.playerCommand.targetObject.description" hash="OUmFxTxpS3eNlJmEd9rA3DXECBk=">Objeto o jugador a ejecutarle el comando.</Text>
+   <Text id="properties.script.playerCommand.playerFaceDirection" hash="E/8+7mbKxcW7zLVcFG3YewVFaMI=">Dirección de comando</Text>
+   <Text id="properties.script.playerCommand.playerFaceDirection.description" hash="Hcfgpt78hfdtK7Eh6MbbIDqkITs=">Dirección en la que el jugador deberia mirar antes/durante el comando.</Text>
+   <Text id="properties.script.playerCommand.playerFaceDirection.unchanged" hash="t+i9CEuX/WZIbe7yLGZrll1Ffw4=">Sin cambios (0)</Text>
+   <Text id="properties.script.playerCommand.playerFaceDirection.left" hash="KoRl1stpewCurinAyYnWFiMDtE0=">Izquierda (-1)</Text>
+   <Text id="properties.script.playerCommand.playerFaceDirection.right" hash="uVcEq7kHIhTFTOWfiqG9/bUHGI8=">Derecha (1)</Text>
+   <Text id="properties.script.playerCommand.delayTime" hash="jvg2PzWM17x1KJabZMN436jMwT8=">Tiempo de retraso de comando</Text>
+   <Text id="properties.script.playerCommand.delayTime.description" hash="42/77yB9odPi06bmzDsCpd6kK1s=">Tiempo de retraso despues de que se ejecute el comando, antes de comenzar el siguiente comando.</Text>
+   <Text id="properties.script.playerCommand.action" hash="iQGJX7Gx1MTqL+w2jCUXa/c+L34=">Comando</Text>
+   <Text id="properties.script.playerCommand.action.description" hash="oDpHu/TgT4qwclt3QgdpPsRCLdc=">Comando a ejecutar.</Text>
+   <Text id="properties.script.playerCommand.action.None" hash="O8Fciq4+QSTdQJA18y6i/Wg178k=">-</Text>
+   <Text id="properties.script.playerCommand.action.StartMoveToPosition" hash="t3kF2etdwIGt8B6L+GE1X4kbKas=">Comenzar &quot;Mover a posición&quot;</Text>
+   <Text id="properties.script.playerCommand.action.WaitDestinationReached" hash="0CHCYnu2TxHsuVvnL4fhV4enr+o=">Esperar al llegar al destino</Text>
+   <Text id="properties.script.playerCommand.action.Walk" hash="4McF0Y4/rkUG1yc72mQ1aQzb3gg=">Caminar</Text>
+   <Text id="properties.script.playerCommand.action.Run" hash="sbOSYH3q8pp+gUU+Bpt8B6Mqaxg=">Correr</Text>
+   <Text id="properties.script.playerCommand.action.Sprint" hash="jKFUhKalBhf+v4I/P6HJ5wOGiO4=">Correr</Text>
+   <Text id="properties.script.playerCommand.action.Jump" hash="HroUD92caGChcwxAjjBkqkF8oqM=">Saltar</Text>
+   <Text id="properties.script.playerCommand.action.WaitLand" hash="hGdM/R8zWzoToYAjJaGyAx8OmLM=">Esperar en tierra</Text>
+   <Text id="properties.script.playerCommand.action.Roll" hash="A9SwVmZCjAq3OZ6AOdvbNxlHpoo=">Rodar</Text>
+   <Text id="properties.script.playerCommand.action.Dive" hash="VZ2OHdoy3efNIKlEIUWivazSHBs=">Picada</Text>
+   <Text id="properties.script.playerCommand.action.StopMove" hash="4MrLotxE38Sn5SErWnUWeu8Fo74=">Parar &quot;Mover a posición&quot;</Text>
+   <Text id="properties.script.playerCommand.action.StartCrouch" hash="hw8W/8+Kh7eDsbQjbA/CTS+Sh+8=">Comenzar &quot;Agacharse&quot;</Text>
+   <Text id="properties.script.playerCommand.action.StopCrouch" hash="T93KV7o5IUWi3OPFAok+MuDrxyw=">Parar &quot;Agacharse&quot;</Text>
+   <Text id="properties.script.playerCommand.action.FaceAt" hash="2t1E3tU1PbX9kkjFeBUAQcoLc0w=">Mirar a</Text>
+   <Text id="properties.script.playerCommand.action.Grab" hash="z2c6nIddINzailwNei5cYKlA244=">Agarrar</Text>
+   <Text id="properties.script.playerCommand.action.GrabInfinite" hash="LWqrTHN95+Gd4UuZ5I1PMYr25SQ=">Agarre infinito</Text>
+   <Text id="properties.script.playerCommand.action.DrawHandgun" hash="yd+RBJ5xu6H0Yx2uksS/2steRg4=">Desfunzar arma principal</Text>
+   <Text id="properties.script.playerCommand.action.DrawRifle" hash="TWS1MZCroYtnFQoCUieHgDOFTSM=">Desfunzar arma secundaria</Text>
+   <Text id="properties.script.playerCommand.action.DrawMelee" hash="ohJq91BhIs6PlwVXWzXoRPhnxH4=">Desfunzar arma de combate mano a mano</Text>
+   <Text id="properties.script.playerCommand.action.DrawThrowable" hash="I7b99gh3dgkCU4Lj0YJ0es1OA8k=">Desfunzar arrojables</Text>
+   <Text id="properties.script.playerCommand.action.DrawPowerup" hash="7qjHsTMRfy4ni/+HEeSy5fyBZQ0=">Desfunzar poderes</Text>
+   <Text id="properties.script.playerCommand.action.Sheath" hash="s96fUmHSedzT8FvEOmcZSdb/dHE=">Envainar</Text>
+   <Text id="properties.script.playerCommand.action.Activate" hash="ku8IMlpIE1Y6MRA1mQYHY3RoMoI=">Activar</Text>
+   <Text id="properties.script.playerCommand.action.Drop" hash="CgiLMRUFbvas06tLQGyCPhck4hY=">Soltar</Text>
+   <Text id="properties.script.playerCommand.action.EnterThrowingMode" hash="QgZt/DS4RmpZJ72UDyrwKd9CTK8=">Entrar en modo arrojar</Text>
+   <Text id="properties.script.playerCommand.action.ExitThrowingMode" hash="UT/xRLUepWqP5ewOsZnvp97ZG7k=">Salir del modo arrojar</Text>
+   <Text id="properties.script.playerCommand.action.Reload" hash="zOcVU3H8JmhricdFIzfYQZaS8x4=">Recargar</Text>
+   <Text id="properties.script.playerCommand.action.PrepareThrow" hash="OhKvyKQL3RSKnHP9FhaTFUkzlXg=">Preparar arroje</Text>
+   <Text id="properties.script.playerCommand.action.Throw" hash="UxnzuJZ2vHZelmyumfbNqbO+G8E=">Arrojar</Text>
+   <Text id="properties.script.playerCommand.action.Kick" hash="jF7E7f6ab084igIEsObVzP7m/1s=">Patear</Text>
+   <Text id="properties.script.playerCommand.action.StartAimAt" hash="BpaLLTUo2bWB4FtDLNaign6HdJs=">Comenzar &quot;Apuntar a (preciso)&quot;</Text>
+   <Text id="properties.script.playerCommand.action.StartAimAtPrecise" hash="Fv7LFLyitkQLkJpYYCQqpMTyPh8=">Parar &quot;Apuntar a (preciso)&quot;</Text>
+   <Text id="properties.script.playerCommand.action.StopAim" hash="712SsLuq3fvybTke3Yl94jPyHTU=">Parar &quot;Apuntar a&quot;</Text>
+   <Text id="properties.script.playerCommand.action.AttackOnce" hash="rnzh3HMKOoPffQfUHRKh4ZEGT3E=">Atacar una vez</Text>
+   <Text id="properties.script.playerCommand.action.StartAttackRepeat" hash="CzQtDf8S7EpWiX0Xau1vWHneLS0=">Comenzar &quot;Atacar repetidamente&quot;</Text>
+   <Text id="properties.script.playerCommand.action.StopAttackRepeat" hash="OBi/bn3e+TozQ6w8OIWx/2K1Rg8=">Parar &quot;Atacar repetidamente&quot;</Text>
+   <Text id="properties.script.playerCommand.action.Block" hash="gt0s3zb5Q22J9ARFRlStPlP9Qo0=">Bloquear</Text>
+   <Text id="properties.script.playerCommand.action.StartTakeCover" hash="guE6jmJmnIfDCX5vapZwRDogAFU=">Cubrirse</Text>
+   <Text id="properties.script.playerCommand.action.DropPlatform" hash="JUl7j6MeNL59iDSPB8a30LAN9JY=">Bajar de plataforma</Text>
+   <Text id="properties.script.playerCommand.action.DeathKneel" hash="k6yiTb47K7h7084tFYoM83C1EBc=">Muerte arrodillada</Text>
+   <Text id="properties.script.playerCommand.action.DeathKneelInfinite" hash="udrrkMTDOrMVHTLLU/wdkE6KQ0s=">Muerte arrodillada infinita</Text>
+   <Text id="properties.script.playerCommand.action.StopDeathKneel" hash="SHEhGQhNxjmN6s+8SXhdqi4a9Vk=">Parar &quot;Muerte arrodillada&quot;</Text>
+   <Text id="properties.script.playerCommand.action.Fall" hash="XBroLClUOsiHcDd2vz2ix9zOaD0=">Caida</Text>
+   <Text id="properties.script.playerCommand.action.Stagger" hash="3Cm2rKwdi+7+dpOvDLHAgaq1PFg=">Tambaleo</Text>
+   <Text id="properties.script.playerCommand.action.StaggerInfinite" hash="KiyLIXnnatVCLPpTdXphmvSTt3c=">Tambalear infinitamente</Text>
+   <Text id="properties.script.playerCommand.action.StopStagger" hash="F7Awvfh9ugA+SHR2MNa8sSGvDds=">Parar tambaleo</Text>
+   <Text id="properties.script.playerCommand.action.StopAll" hash="6fiUkdRmlMjA50AuQ4bka6yh2t4=">Parar *</Text>
+   <Text id="properties.script.playerCommand.action.StartClimbUp" hash="PQnBE8aAzo74A+J/A5vZWgISA+I=">Comenzar &quot;Subir trepando&quot;</Text>
+   <Text id="properties.script.playerCommand.action.StartClimbDown" hash="/JR68VEPXL+TepQywQAUidKLtos=">Comenzar &quot;Bajar trepando&quot;</Text>
+   <Text id="properties.script.playerCommand.action.WaitClimbReachedEnd" hash="NCaK3b6eYVc+3TSkbXLw8+oCCg8=">Esperar al llegar a la cima</Text>
+   <Text id="properties.script.playerCommand.action.StopClimb" hash="qQyBW+wGBX9RSH3VmgoUjBItHAs=">Parar &quot;Trepar arriba/abajo&quot;</Text>
+   <Text id="properties.script.playerCommand.action.ClimbRelease" hash="KgS6VKqn/oL4xfNZqKagvVij7Qg=">Soltar</Text>
+   <Text id="properties.script.playerCommand.action.WaitEmptyAmmo" hash="dBbwPp0wFIxulvVZRPAv+DvC91A=">Esperar cuando la munición este vacia</Text>
+   <Text id="properties.script.playerModifier.MaxHealth" hash="G4lx79m29unPyRsKVsdRSYFfpgg=">Salud maxima</Text>
+   <Text id="properties.script.playerModifier.MaxHealth.description" hash="II/UMZD66jURb19oQaHvu+gnAKI=">Rango [1-9999]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.MaxEnergy" hash="HwqBhPcWTtz7TVFY1nIpWfAhp/E=">Energia maxima</Text>
+   <Text id="properties.script.playerModifier.MaxEnergy.description" hash="cUtpOlwiUt6cIH8MyXz1EOSUQg0=">Rango [0-9999]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.MaxArmor" hash="x7gwj9HbKCVx4d6/uyZWGrRHdpQ=">Armadura maxima</Text>
+   <Text id="properties.script.playerModifier.MaxArmor.description" hash="cUtpOlwiUt6cIH8MyXz1EOSUQg0=">Rango [0-9999]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.CurrentHealth" hash="Yz5O7GzZouKdkrnAtnuMba5ooCY=">Salud actual</Text>
+   <Text id="properties.script.playerModifier.CurrentHealth.description" hash="cUtpOlwiUt6cIH8MyXz1EOSUQg0=">Rango [0-9999]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.CurrentEnergy" hash="tuQhTAPEX9H+OD+qjDVPU2SsS88=">Energia actual</Text>
+   <Text id="properties.script.playerModifier.CurrentEnergy.description" hash="cUtpOlwiUt6cIH8MyXz1EOSUQg0=">Rango [0-9999]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.CurrentArmor" hash="ZowutSgui7E56PpxOFDnMa+Eoi0=">Armadura actual</Text>
+   <Text id="properties.script.playerModifier.CurrentArmor.description" hash="cUtpOlwiUt6cIH8MyXz1EOSUQg0=">Rango [0-9999]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.EnergyConsumptionModifier" hash="ie36cXv6MF6AVzPFLTrM4bMVAYc=">ModificadorConsumoEnergia</Text>
+   <Text id="properties.script.playerModifier.EnergyConsumptionModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ExplosionDamageTakenModifier" hash="I6SOrrvgg+cvhnHpMPPrfeeFVOM=">ModificadorDañoExplosión</Text>
+   <Text id="properties.script.playerModifier.ExplosionDamageTakenModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ProjectileDamageTakenModifier" hash="0feuVW6/C4jRlT6AGCvzD8PsYt8=">ModificadorDañoProyectil</Text>
+   <Text id="properties.script.playerModifier.ProjectileDamageTakenModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ProjectileCritChanceTakenModifier" hash="1Vz3ygKwj2W4Dj3XGp2jyd+giSo=">ModificadorDañoOndaExpansivaProyectil</Text>
+   <Text id="properties.script.playerModifier.ProjectileCritChanceTakenModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.FireDamageTakenModifier" hash="+zMYTZYGEUdeHGhKlIgWijrLRUQ=">ModificadorDañoFuego</Text>
+   <Text id="properties.script.playerModifier.FireDamageTakenModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.MeleeDamageTakenModifier" hash="dD8RQNB9H9tCtC8/whnUAsnyEYY=">ModificadorDañoCombateManoaMano</Text>
+   <Text id="properties.script.playerModifier.MeleeDamageTakenModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ImpactDamageTakenModifier" hash="0c4leJakK7lRTo17fpTzajNaGPY=">ModificadorDañoImpacto</Text>
+   <Text id="properties.script.playerModifier.ImpactDamageTakenModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ProjectileDamageDealtModifier" hash="V0+xGV1YxdyKQFgleZRrv1lSHkM=">ModificadorDañoaInfligirProyectil</Text>
+   <Text id="properties.script.playerModifier.ProjectileDamageDealtModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ProjectileCritChanceDealtModifier" hash="7ZuZXCDT3tjZeMiKAEbPegCa7Uo=">ModificadorDañoOndaExpansivaInfligirProyectil</Text>
+   <Text id="properties.script.playerModifier.ProjectileCritChanceDealtModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.MeleeDamageDealtModifier" hash="cHO6HUncfIFx8CC7GQLDCcVtuf0=">ModificadorDañoCombateManoaManoaInfligir</Text>
+   <Text id="properties.script.playerModifier.MeleeDamageDealtModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.MeleeForceModifier" hash="ltoQjc4TYsXDvG6xN/xgIA88PcU=">ModificadorFuerzaCombateManoaMano</Text>
+   <Text id="properties.script.playerModifier.MeleeForceModifier.description" hash="roTRCbmxbZNnZkI+YKmktUzmExY=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.MeleeStunImmunity" hash="0ayNiR2ok2q+KDzaREZ7LzWHKlY=">InmunidadCombateManoaMano</Text>
+   <Text id="properties.script.playerModifier.MeleeStunImmunity.description" hash="aU7PIlVA2twSblKQtKX9lJy1KJQ=">Rango de valores [0(falso)-1(verdadero)]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.CanBurn" hash="tS6pC3IGtvNrOODaen8wNy4lZTk=">PuedeQuemar</Text>
+   <Text id="properties.script.playerModifier.CanBurn.description" hash="aU7PIlVA2twSblKQtKX9lJy1KJQ=">Rango de valores [0(falso)-1(verdadero)]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.RunSpeedModifier" hash="hMe95JIzAN1jMuxusc4TAaQDl94=">ModificadorVelocidadCorrer</Text>
+   <Text id="properties.script.playerModifier.RunSpeedModifier.description" hash="KyHXl8Sp+CawACN1MEiBhDInckE=">Rango [0.5-2.0]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.SprintSpeedModifier" hash="4AUQTU2MN/veI/qWQSyZI++gu4g=">ModificadorVelocidadCorridaRapida</Text>
+   <Text id="properties.script.playerModifier.SprintSpeedModifier.description" hash="KyHXl8Sp+CawACN1MEiBhDInckE=">Rango [0.5-2.0]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.EnergyRechargeModifier" hash="mBydoTddE8rJ2E38D+i5NQ6Oy8E=">ModificadorRecargaEnergia</Text>
+   <Text id="properties.script.playerModifier.EnergyRechargeModifier.description" hash="zS6xw1bt4cInLAMgSgDIhrz9/zw=">Rango [0-100]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.SizeModifier" hash="t0LIV4q/loimdncvwxbVp950Thk=">ModificadorTamaño</Text>
+   <Text id="properties.script.playerModifier.SizeModifier.description" hash="KXTx6FBSMgF2i8CpCL/Fg98/AVw=">Rango [0.75-1.25]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.InfiniteAmmo" hash="dwE4k4w/2ODkxM1u774PPdXcy98=">MuniciónInfinita</Text>
+   <Text id="properties.script.playerModifier.InfiniteAmmo.description" hash="7bw9Frpjz/b91TdEC+yyZEZgtMw=">Rango [0(falso)-1(verdadero)]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerModifier.ItemDropMode" hash="IKw/I0nRYg2Hd24U9rH/4gxEajg=">ModoItemCaido</Text>
+   <Text id="properties.script.playerModifier.ItemDropMode.description" hash="LcQ2NHEQlTbNX/yJWlSJ/y8aJ9k=">Values [0(por defecto), 1(romper)]. -1 = Sin cambios. -2 = Por defecto.</Text>
+   <Text id="properties.script.playerInput.enabled" hash="xHojNrbI0LcxNtHykwkHv8CDhqw=">Entrada habilitada</Text>
+   <Text id="properties.script.playerInput.enabled.description" hash="/0B0GqsmticPZRFIW2IKEgx1hK8=">Si la entrada esta habilitada (verdadero para habilitada y falso para desabilitada)</Text>
+   <Text id="properties.script.setMapPartIndex" hash="hMQSAOg4wrvIQr1cYCzjYfDoavc=">Index de parte del mapa</Text>
+   <Text id="properties.script.setMapPartIndex.description" hash="xbBWmMp8shm5S9/T2cMWLTbbOyA=">Index de la parte del mapa a cambiar en campañas cuando este gatillo se active.</Text>
+   <Text id="properties.script.setFrameTragets" hash="nQZ6XJtV5UsJfwHx0NTVwnI1sKY=">Objetos a actualizar</Text>
+   <Text id="properties.script.setFrameTragets.description" hash="/HVNjB2EYsdwfDBZskxBqGb+/tE=">Objetos a actualizar la animación cuando se active este gatillo.</Text>
+   <Text id="properties.script.setFrameIndex" hash="tT8GY2J3jTNw3fcD4xAwBB8GAmE=">Nuevo index de fotograma</Text>
+   <Text id="properties.script.setFrameIndex.description" hash="Hq4RLyrcA80mWkX43bjF6hKXw/A=">Nuevo index de fotograma en la animación. -1 dejara el fotograma sin cambios.</Text>
+   <Text id="properties.script.setFramePlayPause" hash="kgniT4fRtp0su2cjVtV/VM/MZSQ=">Reproducir/Pausar acción</Text>
+   <Text id="properties.script.setFramePlayPause.description" hash="t+aEtSYAqpgAU7Q0IVpm0LKrHw0=">Acción para reproducir o pausar la animación.</Text>
+   <Text id="properties.script.setFramePlayPause.Unchanged" hash="Ue1lETIh8IdV/4B8Z+tVP6nNQGI=">Sin cambios</Text>
+   <Text id="properties.script.setFramePlayPause.Play" hash="XRK9U1Usr8QcphRsBIcN8uFXThM=">Reproducir</Text>
+   <Text id="properties.script.setFramePlayPause.Pause" hash="eBlhvIHCVpeEHszl1Nna2fayYcY=">Pausar</Text>
+   <Text id="properties.script.setStickyFeetTargets" hash="nQZ6XJtV5UsJfwHx0NTVwnI1sKY=">Objetos a actualizar</Text>
+   <Text id="properties.script.setStickyFeetTargets.description" hash="cNqiHqG9YGFyoUkUSvHyf20w5Kc=">Objetos a  los cuales actualizar el valor de pies pegadizos cuando se active este gatillo.</Text>
+   <Text id="properties.script.setStickyFeetValue" hash="+f7EVWRp/fXb0G8CR8uRmHejsWM=">Pies pegadizos</Text>
+   <Text id="properties.script.setStickyFeetValue.description" hash="IvFDqFRwk32TeJMmTWAY6yFuHqU=">Nuevo valor de pies pegadizos en los objetos marcados.</Text>
+   <Text id="properties.script.spawnObjectTrigger.objectID" hash="WZg53SvkiatEMwFNIBsaB8bywwo=">General Tile ID</Text>
+   <Text id="properties.script.spawnObjectTrigger.objectID.description" hash="CQy5+toiAMEC4FUxaxyP+oaW0pw=">ID del Tile a generar</Text>
+   <Text id="properties.script.spawnFire.igniteRadius" hash="ySQMAy2v/iziY0isOMuPqrVF6sQ=">Radio de quemada</Text>
+   <Text id="properties.script.spawnFire.igniteRadius.description" hash="9Ih1HdtOkTAeOy3mduP+9VZqtEY=">Radio de quemada del fuego - Todo lo que se encuentre dentro que pueda quemarse, comenzara a quemarse.</Text>
+   <Text id="properties.script.spawnFire.nodesToSpawn" hash="JCRwM5HiGiyFCOE56b6QA60+VRM=">Nodos a generar</Text>
+   <Text id="properties.script.spawnFire.nodesToSpawn.description" hash="rnP7thHAaYcy13q0MavCnCmQCEI=">Total de Nodos a generar en un circulo</Text>
+   <Text id="properties.script.spawnFire.speed" hash="FL5jRqXTvVsdLX5IuYrB4n9S+oE=">Velocidad de Nodos de Fuego</Text>
+   <Text id="properties.script.spawnFire.speed.description" hash="TOZsFdJ3swPDSrHMOf8NJbxR3UI=">Velocidad para Nodos de Fuego generados.</Text>
+   <Text id="properties.script.spawnFire.randomSpeed" hash="L6dcN+G/z459nmosCh0XIHQf5YU=">Velocidad extra al azar</Text>
+   <Text id="properties.script.spawnFire.randomSpeed.description" hash="ClzzllAwo4oKoImstF1RaxYYLck=">Velocidad extra al azar para Nodos de Fuego generados</Text>
+   <Text id="properties.script.spawnFire.type" hash="ocpNAphhs74BLRDJlUOhDzW0Dic=">Tipo de Nodo de Fuego</Text>
+   <Text id="properties.script.spawnFire.type.description" hash="kPyk+XEg+WjOY8ckjNddAM14Q6M=">Tipo de Nodo de Fuego a generar.</Text>
+   <Text id="properties.script.spawnFire.type.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Por defecto</Text>
+   <Text id="properties.script.spawnFire.type.flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Lanzallamas</Text>
+   <Text id="properties.script.supplyCrate.dropItem" hash="pOBNeLcdbuKDEo74ci3kYQlPvvc=">Arrojar Categoria/Item</Text>
+   <Text id="properties.script.supplyCrate.dropItem.description" hash="g8LEHNUjrHXLaAL0s9m8P0/1QIg=">Especifica que tipo de item se encuentra en esta caja.</Text>
+   <Text id="properties.script.supplyCrate.category.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="properties.script.supplyCrate.category.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Por defecto</Text>
+   <Text id="properties.script.supplyCrate.category.any" hash="MiRE07tSw0H0KcoEVPKS3CQvMVs=">Cualquiera</Text>
+   <Text id="properties.script.supplyCrate.category.primary" hash="eMxxnQHWqZSqX3xKQ9pHrDxHmyc=">Categoria: Primaria</Text>
+   <Text id="properties.script.supplyCrate.category.secondary" hash="ZY2CvdiNjX6jlCHlCZMrhV4vLv0=">Categoria: Secundaria</Text>
+   <Text id="properties.script.supplyCrate.category.melee" hash="jocymDI96abg5/D2QmkkyIE/FZ0=">Categoria: Melee (Mano a mano)</Text>
+   <Text id="properties.script.supplyCrate.category.supplies" hash="GkCXqvMPUxjIC4cnwapFdCJNeO0=">Categoria: Suplementos (Arrojar, Poderes, Salud)</Text>
+   <Text id="properties.script.supplyCrate.category.thrown" hash="6kg3cz2RhEr8kntbCovy172WE0M=">Categoria: Arrojar</Text>
+   <Text id="properties.script.supplyCrate.category.powerup" hash="ShkNkRJF1UgJ5H7FoBDGcbkpdp8=">Categoria: Poderes</Text>
+   <Text id="properties.script.supplyCrate.category.health" hash="zwJPwgv7rTDZSjVxeJ0J5y3iNPU=">Categoria: Salud</Text>
+   <Text id="properties.script.streetsweeper.ownerPlayer" hash="IbKU/ZmU0cxrpmGZsVjCfzg1oi4=">Jugador dueño</Text>
+   <Text id="properties.script.streetsweeper.ownerPlayer.description" hash="Or3OKz9LrI5JN1a5fzkFY3OTSQQ=">El jugador dueño del Dron - Streetsweeper. Este jugador no sera atacado por el. El jugador se activa automaticamente cuando un jugador activa una caja de Dron, sobrescribiendo cualquier valor previo.</Text>
+   <Text id="properties.script.streetsweeper.ownerTeam" hash="sQpQpU6yQHpoFm0PRytyTMitrtk=">Equipo dueño</Text>
+   <Text id="properties.script.streetsweeper.ownerTeam.description" hash="+oXamsmERligfMSTYgr/Gdwa4xk=">El equipo dueño del Dron - Streetsweeper- Este equipo no sera atacado por el. El equipo se activa automaticamente cuando un jugador activa una caja de Dron, sobrescribiendo cualquier valor previo.</Text>
+   <Text id="properties.script.streetsweeper.showNamePlate" hash="M+ceANbZc+Tz/F6RHP415RVdS+0=">Mostrar nombre</Text>
+   <Text id="properties.script.streetsweeper.showNamePlate.description" hash="d0sTr1csDQUP/W/ZWE60m6t72tI=">Si debe mostrarse el nombre y información del equipo para el Dron - Streetsweeper</Text>
+   <Text id="properties.script.streetsweeper.movement" hash="3IEnUrdYlyrvQkqPhIN5E1cRmcA=">Movimiento</Text>
+   <Text id="properties.script.streetsweeper.movement.description" hash="a/6bkLrRkvexj8fwFDzJ6lwuoAc=">Tipo de movimiento del Dron - Streetsweeper</Text>
+   <Text id="properties.script.streetsweeper.movement.stationary" hash="+qWVIIwHyxrb8wAB5AD6kwbQVA0=">Quieto</Text>
+   <Text id="properties.script.streetsweeper.movement.moving" hash="Zc1N2BFGEPe6zB+Bu53QGhN/Fi8=">Moverse</Text>
+   <Text id="properties.script.streetsweeper.weapon" hash="6tUzaF4mLqsJtckBO+5dTBIPzSY=">Arma</Text>
+   <Text id="properties.script.streetsweeper.weapon.description" hash="0BSQsA7StoGbWPuy2bTOar1/eg8=">Tipo de arma que debe utilizar el Dron - Streetsweeper</Text>
+   <Text id="properties.script.streetsweeper.weapon.machinegun" hash="RN2o+C2HgQ1p8OHYxi+cR/whUrk=">Metralladora</Text>
+   <Text id="properties.script.streetsweeper.weapon.flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Lanzallamas</Text>
+   <Text id="properties.script.streetsweeper.weapon.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Ninguno</Text>
+   <Text id="properties.script.streetsweeper.randomizeWeapon" hash="SeNEll92SO9icrp27N6Ebe0JAGw=">Armas al azar</Text>
+   <Text id="properties.script.streetsweeper.randomizeWeapon.description" hash="BDVaQgpR+Yzi744Om/ZZXdctHss=">Si las armas deberian elegirse al azar cuando se genere el Dron - Streetsweeper (Metralladora o Lanzallamas)</Text>
+   <Text id="properties.profileCustomizationInfo" hash="8puummnk97Rstnj+8EsELyJoec8=">Info del perfil</Text>
+   <Text id="properties.profileCustomizationInfo.description" hash="p2sgkxI9Og5jf9RixJzWFXqCJxE=">Editar info del perfil</Text>
+   <Text id="properties.playerNametagVisible" hash="6AMKTTuyPAboDHqs1fUvBP/fvZo=">Nombre visible</Text>
+   <Text id="properties.playerNametagVisible.description" hash="JnMbvZo0mcE7Ux2OGGSaZO/0XV4=">Nombre visible para el jugador</Text>
+   <Text id="properties.playerStatusbarVisible" hash="+oTlYpmPp+ZFdwmszlS1l4aQMsE=">Barra de estado visible</Text>
+   <Text id="properties.playerStatusbarVisible.description" hash="1CH7dG3QbyShOXODrcevkI7kmK4=">Barra de estado (Vida, energia) visible para el jugador</Text>
+   <Text id="properties.pathNodeConnection.pathNodeFrom" hash="aS73NujnXlC7PzAvvqEqzJhsvhE=">NodoCamino A</Text>
+   <Text id="properties.pathNodeConnection.pathNodeFrom.description" hash="+p3m6bowi3XjoWsoli1uDS1uDuU=">Fuente NodoCamino</Text>
+   <Text id="properties.pathNodeConnection.pathNodeTo" hash="dshg4Tn0xaUAhCji5bWiQLY8U1s=">NodoCamino B</Text>
+   <Text id="properties.pathNodeConnection.pathNodeTo.description" hash="vUfqZ0vW4A0KC4lGeei1uvGpxg8=">Destino del Nodo Camino</Text>
+   <Text id="properties.pathNodeConnection.pathNodeDirection" hash="/Y5FusfTVHkOwKgtimE0G/is0FU=">Dirección</Text>
+   <Text id="properties.pathNodeConnection.pathNodeDirection.description" hash="iWi7UP2JMIw5pyKRQRF3/sO8/G8=">Dirección entre NodoCamino A (Fuente) y B (Destino)</Text>
+   <Text id="properties.pathNodeConnection.pathNodeDirection.twoway" hash="7lCj5ozxAMBTcniu3mefSF0Js1U=">Ida y vuelta</Text>
+   <Text id="properties.pathNodeConnection.pathNodeDirection.oneway" hash="RZb+Ho7iDK506X7E3EF2pNT5IDo=">Solo de ida</Text>
+   <Text id="properties.pathNodeConnection.enabled" hash="VoHQp/R6CrEyc36DeIvOM7DyPM4=">Conexión activada</Text>
+   <Text id="properties.pathNodeConnection.enabled.description" hash="T9/F/sld14ddgMjhuMjEdSlyYMw=">Si esta conexión de camino esta activada.</Text>
+   <Text id="properties.pathNodeConnection.enableWithActivators" hash="xXv2Km06om7NB/784TryN8poB8E=">Activar con activadores</Text>
+   <Text id="properties.pathNodeConnection.enableWithActivators.description" hash="2EbltyPit1udHFOw9MaFYOgsepk=">Si este Camino puede ser activado con activadores (IObjectActiveTriggers). Los bots intentaran activarlos si la conexión no esta activada.</Text>
+   <Text id="properties.pathNode.pathNodeType" hash="M9aEihQPRBEMd8TrrsBITSbQLMw=">Tipo de nodo</Text>
+   <Text id="properties.pathNode.pathNodeType.description" hash="LBL3nMAcPOMv6rBEAjNoBH1hxFs=">Tipo de conexion que le dice a los bots como funciona la navegación en este tipo de nodo especifico.</Text>
+   <Text id="properties.pathNode.pathNodeType.ground" hash="FD6Ur0HODwW1eABZDkvEjSP6psI=">Suelo</Text>
+   <Text id="properties.pathNode.pathNodeType.platform" hash="Ejp/L8ya58u718diekg4U6lwjas=">Plataforma</Text>
+   <Text id="properties.pathNode.pathNodeType.ladder" hash="C/PR3lew4NVVDk8Zh1jW/ukgTcE=">Escalera</Text>
+   <Text id="properties.pathNode.pathNodeType.leftledgegrab" hash="m/P5wY3lDxk9kboKsI0YXBW7yVo=">TomarBorde Izquierda</Text>
+   <Text id="properties.pathNode.pathNodeType.rightledgegrab" hash="wWw4SmbL4U5HcCSnBiInF4lz9s0=">TomarBorde Derecha</Text>
+   <Text id="properties.pathNode.pathNodeChokePoint" hash="gkXAZBme+ZXEemOpJWAHzYS560U=">Punto Cuello de botella</Text>
+   <Text id="properties.pathNode.pathNodeChokePoint.description" hash="LWyqejaKfBGwEzkFRhlj+dmf8lk=">Le dice a los bots si este es un Punto Cuello de botella para caminos alternativos</Text>
+   <Text id="properties.pathNode.useDynamicConnections" hash="6eMecetLWaRPCT3b7cnKx5ZXjnA=">Conexiones dinamicas</Text>
+   <Text id="properties.pathNode.useDynamicConnections.description" hash="u4HeKm1UU348LSSqU69nRfjivp0=">Conexiones dinamicas que buscan conexiones cercanas para habilitar. Es util para objetos dinamicos que pueden moverse.</Text>
+   <Text id="properties.pathNode.elevatorNode" hash="J40dyPTIMjtZwhQi36Mh2LzfBfI=">Nodo Elevador</Text>
+   <Text id="properties.pathNode.elevatorNode.description" hash="s3+wj1/tYp+ZVrFhB9NPzTXDTgg=">Si este NodoCamino deberia considerarse un elevador que se mueve de un lado a otro.</Text>
+   <Text id="properties.pathNode.enabled" hash="m8lpJspMealRC+ow3t8z8nWH3EE=">Nodo habilitado</Text>
+   <Text id="properties.pathNode.enabled.description" hash="Y9D2FaPBIiy4ebvOBagiaVXaWac=">Si este NodoCamino esta habilitado.</Text>
+   <Text id="properties.pathNodeConnection.costMultiplier" hash="SzWrh3QL2vG+fM3ugLYaSv/vKwQ=">Multiplicador de costo</Text>
+   <Text id="properties.pathNodeConnection.costMultiplier.description" hash="JJ3tfPEUcURnXdwcE5i2EZETfyQ=">Rango [0.0-999.0] Multiplicador de costo para cuanto cuesta tomar este camino.</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType" hash="HYbUxSWyeA+GqpK00KgOO30hHy8=">Tipo de conexión</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.description" hash="2k0C8MP/7pR59I+Mone8zuWj5H0=">Tipo de conexión que les dice a los bots como funciona la navegación entre nodos.</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Por defecto</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.jump" hash="HroUD92caGChcwxAjjBkqkF8oqM=">Salto</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.dive" hash="VZ2OHdoy3efNIKlEIUWivazSHBs=">Picada</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.roll" hash="A9SwVmZCjAq3OZ6AOdvbNxlHpoo=">Rodar</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.portal" hash="tVIjx73HZR3EKCukb8FhbcJzEos=">Portal</Text>
+   <Text id="properties.pathNode.followObject" hash="lgIYSXNYspDM6ch9obZtWmJp66M=">Seguir objeto</Text>
+   <Text id="properties.pathNode.followObject.description" hash="D391sem/c1hwQfDOyYs6GVqTu90=">Un objeto que el NodoCamino se apegara y seguira.</Text>
+   <Text id="properties.pathNode.removeWithOwnerObject" hash="hHUBDXtLPm7J/v2rTA+FegoKEA8=">Borrar con principal</Text>
+   <Text id="properties.pathNode.removeWithOwnerObject.description" hash="1EnR+Dkrursc8kEqiEFuobRLYiE=">Elimina este NodoCamino cuando el objeto principal es destruido o borrado.</Text>
+   <Text id="properties.pathZone.followObject" hash="lgIYSXNYspDM6ch9obZtWmJp66M=">Seguir objeto</Text>
+   <Text id="properties.pathZone.followObject.description" hash="sNi23RuqpdT2WMiN901so7ePRNU=">Un objeto que la Zona del camino se apegara y seguira.</Text>
+   <Text id="properties.pathZone.disablePathNodes" hash="39yGWVX0cTtv1pu9FniSZOSZYjo=">Desactivar NodosCamino</Text>
+   <Text id="properties.pathZone.disablePathNodes.description" hash="n9BOe96Mz9OQPs34L9w/XE0k05Q=">Desactivar NodosCamino en los que la zona se sobrepone.</Text>
+   <Text id="properties.pathZone.enableDynamicSurface" hash="bCPuUnpho0BLeTU7m4TiqjYmj/0=">Superficie dinamica</Text>
+   <Text id="properties.pathZone.enableDynamicSurface.description" hash="VZwrtQoApf7X18tNm3JlecpLjxo=">Habilita una superficie dinamica que genera NodosCamino dinamicos</Text>
+   <Text id="properties.pathZone.removeWithOwnerObject" hash="hHUBDXtLPm7J/v2rTA+FegoKEA8=">Eliminar junto con el principal</Text>
+   <Text id="properties.pathZone.removeWithOwnerObject.description" hash="x+NDnDcKbHj9vBFahEwyEW0UeQM=">Elimina esta zona cuando el objeto principal es destruido o removido.</Text>
+   <Text id="properties.pathNodeEnableTrigger.nodesToAffect" hash="G1yrNnUONG8sjhFVq7rCmda7Uew=">NodosCamino/Conexión a afectar</Text>
+   <Text id="properties.pathNodeEnableTrigger.nodesToAffect.description" hash="5X+BjoSi+g9WFxAoGexCmw+sAuQ=">NodosCamino/Conexión a afectar cuando se active este gatillo.</Text>
+   <Text id="properties.pathNodeEnableTrigger.newState" hash="yIV3iRf0+Sbuz9fErd9mpmSKsrs=">Nuevo estado habilitado</Text>
+   <Text id="properties.pathNodeEnableTrigger.newState.description" hash="EuBGMw3vj06VmfEIEl/gmLxBWpQ=">El nuevo estado habilitado a usar cuando se active este gatillo.</Text>
+   <Text id="properties.pathNodeEnableTrigger.newState.enable" hash="+mUnY0m6Y7DeGtpYVP1cRZ14WQc=">Activar nodos</Text>
+   <Text id="properties.pathNodeEnableTrigger.newState.disable" hash="g43sCTSMwBcDqw8EPawFPg26a3Q=">Desactivar nodos</Text>
+   <Text id="properties.pathNodeEnableTrigger.newState.toggle" hash="tXR2qODBnHxoFM4kcThZ8MgLX7c=">Cambiar nodos</Text>
+   <Text id="items.Ammo" hash="xJuTEilXnWqRDewP74EBS3/2oIs=">{0} munición</Text>
+   <Text id="items.Pistol" hash="GI6O5nPVOotKHH7SE1RcQGXCeHk=">Pistola</Text>
+   <Text id="items.Pistol45" hash="0pkrRh+qqG8OzvdVJ9YgR1c6ZAI=">Pistola .45</Text>
+   <Text id="items.StrengthBoost" hash="7Pu1xuLVOnqqx9S4nIjhGy5MaM4=">Incremento de fuerza</Text>
+   <Text id="items.SilencedPistol" hash="0DlrtYDyVv9wl2bmuFoxIRz/C4E=">Pistola silenciada</Text>
+   <Text id="items.Pump-action_Shotgun" hash="9da815qbcjJR25XUqqCdxLhLDFA=">Escopeta de bombeo</Text>
+   <Text id="items.Laser_Sight" hash="Gn9ji2MHNn5AybOrynsE99nk1NI=">Mira láser</Text>
+   <Text id="items.Grenades" hash="MxuVbqYBkVJBphFYjrC5O+rei88=">Granadas</Text>
+   <Text id="items.Molotovs" hash="VDEzLGBXtwrWdxB4Aqia58VUaPk=">Cóctel molotov</Text>
+   <Text id="items.Flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Lanzallamas</Text>
+   <Text id="items.5_Sec_Slomo" hash="c2iBOnB5TxqJe58WRkqce/gQUrc=">5 seg cámara lenta</Text>
+   <Text id="items.10_Sec_Slomo" hash="dsnSFti9OCQQ2TFSvxeJ6qMaM2w=">10 seg cámara lenta</Text>
+   <Text id="items.+50" hash="NbqgbPutgBb2hyxbK+IaZxBYN94=">+50</Text>
+   <Text id="items.+25" hash="wdhBdNVLeqQcnHbRjXZSr0l9I0k=">+25</Text>
+   <Text id="items.Uzi" hash="lwnIouPnQLQ6mN15j3i3iRj5Gu0=">Uzi</Text>
+   <Text id="items.SilencedUzi" hash="jkDPYHkkCRIl/5GjxaB8ZoJDvEA=">Uzi silenciada</Text>
+   <Text id="items.Machete" hash="Nj4MbWkAvtSi/JU0iuv3X5fUtIs=">Machete</Text>
+   <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Bate de béisbol</Text>
+   <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Porra</Text>
+   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Escopeta recortada</Text>
+   <Text id="items.Magnum" hash="wVZrJiUPdLGNQGEtXnnqy+bwARk=">Magnum</Text>
+   <Text id="items.Revolver" hash="mUKlKMUGCqmqrmaC1FtRsafLTQI=">Revólver</Text>
+   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Pistola de bengalas</Text>
+   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Llave de tubos</Text>
+   <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Martillo</Text>
+   <Text id="items.Bazooka" hash="GmcVsXcRJNTdFp6Fa5aQb7cPH5A=">Bazuca</Text>
+   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Ametralladora ligera</Text>
+   <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Hacha de incendios</Text>
+   <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Katana</Text>
+   <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Rifle de francotirador</Text>
+   <Text id="items.Assault_Rifle" hash="p8L3JAYhqf5bAbKsoklB/6TULJM=">Rifle de asalto</Text>
+   <Text id="items.Carbine" hash="8dqypBHRT9iqQsNxFM2v7jRzVD0=">Carabina</Text>
+   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Lanzagranadas</Text>
+   <Text id="items.SMG" hash="plLiiwBKFVSHF1Nyh/0Y9N66t9o=">Subfusil</Text>
+   <Text id="items.Tommygun" hash="cFILm9D/P2Q1oXNHID/IS6z4HXo=">Tommygun</Text>
+   <Text id="items.Mines" hash="PoJddSyOj+Tq65smnsRN7V7ca6I=">Minas</Text>
+   <Text id="items.Knife" hash="esdg0QFJ9B44jnQK7M9j6P8eC0c=">Cuchillo</Text>
+   <Text id="items.Pillow" hash="JK9Oz/wWTG1BsMQi8O18Vh7t00g=">Almohada</Text>
+   <Text id="items.Flagpole" hash="kdG598xZnUqTjWy/MEyY646ah44=">Asta</Text>
+   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Cadena</Text>
+   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Tetera</Text>
+   <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Tapa de bote de basura</Text>
+   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Bolsa de basura</Text>
+   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">C4</Text>
+   <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">Detonador C4</Text>
+   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Tubería</Text>
+   <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Porra eléctrica</Text>
+   <Text id="items.MP50" hash="bvuOTKg3E225S94Q60TjNeAu4Ew=">MP 50</Text>
+   <Text id="items.Dark_Shotgun" hash="+H/J4SpD2jfFEow2A1DYnUqfjL4=">Escopeta antidisturbios</Text>
+   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Pistola ametralladora</Text>
+   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Botella</Text>
+   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Botella rota</Text>
+   <Text id="items.Chair" hash="n+tTdsXdmufGOIkcjCWX5je2cJ0=">Silla</Text>
+   <Text id="items.Chair_Leg" hash="P/F1hUn/29uUefHKqZ+jP7gXk4E=">Pata de silla</Text>
+   <Text id="items.CueStick" hash="TV2BeZesmhzaG/4U1vdhjKA7uq4=">Palo de billar</Text>
+   <Text id="items.BrokenCueStick" hash="50EGSVXLmJ9EdiaQ9D/M2SrSzrs=">Palo de billar roto</Text>
+   <Text id="items.Suitcase" hash="zaPYIIVgG6yCblj1hrfN1AzlIrY=">Maleta</Text>
+   <Text id="items.Baseball" hash="7C13RMYDuvUH5mv4KDXftiBGVqg=">Bola de béisbol</Text>
+   <Text id="items.Chainsaw" hash="u/4B1YmWmCyKMuwjT+8AtA+fjWc=">Motosierra</Text>
+   <Text id="items.SpeedBoost" hash="sZ61KE2LMAQfUNLlQcPXZzUTALQ=">Incremento de velocidad</Text>
+   <Text id="items.Bow" hash="oXlCIyEBKKWrSTSaHKXGf10xwvo=">Arco</Text>
+   <Text id="items.Shuriken" hash="7tGqbd2FpzarkPwVumSSy3wrm6M=">Shuriken</Text>
+   <Text id="items.Whip" hash="2o7oVVTLXFmZ5g+halcv7AwDSwU=">Látigo</Text>
+   <Text id="items.BouncingAmmo" hash="78Mzg4ltk97ULFquc77MhgP4jcw=">Munición rebotante</Text>
+   <Text id="items.FireAmmo" hash="wDrG7KNF7L2G0Gz7xTSbrfDTh+A=">Munición incendiaria</Text>
+   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Streetsweeper</Text>
+   <Text id="equipment.layer.skin" hash="j1e9YTJ4NAZlVo/tfIi0Ht+bRmU=">Apariencia</Text>
+   <Text id="equipment.layer.chestUnder" hash="ZgIX7PasYRf+ZnQMmc3VM6OHKto=">Pecho (por debajo)</Text>
+   <Text id="equipment.layer.waist" hash="BbUW1vYaFyPy45wfNUegKqsR+jM=">Cintura</Text>
+   <Text id="equipment.layer.chestOver" hash="ppCW7GAQDcxmQuTsBN8r6uCxUVg=">Pecho (por sobre)</Text>
+   <Text id="equipment.layer.accessory" hash="liQD9troRte2mQTlrHdcF+Wki94=">Accesorio</Text>
+   <Text id="equipment.layer.hands" hash="H448fNO443i7V0SZlV8MsMEP2SY=">Manos</Text>
+   <Text id="equipment.layer.head" hash="5f/RW+cGkxLj2d4hCJsVARiSd6Y=">Cabeza</Text>
+   <Text id="equipment.layer.legs" hash="KVGNBFLX5qgnGbiFX0TcfPNJS4g=">Piernas</Text>
+   <Text id="equipment.layer.feet" hash="cDfITjGZ8u2B2wvd1FkJa2KAyQg=">Pies</Text>
+   <Text id="mapEditor" hash="Yw6WzAnMdpZFHFWLiomR9L9El8I=">Editor de mapas</Text>
+   <Text id="mapEditor.scriptDialog" hash="xk2uAFOa0MKvY3H56qST3juulIg=">Editor de scripts</Text>
+   <Text id="mapEditor.scriptDialog.compileToolStripMenuItem" hash="wvPmEO+q0xiTyp7qAuvaP3DJEmE=">Compilar</Text>
+   <Text id="mapEditor.scriptDialog.scriptAPIToolStripMenuItem" hash="+xrK+35vVwkPjXbB4NlrbrM/vIs=">Script API</Text>
+   <Text id="mapEditor.scriptDialog.errorList" hash="APV/W7YS/qXOWpLoJVXqRK8BmtY=">Lista de errores</Text>
+   <Text id="mapEditor.scriptDialog.errorNr" hash="fy9qFc+NorJ+Wkr0e1jnrXHAs9k=">Error</Text>
+   <Text id="mapEditor.scriptDialog.errorDescription" hash="VfjryAXmW1tx3a/a45DjvivNaa8=">Descripción</Text>
+   <Text id="mapEditor.scriptDialog.errorSource" hash="baE63bAAtn1CptZjkXE4GeY0FJ8=">Fuente</Text>
+   <Text id="mapEditor.scriptDialog.errorType" hash="Pet0VlGWl+z07vxFVRbJaaNoG64=">Tipo</Text>
+   <Text id="mapEditor.scriptDialog.errorType.error" hash="fy9qFc+NorJ+Wkr0e1jnrXHAs9k=">Error</Text>
+   <Text id="mapEditor.scriptDialog.errorType.warning" hash="6cRVYzWOgT8Ve6gbMxQ1QhZbqE4=">Advertencia</Text>
+   <Text id="mapEditor.scriptDialog.errorRow" hash="m/eo6JCb/UkbOFYaQrslWWadXGM=">Fila</Text>
+   <Text id="mapEditor.scriptDialog.errorColumn" hash="ZboA6V5g+4lx5pnHcZCOfEHZFiQ=">Columna</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.errors" hash="y/S3Ir8QEJvyNFWcBX/jgDP5LAQ=">El script fallo, corrige los errores y vuelve a compilar.</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.OK" hash="1KruPmjdC/1uWkNjB/l/l+nTU/g=">El script se compilo correctamente.</Text>
+   <Text id="mapEditor.weaponSpawnChanceDialog.title" hash="/YPanOoIoYvN2gMaIjpLdWUu4O4=">Probabilidades de que aparesca un arma</Text>
+   <Text id="mapEditor.weaponSpawnChanceDialog.resetToDefault" hash="3e/kfWl7L1u9CKFG/GHEXvjPL/s=">Resetear a ajustes prestablecidos</Text>
+   <Text id="mapEditor.weaponSpawnChanceDialog.spawnChance" hash="0IyRuvkfkNa68I0XEC41fc/A3VI=">Probabilidades de aparecer: {0}</Text>
+   <Text id="mapEditor.weaponSpawnChanceDialog.spawnChanceDefault" hash="dkVpkTyrkPw9Lg75UPl7zMj38E4=">Probabilidades de aparecer: Por defecto</Text>
+   <Text id="mapEditor.weaponSpawnChanceDialog.spawnChance.tooltip" hash="l9jR3QGpl6luKj+3HTRsHhQI3ws=">Probabilidades de aparecer para el item. Probabilidad por defecto = {0}. No tiene probabilidades = 0. Mientras mas alto sea el valor positivo = Mas probabilidades de aparecer.</Text>
+   <Text id="mapEditor.mapTestOptions.title" hash="SfvFPQk7+l3hth1OZnXR62Jsk3M=">Opciones de prueba</Text>
+   <Text id="mapEditor.mapTestOptions.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Jugadores</Text>
+   <Text id="mapEditor.mapTestOptions.survivalStartWave" hash="31ryDsWnLcGPOhzEu+N0bZWe8JM=">Primera ronda de supervivencia</Text>
+   <Text id="mapEditor.mapThumbnailDialog.title" hash="h3HT+ctEFSN1LETtvz9qxyrs4PY=">Vista previa del mapa</Text>
+   <Text id="mapEditor.mapThumbnailDialog.image" hash="UOGf2g1bS3SkoaHVhOVleGk6TqQ=">Imagen</Text>
+   <Text id="mapEditor.mapThumbnailDialog.image.tooltip" hash="AzyiOby8U7F8Ums5EHHAg/Tnj+w=">Arrastra una imagen o usa el buscador para elegir una imagen.</Text>
+   <Text id="mapEditor.mapThumbnailDialog.imagesize.title" hash="M8CGwgkauQnsfXinuzTcqedM2yM=">Tamaño de la imagen</Text>
+   <Text id="mapEditor.mapThumbnailDialog.imagesize.message" hash="wa1WddjtKy07NPmej0YQOUxMzn8=">El tamaño de la imagen debe ser {0}x{1}.</Text>
+   <Text id="mapEditor.searchDialog" hash="SvwpxG/BgXZD2vLc1RpicTlfB2k=">Buscar resultado</Text>
+   <Text id="mapEditor.searchDialog.infoLabel.plural" hash="AQ+rifm93KGIrD/yQnRzhvmSWVk=">{0} items encontrados. Haz doble click para seleccionar.</Text>
+   <Text id="mapEditor.searchDialog.infoLabel.singular" hash="nrAPZomkrZ2YaFcMY6dVDUHAvk4=">1 item encontrado. Haz doble click para seleccionarlo.</Text>
+   <Text id="mapEditor.searchDialog.infoLabel.none" hash="S3ddz96nH7E5Q0WyqJVqHtuKBGI=">No se han encontrado items.</Text>
+   <Text id="mapEditor.steamUpload.title" hash="ZDEG/xwdqXuIYpEJTdHqabJBcsQ=">Subir a la Workshop de Steam</Text>
+   <Text id="mapEditor.steamUpload.groupFileUpload" hash="ZDhf2+9Vimuz9rF3jDi5CMqTw4o=">Subir archivo</Text>
+   <Text id="mapEditor.steamUpload.itemType" hash="qfwTs+Q02U1U9yuz4I33SSS7b7k=">Tipo de item</Text>
+   <Text id="mapEditor.steamUpload.itemType.map" hash="q0ePPvyEDuurkZ3/G5USKG9wwQw=">Mapa</Text>
+   <Text id="mapEditor.steamUpload.itemType.extensionScript" hash="lvL8fAFEjEV2nhT8KuRSEohDHoc=">Extensión del script</Text>
+   <Text id="mapEditor.steamUpload.itemType.languageFile" hash="G8Ig/T2+bf6zg8IjlmB8Yq6HF5E=">Languaje XML</Text>
+   <Text id="mapEditor.steamUpload.selectedFile" hash="0bMHFc6l9tMYEaR2gjOVH1v/aw4=">Archivo seleccionado</Text>
+   <Text id="mapEditor.steamUpload.previewImage" hash="SeJtnHvUGPBtNuvGnluHblnQtXI=">Vista previa de la imagen</Text>
+   <Text id="mapEditor.steamUpload.displayTitle" hash="c/mYRs6+uboPER4KmAbk8CsllKY=">Titulo a mostrar</Text>
+   <Text id="mapEditor.steamUpload.steamPublishID" hash="Isk4nlm7hhIEY52ua9B+BBEBZaE=">ID a publicar en Steam</Text>
+   <Text id="mapEditor.steamUpload.description" hash="VfjryAXmW1tx3a/a45DjvivNaa8=">Descripción</Text>
+   <Text id="mapEditor.steamUpload.changeNote" hash="S4ETldKcYwmjpZQw4bMY2Vdh68I=">Notas de cambio</Text>
+   <Text id="mapEditor.steamUpload.termsOfService" hash="chAia0hdmKyImjHqJI8GU/vzL4Q=">Al subir este item aceptas las condiciones de uso de la Workshop de Steam.</Text>
+   <Text id="mapEditor.steamUpload.status.uploading" hash="Bw4yjsiqlt366J0uS6QW4YffsqQ=">Subiendo...</Text>
+   <Text id="mapEditor.steamUpload.validation.descriptionTooShort" hash="HWFGpxhT4vCzUTz7BDv8ERnFkV4=">La descripción es demasiado corta.</Text>
+   <Text id="mapEditor.steamUpload.warn.noPreviewImage" hash="YJ5wcOXcR5YNQddwocCHJIHv0as=">El archivo no tiene imagen de vista previa ¿Deseas subirlo igualmente?</Text>
+   <Text id="mapEditor.steamUpload.error.mapIsOpen" hash="xe5voj2w6S0xeKTTh156M4EqjrA=">El archivo esta abierto en el editor de mapas. Cierralo antes de subirlo.</Text>
+   <Text id="mapEditor.steamUpload.error.mapIsLocked" hash="Ogt4e/n067jmWyqivTdFq2qiVKY=">El archivo esta bloqueado por el autor.</Text>
+   <Text id="mapEditor.steamUpload.error.mapIsOfficial" hash="2PqWqPu/QiFq4nIOLb/3oIoLsbY=">El archivo es un mapa oficial.</Text>
+   <Text id="mapEditor.steamUpload.error.mapOwnerMissmatch" hash="X8rNrT0mNvQQDDy3kc9/3nLuXg0=">El archivo fue originalmente creado por otro usuario. Primero debes guardar el archivo usando &quot;Guardar como&quot;</Text>
+   <Text id="mapEditor.steamUpload.error.cantUploadMap" hash="2m7zkl6lOQQ7yZ4deJlx/3F3s5c=">No puedes subir este archivo. {0}</Text>
+   <Text id="mapEditor.steamUpload.error.invalidLanguageXML" hash="zOkfqbqiTBlP8faI5uul/OJ301k=">El archivo no tiene un formato reconocido por el lenguaje XML. Primero guardalo utilizando la herramienta de traducción y asegurate de que tenga un nombre.</Text>
+   <Text id="mapEditor.steamUpload.success.mapUploaded" hash="B6YZc4QK2ns7WYgtp3n4jw31LeY=">¡Subida completada!</Text>
+   <Text id="mapEditor.contextmenu.group" hash="FxoGBvfHRYD9OYLPV8SdYEEEEgo=">Agrupar</Text>
+   <Text id="mapEditor.contextmenu.ungroup" hash="KzHpaMKN+e+HG3GEyBWihjv+sPQ=">Desagrupar</Text>
+   <Text id="mapEditor.contextmenu.entergroupedit" hash="LIjRP9aK5G0I8UJ9EfjRwJ4OqE4=">Entrar en editor de grupos</Text>
+   <Text id="mapEditor.contextmenu.closegroupedit" hash="ET1H7/27QyjDyTeDQGkV9f/bwNc=">Cerrar el editor de grupos</Text>
+   <Text id="mapEditor.contextmenu.mergeintogroup" hash="Ej+SIOX4M1xXlY/VPFvD8JI/PlE=">Mesclar en grupos {0}</Text>
+   <Text id="mapEditor.contextmenu.copyvaluestoworldcameraarea" hash="rXHKqAgbeH3YRC3Qf4jFpBeGtmg=">Copia los valores a la camara mundial</Text>
+   <Text id="mapEditor.contextmenu.rotate90CW" hash="+5dnc6HN/My9P6sOIZizmh5/+dA=">Rotar 90° CW</Text>
+   <Text id="mapEditor.contextmenu.rotate90CCW" hash="NpUZ2moTFkiMpjVQp4STINnxfhc=">Rotar 90° CCW</Text>
+   <Text id="mapEditor.contextmenu.rotate180" hash="jI1U96HXnJsmaGYCc6QUfaKo0+c=">Rotar 180°</Text>
+   <Text id="mapEditor.contextmenu.flipvertically" hash="rnRnktQg4UOGveHYXZRjJqMJ83M=">Voltear verticalmente</Text>
+   <Text id="mapEditor.contextmenu.fliphorizontally" hash="lb2HClawU8reEdrA5BkkjRUfWq0=">Voltear horizontalmente</Text>
+   <Text id="mapEditor.contextmenu.rotation" hash="kG/lBogjpR1azqjS9EXPCls+2/Q=">Rotación</Text>
+   <Text id="mapEditor.contextmenu.tofront" hash="mo3HOg5qQmVWhojBKk/0AZfqa/M=">Al frente</Text>
+   <Text id="mapEditor.contextmenu.forward" hash="uk5yJhKDJYQ0eIVCujlxNcEPOdg=">Adelante</Text>
+   <Text id="mapEditor.contextmenu.backward" hash="H1uv4QEN6o1gtS2fdPdeqeARc7I=">Atras</Text>
+   <Text id="mapEditor.contextmenu.toback" hash="ect3Gi1DcZUhuiUvN1o1w/X0jrI=">Al fondo</Text>
+   <Text id="mapEditor.contextmenu.tolayer" hash="I+1fN2QTZ6St1SpniB856CJPLHA=">Mover a capa &apos;{0}&apos;</Text>
+   <Text id="mapEditor.contextmenu.tonewlayer" hash="tbXEJII2ay0AMrgwCeyR07fLZtk=">Mover a capa nueva</Text>
+   <Text id="mapEditor.contextmenu.tonewlayer.promptname" hash="M22t9WptNbZf1nzupZNZ1Oain04=">Nombre de la nueva capa</Text>
+   <Text id="mapEditor.contextmenu.arrange" hash="z90JnEdR8vmu8kkfQRERkGlW4PI=">Arreglar</Text>
+   <Text id="mapEditor.contextmenu.duplicate" hash="ly1XN52z5b521OrXCf7xrXH/A9Y=">Duplicar</Text>
+   <Text id="mapEditor.contextmenu.copy" hash="r3T3xTYqrumFv4zaPddfyAdRzlE=">Copiar</Text>
+   <Text id="mapEditor.contextmenu.cut" hash="ONE72lxAr8MtYp+B3sbBVsvqMo4=">Cortar</Text>
+   <Text id="mapEditor.contextmenu.paste" hash="2ySDAA0VTKn9dNQfxOBjpLKPqoc=">Pegar</Text>
+   <Text id="mapEditor.contextmenu.delete" hash="9v2+SNxU3Yb2MJegO9JAlN7dcTo=">Borrar</Text>
+   <Text id="mapEditor.contextmenu.show" hash="2X0e4znk7quoyskdyjfItOyPVQE=">Mostrar</Text>
+   <Text id="mapEditor.contextmenu.shortcut.shift+v" hash="mftyNDIItlJLt9QBvpcRXCqqmfU=">Shift+V</Text>
+   <Text id="mapEditor.contextmenu.shortcut.shift+h" hash="ZFXmo+NE3krBQxSpdDxsj2OE2dk=">Shift+H</Text>
+   <Text id="mapEditor.contextmenu.shortcut.ctrl+shift+up" hash="973+b8qgfftoBQ7aVX5ZxcmeGZ4=">Ctrl+Shift+Arriba</Text>
+   <Text id="mapEditor.contextmenu.shortcut.ctrl+up" hash="VfGrWQT1zx4gSmcy5RiF0gH4yew=">Ctrl+Arriba</Text>
+   <Text id="mapEditor.contextmenu.shortcut.ctrl+down" hash="GajqckfBwXFiUWAMeBuQWZSDrj8=">Ctrl+Abajo</Text>
+   <Text id="mapEditor.contextmenu.shortcut.ctrl+shift+down" hash="2YGFMfzwYy+mg/NZwNx9QzBCSU0=">Ctrl+Shift+Abajo</Text>
+   <Text id="mapEditor.fileToolStripMenuItem" hash="LDyvpNs/Ph5Rs9/0MDUC2+Qreok=">Archivo</Text>
+   <Text id="mapEditor.newToolStripMenuItem" hash="2rJP7NQ69PrqLbVN1H02G9Iq6Xs=">Nuevo mapa</Text>
+   <Text id="mapEditor.newExtensionScriptToolStripMenuItem" hash="XA1+sOHhmwIvMOpqlvcKsYoHhLc=">Nuevo Script de extensión</Text>
+   <Text id="mapEditor.closeMapToolStripMenuItem" hash="bM4Li6ALCtFRJB4necUWuyBNJD8=">Cerrar mapa</Text>
+   <Text id="mapEditor.openFolderToolStripMenuItem" hash="QWvOTkPjRHGvZfzCrPis/pVY7ZI=">Mostrar carpeta de mapas</Text>
+   <Text id="mapEditor.loadToolStripMenuItem" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Abrir</Text>
+   <Text id="mapEditor.saveToolStripMenuItem" hash="78AHo5P2bNsU1X04WCKj2eNu+HM=">Guardar</Text>
+   <Text id="mapEditor.saveAsToolStripMenuItem" hash="yCNnPMxP3K/IWfuu3yFTScZgnK8=">Guardar como nuevo</Text>
+   <Text id="mapEditor.exitToolStripMenuItem" hash="+Dtv466/E3ROhmAZVW2RKc16Vb4=">Salir</Text>
+   <Text id="mapEditor.testToolStripMenuItem" hash="ZAqyuuB77cTBY/Z5p0b3q3+10fo=">Prueba</Text>
+   <Text id="mapEditor.quickRunToolStripMenuItem" hash="+oICpo6/iXn9i0W2QgGhvLY98vM=">Probar mapa</Text>
+   <Text id="mapEditor.startOptionsToolStripMenuItem" hash="SfvFPQk7+l3hth1OZnXR62Jsk3M=">Opciones de la prueba</Text>
+   <Text id="mapEditor.toolsToolStripMenuItem" hash="T6jMhgxSsmjcajrc3nMF6UFdtbs=">Herramientas</Text>
+   <Text id="mapEditor.optionsToolStripMenuItem" hash="a/XanAgL7jqBQlhsQSqjmXETfu4=">Opciones</Text>
+   <Text id="mapEditor.tutorialToolStripMenuItem" hash="JwGpTA61XL2Vioff8+lZZz/xv1M=">Tutorial</Text>
+   <Text id="mapEditor.searchToolStripMenuItem" hash="vOBkFBd/cqtw5jh7avn4zu8NYEk=">Buscar</Text>
+   <Text id="mapEditor.toolStripButtonColors" hash="VwySsNRlAwqbwTRodCKuGh07iy0=">Paleta de colores</Text>
+   <Text id="mapEditor.languageToolToolStripMenuItem" hash="orv3EW9vhdaRKjQlkobnuabg4Zk=">Herramienta de traducción</Text>
+   <Text id="mapEditor.languageToolToolStripMenuItem.question" hash="35IVug0+6WhwRAi0idpr0o7fZvY=">¿Deseas abrir la herramienta de traducción para crear traducciones del SFD?</Text>
+   <Text id="mapEditor.mapPart.new" hash="KBu73+9jW/rntUr/bB98CYl1D0A=">Nueva parte</Text>
+   <Text id="mapEditor.mapPart.copy" hash="MU/WIuWoRX1jCmTWBZ4IklFuuDM=">Copiar parte</Text>
+   <Text id="mapEditor.mapPart.delete" hash="l20YMKXUmnCkZ90s44u/Xv2I4CI=">Borrar parte</Text>
+   <Text id="mapEditor.mapPart.orderleft" hash="1EtcH8TfGp2DWiwsWEV+UuvS8fs=">Ordenar parte izquierda</Text>
+   <Text id="mapEditor.mapPart.orderright" hash="k/OPTXoN1a3TkLmymBtAluP5KrQ=">Ordenar parte derecha</Text>
+   <Text id="mapEditor.mapPart.delete.confirm.question" hash="tZamFkrAC6XDssfUcZwkf8+UPlQ=">¿Estas seguro que deseas eliminar la parte &apos;{0}&apos;? Esto no puede deshacerse</Text>
+   <Text id="mapEditor.mapPart.delete.confirm.title" hash="vOFJNdFotqNpq6E0gLSCheW3zVk=">¿Borrar &apos;{0}&apos;?</Text>
+   <Text id="mapEditor.mapType.changeFromCampaign.mapPartsExist.text" hash="//YwPdzOzALsgSUD+6h1lQ3tDEA=">Este mapa de campaña tiene mas de una parte. Puedes cambiar el tipo de mapa con una sola parte de mapa activa.</Text>
+   <Text id="mapEditor.mapType.changeFromCampaign.mapPartsExist.title" hash="DvsiO4S12NIIksiklEsQf2HlYvI=">La parte del mapa existe.</Text>
+   <Text id="mapEditor.zoom" hash="mzy+1cSQwHRzVGqIdouim3h+nlI=">Zoom</Text>
+   <Text id="mapEditor.grid" hash="cBxIP4E88RnsgLGFoEm8/cKfkWE=">Grilla</Text>
+   <Text id="mapEditor.layer" hash="Q0NjXPI3uu9Q16Y/TifTAFnr0t8=">Capa</Text>
+   <Text id="mapEditor.tabCommon" hash="fekKZSQabNvZreSF13dxXZkoWh4=">Comun</Text>
+   <Text id="mapEditor.textBoxInfo" hash="D6LNaQxE5cnq7ok0lLG7t8/pglg=">Presiona Ctrl + Enter para agregar una nueva linea.</Text>
+   <Text id="mapEditor.newLayer" hash="JfLyYqf7qgF+xExr00z7eujMb3E=">Nueva capa</Text>
+   <Text id="mapEditor.copyLayer" hash="WCZFFAR7Ef2LBWbGLM56T1u5JfY=">Copiar capa</Text>
+   <Text id="mapEditor.removeLayer" hash="PITcm5IGUUSmgeyx3giRNIg5Xwg=">Borrar capa</Text>
+   <Text id="mapEditor.moveLayerUp" hash="xjcK3tkDbA4dy9e0woJ2qo8HV94=">Mover arriba</Text>
+   <Text id="mapEditor.moveLayerDown" hash="QVi+3C/NDiU072C2Ob9IjQP4QFg=">Mover abajo</Text>
+   <Text id="mapEditor.screenPosition" hash="XMhH+U/OcEYO8k6+0kGTGneMzGI=">Pantalla</Text>
+   <Text id="mapEditor.worldPosition" hash="cMB+wY74nFMJu7CTfzpjQkEeH90=">Mundo</Text>
+   <Text id="mapEditor.selectTarget" hash="fMddsPYq+c1+HUSJmJLs5nOQuGk=">Selecciona el objetivo. Esc / Click derecho para cancelar.</Text>
+   <Text id="mapEditor.selectTargets" hash="SoQrrpO+ULRasK5jPa1BIhMfmPU=">Selecciona los objetivos. Esc / Click izquierdo para cancelar.</Text>
+   <Text id="mapEditor.saveMap" hash="da9OYH1ypRB1hUZV1Hnv38U6l1o=">Guardar mapa</Text>
+   <Text id="mapEditor.loadMap" hash="Cudo90Ad67psR4IZVUjEDCtzdSo=">Cargar mapa</Text>
+   <Text id="mapEditor.saveChanges" hash="+imEs2e48vxc1SGTbdp7RFmHeKQ=">Guardar cambios</Text>
+   <Text id="mapEditor.saveChanges.saveQuestion" hash="K2/qIHTbTrsKP1UZ99Ul9Ay6bks=">¿Guardar cambios realizados a {0}?</Text>
+   <Text id="mapEditor.saveChangesDuringError.saveQuestion" hash="QGfJeBEflHnRVI4iX0XPImODI7A=">Ocurrio un error ¿Deseas guardar los cambios en otro archivo?</Text>
+   <Text id="mapEditor.layerLockedHidden" hash="b/YZRFiGTW6LRfmdZALX0YiqwmI=">Capa bloqueada/escondida</Text>
+   <Text id="mapEditor.layerLockedHidden.askToUnlockShow" hash="5IJ4FvCTM4lJ+AA9t5CtuE2Ihwg=">La capa &apos;{0}&apos; esta bloqueada o escondida y no puede ser editada ¿Deseas desbloquearla/mostrarla ahora?</Text>
+   <Text id="mapEditor.layersLockedHidden" hash="hFLhxJtROqeT07rD10GIcVipoq4=">Capas bloqueadas/escondidas</Text>
+   <Text id="mapEditor.layersLockedHidden.askToUnlockShow" hash="1WsYWxcHdPLLL0Nk3pKmmjeI4/c=">Algunas capas estan bloqueadas o escondidas y no puede ser editadas ¿Deseas desbloquearlas/mostrarlas ahora?</Text>
+   <Text id="mapEditor.groupSelection.layersLockedHidden.askToUnlockShow" hash="Mn1AXtJLMVIxaq5yF/8nOdfmg8g=">No puedes seleccionar un grupo mientras uno de sus objetos esta bloqueado o escondido ¿Deseas desbloquear las capas y seleccionar el grupo?</Text>
+   <Text id="mapEditor.grouping.anotherGroupAlreadySelected.infoMessage" hash="E+K1R+cHNi8ALfJi6TsISSxO9aw=">No puedes agrupar mientras otro grupo esta seleccionado.</Text>
+   <Text id="mapEditor.grouping.groupLimitReached.infoMessage" hash="8eMgSzvUzQIKCSs3W0TZhalPZ4o=">Has alcanzado el limite de grupos. No puedes crear mas.</Text>
+   <Text id="mapEditor.grouping.groupLayerLockedHidden.askToUnlockShow" hash="2D3MdTnGpTY4BNbFdl95PzeK3EA=">La capa &apos;{0}&apos; esta bloqueada o escondida. La capa debe ser editable para que puedas agrupar ¿Deseas desbloquear/mostrar la capa?</Text>
+   <Text id="mapEditor.groupsExist" hash="bUVtogYV8qDn5A6cQyykLNPgPi0=">El grupo existe</Text>
+   <Text id="mapEditor.copyLayer.warnAboutGroups" hash="38sL9ko0KhLdOyjLkAlPSXvrJ94=">El grupo existe en la capa &apos;{0}&apos;. Estos grupos no seran copiados si copias la capa.</Text>
+   <Text id="mapEditor.removeLayer.warnAboutGroups" hash="8YAnzti/bqA6qmpes3xRYUoNBV0=">El grupo existe en la capa &apos;{0}&apos;. Estos grupos seran borrados si borras la capa.</Text>
+   <Text id="mapEditor.tooltop.objectNameAndID" hash="WLmbEX0hvP4Pez18RLlQvC95Utg=">{0} (ID: {1})</Text>
+   <Text id="mapEditor.tooltop.memberInGroup" hash="EuIjCnTlO/Nr+2uRujVF/KerXrY=">Miembros del grupo {0}</Text>
+   <Text id="mapEditor.tooltop.sizeXY" hash="zU/77OkWEpDoH1wHCDVFriP81vQ=">Tamaño: ({0}, {1})</Text>
+   <Text id="mapEditor.tooltop.positionXY" hash="Mu0CsAgrZDmmpz1RBsOa6Vx5zvE=">Posición: ({0}, {1})</Text>
+   <Text id="mapEditor.tooltop.angleDegAndRad" hash="oZS3fHrtZjDW5VF02s0N2NBjAmY=">Angulo: {0} deg ({1} rad)</Text>
+   <Text id="mapEditor.settings" hash="x/c7tU2SiSLDg4u3ie6fuKWx6zc=">Opciones</Text>
+   <Text id="mapEditor.settings.general" hash="kjnuLNqE7KTDRA4qe1AUivZ9o9Q=">General</Text>
+   <Text id="mapEditor.settings.workspace" hash="TKCnXCt/p9pDZNA7csRv7hhgor8=">Espacio de trabajo</Text>
+   <Text id="mapEditor.settings.misc" hash="Cok+zo5Gmjyj2TXEn0HQjQS3Xsw=">Misc</Text>
+   <Text id="mapEditor.settings.backgroundColor" hash="+4Dyk+0XsR82j47YWloVRD4rQCM=">Color de fondo</Text>
+   <Text id="mapEditor.settings.gridColor" hash="mjGKTDp1O1ySU8Cq5PSRQvr2cPU=">Color de la grilla</Text>
+   <Text id="mapEditor.settings.worldCenterHColor" hash="0vrd3nqaqVaQp+IsX8xJk/7CVNA=">Color del Centro H</Text>
+   <Text id="mapEditor.settings.worldCenterVColor" hash="N2uiwI4UML1s0NsSggkOFFsfUIU=">Color del Centro V</Text>
+   <Text id="mapEditor.settings.cameraBoundsColor" hash="gS/T5CzEiW0HFM8s0AuqayyEiGg=">Color del Limite de la camara</Text>
+   <Text id="mapEditor.settings.worldBottomColor" hash="oyExQUgnBQAcNMoiFSRZpRip4iM=">Color del fondo del mundo</Text>
+   <Text id="mapEditor.settings.loadLastSavedFile" hash="KLILKmtBGlcXmjbf54q6ikjDSQU=">Cargar ultimo archivo guardado en el inicio</Text>
+   <Text id="mapEditor.settings.autoShowHelpForTiles" hash="K7nvQadSVzP+GR6JMT18Sywdnmg=">Mostrar ayuda para las Tiles seleccionadas cuando la ayuda este abierta</Text>
+   <Text id="mapEditor.categoryLayer.FBG" hash="ogS0Ar1U5wnRx6sFE8mn6LVrMqo=">Tiles del fondo mas lejano</Text>
+   <Text id="mapEditor.categoryLayer.BG" hash="XzqERYZJoxBbVckUBfzwDRMqKrg=">Tiles del fondo</Text>
+   <Text id="mapEditor.categoryLayer.SLD" hash="PQMr+fXBvaiAMip4LH8uMoaUCSc=">Tiles solidas</Text>
+   <Text id="mapEditor.categoryLayer.OBJ" hash="cqg63Sxe3od8ENI/MC0+F6zLras=">Objetos</Text>
+   <Text id="mapEditor.categoryLayer.DEB" hash="j2xtKkTIdFn3m68k9RcEhf50MiE=">Escombros</Text>
+   <Text id="mapEditor.categoryLayer.MAR" hash="xk+og7CwEQR69E0N7qQWUSnAh7E=">Marcadores</Text>
+   <Text id="mapEditor.categoryLayer.FG" hash="JCtVkxshOl7fldlUF+waZdgToQg=">Tiles del frente</Text>
+   <Text id="mapEditor.categoryLayer.SND" hash="oYqnW6jUfXcL5bOO3fszk/cTzUk=">Area de sonido</Text>
+   <Text id="mapEditor.categoryLayer.INV" hash="u7NXVJWd1xewB5TdpSWCy8varV8=">Tiles invalidas</Text>
+   <Text id="mapEditor.categoryLayer.THRN" hash="1/SdKT4D+UG8pHcMZUIq+0w9czA=">Items (Activos)</Text>
+   <Text id="mapEditor.categoryLayer.ITM" hash="RNJbXRttmMfQkMo2CayhGuKBX6A=">Items</Text>
+   <Text id="mapEditor.categoryLayer.PN" hash="NcIJvqZRRiQiommZHj5aSew9otw=">Caminos</Text>
+   <Text id="mapEditor.dialog.editProfileInfo" hash="dgJcPwRRLxe3PRnIEyE8NaHwzw4=">Editar información del perfil del jugador</Text>
+   <Text id="mapEditor.dialog.editProfileInfo.profileID" hash="1ERAvEXJ9PeaeZ48eVLEEeGICcc=">ID del perfil</Text>
+   <Text id="mapEditor.messages.nothingSelected" hash="nFxjw7DJRGAV842CZXmfMh9n7zU=">Nada seleccionado</Text>
+   <Text id="mapEditor.messages.selectedTilesNotColorable" hash="zflAZfmFf6QjTudJgcHdsZ5/Wb4=">Las tiles seleccionadas no pueden ser coloreadas</Text>
+   <Text id="mapEditor.messages.mapislocked" hash="1YvkOzNdQ/r2z05ejKRMdNcm3tw=">El mapa esta bloqueado</Text>
+   <Text id="mapEditor.messages.editnotallowedwhilelocked" hash="ULGN+2RXom8Eqldn37j8cr9U/A0=">No puedes editar el mapa mientras esta bloqueado</Text>
+   <Text id="mapEditor.messages.onlyscriptcanbeeditedforextensionscripts" hash="IvM505xHyT7PWszStlOS1hkieKw=">Solo el script puede ser editado para extensiones del script</Text>
+   <Text id="mapEditor.tileInformation.tile" hash="LdLGYJg3U8981+0L/G3SwSGcm8I=">Tile</Text>
+   <Text id="mapEditor.tileInformation.tiles" hash="hfXKZDoRc6Z82vB7yhcV0t7+swk=">Tiles</Text>
+   <Text id="mapEditor.tileInformation.category" hash="o8aG5xHkcg+ZtFYrs9uq56tljPI=">Categorias</Text>
+   <Text id="mapEditor.tileInformation.tileSize" hash="txUjQqJnNirdPA1/afcg96nHbJ4=">Tamaño</Text>
+   <Text id="mapEditor.tileInformation.type" hash="Pet0VlGWl+z07vxFVRbJaaNoG64=">Tipo</Text>
+   <Text id="mapEditor.tileInformation.freeRotationDisabled" hash="HYg7MLVjaCbFY/EJgOm+lMaNRYw=">Rotación libre desabilitada</Text>
+   <Text id="mapEditor.tileInformation.totalFrames" hash="4dr2AWOrpPAKFj4xOa+W72NNf9w=">Total de cuadros</Text>
+   <Text id="mapEditor.tileInformation.scriptingInterfaces" hash="dSK+y+gU2LjLw3j4kwyMpouyuLU=">Scripting</Text>
+   <Text id="mapEditor.tileInformation.helpEntry" hash="LwGZp1l+pGfdS3cNFf613DMN9Dc=">Entrada de ayuda</Text>
+   <Text id="mapEditor.tileInformation.isLadder" hash="1nHuFxhILLPJSZhSOiYUGETC2F4=">Es escalera</Text>
+   <Text id="mapEditor.tileInformation.sizeable" hash="H9nklJMA5qQk3aRMmii4NcC25G0=">Considerable</Text>
+   <Text id="mapEditor.tileInformation.textureName" hash="lbUIxB2u1LNTOcPSHjAfajpgbGs=">Nombre de la textura</Text>
+   <Text id="mapEditor.properties.selecttarget" hash="vyLPIElAAJ3/21Lo0L9Irp9IxZg=">[seleccionar objetivo]</Text>
+   <Text id="mapEditor.properties.selecttargets" hash="cy+Sbe3fPZ4QUu11jHQUJdv6y5w=">[seleccionar objetivos]</Text>
+   <Text id="mapEditor.editingGroup.infoLink" hash="mG/kUqE1akEmeYIZHVjZwccnil4=">Editando el grupo &apos;{0}&apos; - Click para cerrar.</Text>
+   <Text id="mapEditor.openDialog.question.replaceExistingFile.caption" hash="xt4xWpVmDOalCixVwFJp6JQG3nU=">¿Remplazar?</Text>
+   <Text id="mapEditor.openDialog.question.replaceExistingFile.text" hash="jc7QsNQrNWg9mHFKPaB4OiCqs7Q=">¿Deseas remplazar los archivos existentes?</Text>
+   <Text id="mapEditor.openDialog.type.sfdmap" hash="437EHbHNT0B/rByUZAL+NcOslag=">SFD Mapa</Text>
+   <Text id="mapEditor.openDialog.type.folder" hash="MLqiSWfgiWXRWUQIAx8DJK4RzKw=">Carpeta</Text>
+   <Text id="mapEditor.openDialog.type.drive" hash="oCu0WTeTQ64PQAxp9TPmi6GfOMQ=">Disco</Text>
+   <Text id="mapEditor.openDialog.type.file" hash="LDyvpNs/Ph5Rs9/0MDUC2+Qreok=">Archivo</Text>
+   <Text id="mapEditor.openDialog.type" hash="Pet0VlGWl+z07vxFVRbJaaNoG64=">Tipo</Text>
+   <Text id="mapEditor.openDialog.fileAlreadyExist" hash="wr9ktaSIzJ/QCnEJgwj00i8CVMw=">El archivo ya existe. Selecciona otro archivo.</Text>
+   <Text id="mapEditor.openDialog.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Nombre</Text>
+   <Text id="mapEditor.openDialog.createDate" hash="UCcqRclkAg4SeNr3xxmkYuLiNf0=">Crear fecha</Text>
+   <Text id="mapEditor.openDialog.modifyDate" hash="bRitdXnQQGIn41nRdMIeskvvN0g=">Cambiar fecha</Text>
+   <Text id="mapEditor.openDialog.filename" hash="o8u5jd9e6Xa8HDvlIh1mzjyi6Gc=">Nombre del archivo</Text>
+   <Text id="mapEditor.openDialog.shortcut" hash="4gEt6jENUGl72n8VgMzHCVyOWpA=">Atajo</Text>
+   <Text id="success" hash="Qqj2Udef0AXurAYS32RCuYOgEYQ=">Éxito</Text>
+   <Text id="question" hash="AC/1mBFdhFlf/u5iGctcA9Oh1KY=">Pregunta</Text>
+   <Text id="error" hash="fy9qFc+NorJ+Wkr0e1jnrXHAs9k=">Error</Text>
+   <Text id="error.failure" hash="WTb7PDcmDNTOdGgavo6iVgq6mxE=">Fracaso</Text>
+   <Text id="error.loadprofilefile" hash="ieUjNbaTdTk3728zzzxrroTVftk=">No se pudo cargar el perfil.</Text>
+   <Text id="error.createprofilefile" hash="yup78W43S3kyY3ZxNu/Q9FOTXks=">Fallo al crear perfil.</Text>
+   <Text id="error.invalidName" hash="yiZxpCWoddTcrhhlXbgXVv9jrBg=">El nombre debe contener al menos 3 letras o números juntos.</Text>
+   <Text id="error.invalidName.reserved" hash="Z1ju2SPCXTkKuu+4rd5nwCxahPg=">El nombre no puede ser &apos;{0}&apos;.</Text>
+   <Text id="error.connectionTimedOut" hash="Ushx6iLa2mVUoTY+5h+VZ8RO/YA=">Tiempo de conexión agotado</Text>
+   <Text id="error.serverStartupTimeout" hash="mX/7UopimQx9SeTc5ztuE0A/CWo=">Tiempo de servidor agotado.</Text>
+   <Text id="error.failedToLoadMap" hash="fdCE2aPfXiDZng4mlvEwdjXgMAY=">Fallo al cargar el mapa &apos;{0}&apos;.</Text>
+   <Text id="error.failedToSaveMap" hash="xFtBsvnV1b3Ta9OxG9aq0hqx86U=">Fallo al guardar el mapa en &apos;{0}&apos;.</Text>
+   <Text id="error.mapDoesntExist" hash="GS54WRHhyW6DqOuzFDBJ46kNI9Y=">El mapa &apos;{0}&apos; no pudo ser encontrado. ¿Ha sido removido o borrado?</Text>
+   <Text id="error.mapIsNewer" hash="wkDLvlxpX9cYKQL27WseqjTVeLA=">El mapa &apos;{0}&apos; es de una versión más nueva y no puede ser abierto en esta versión del juego.</Text>
+   <Text id="error.mapIsEditLocked" hash="MDrHz1/m2Og3nFLwqfW2TO95F6k=">El mapa &apos;{0}&apos; está bloqueado por el autor y no puede ser editado.</Text>
+   <Text id="error.lostServerConnection" hash="TRhtBf6aNXsyeVy9PmlivET4fZk=">Conexión perdida con el servidor.</Text>
+   <Text id="error.onlineService.callFailed" hash="+Pjv455lmtJ3ewL64+nWikG/w9s=">Servicio en línea fallido. Asegurate que el juego pueda conectar con {0}</Text>
+   <Text id="error.onlineService.accountOffline" hash="yBW9KOX2UneJBzBjd2SF/YZn6iY=">Necesitas estar en línea para acceder a esta característica.</Text>
+   <Text id="error.chatMessageRejectedAsSpam" hash="+T31DD7CvfMyfZVPNu9xNwMp3uA=">Has enviado muchos mensajes recientemente.</Text>
+   <Text id="error.chatMessageDisabled" hash="Shz9ybdQzKazCNQsaFjCe5OBQd0=">El chat está desactivado.</Text>
+   <Text id="error.modPassDenied" hash="I7IHCanZNQiZ8ZIMH64KH3dexdQ=">La contraseña de moderador es invalida o no eres un moderador en este servidor.</Text>
+   <Text id="error.IO.Delete.SecurityException" hash="06ET4gdS/dok+wmfnpAV98yYywo=">No se pueden eliminar archivos, excepción de seguridad.</Text>
+   <Text id="error.IO.Create.SecurityException" hash="u3813aja6lZINABvK7quHcr9uGk=">No se pueden crear archivos, excepción de seguridad.</Text>
+   <Text id="error.IO.Delete.UnauthorizedAccessException" hash="vdfrXzt86CzCjW1Gyj9Af5Jxn5k=">No se pueden eliminar archivos, acceso no autorizado.</Text>
+   <Text id="error.IO.Create.UnauthorizedAccessException" hash="3NPfPAVgx7mXJp7dZARsCn5ZnNg=">No se pueden crear archivos, acceso no autorizado.</Text>
+   <Text id="error.IO.Delete.Exception" hash="9oYSwx7HW6CBA/KBW4u36Tr64Wo=">No se pueden borrar archivos.</Text>
+   <Text id="error.IO.Create.Exception" hash="ZWn01S/UJl2C7/+Z7hNCV8fg4rU=">No se pueden crear archivos.</Text>
+   <Text id="error.server.portinuse" hash="UhsRYl7upRicgdXTarBWRdqHkBY=">El puerto {0} ya está en uso.</Text>
+   <Text id="error.mapEditor.IOTestFailed" hash="XSMhWOAtDtKXGEA6EUcQ8V05od4=">Error: {0}\r\nParece que su acceso a IO está restringido en {1}. Asegúrese de que puede crear y eliminar archivos en esa carpeta e inténtelo de nuevo. \r\nAún puede usar el editor de mapas, pero es posible que no pueda guardar nada creado en el editor de mapas.</Text>
+   <Text id="error.mapScript.scriptError" hash="OprVM6gLJPsn7wPP7ciUV4aDWa0=">El script contiene errores. El script se deshabilitara.</Text>
+   <Text id="error.mapScript.createTempFileError.detailed" hash="HsqJZwa7WqGfBnIwpZ52FqREE/0=">No se pudo crear un archivo temporal para el script de mapa. \r\n{0}</Text>
+   <Text id="error.mapScript.createTempFileError" hash="GaPAuZTdn0yi2owNFSu5H0jCqEY=">No se pudo crear un archivo temporal para el script de mapa. - Asegúrese de que tiene privilegios. Los scripts serán deshabilitados.</Text>
+   <Text id="error.mapScript.propertyGameNotice" hash="2FGb6/fSm2ctICH/DaYSd+tv3Jk=">La propiedad &apos;Game&apos; solo puede ser usada dentro de las funciones.</Text>
+   <Text id="error.mapScript.scriptMethodNotFound" hash="g+ydRJo0o2uBMBK6nOUdZbw/+9o=">No se puede encontrar el metodo con firma &apos;{0} en el script &apos;{1}&apos;</Text>
+   <Text id="error.mapScript.scriptMethodError" hash="UZnUfS9bSsVdbk9gIvAe8/XUjug=">El metodo con firma &apos;{0}&apos; fallo en el script &apos;{1}&apos;</Text>
+   <Text id="error.mapScript.scriptMethodSecurityError" hash="oVw1JGR2te7P/k8aXPpTYJr+1O0=">El metodo &apos;{0}&apos; se detuvo por razones de seguridad en el script &apos;{1}&apos;</Text>
+   <Text id="error.mapScript.mapScriptsDisabled" hash="g+Lni5Dicvm03FHSwmx4f/Ri0/k=">Scripts de mapas deshabilitados en la config.ini</Text>
+</Texts>
